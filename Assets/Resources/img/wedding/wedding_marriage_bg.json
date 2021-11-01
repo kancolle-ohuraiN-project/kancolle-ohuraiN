@@ -1,0 +1,114 @@
+{
+    "frames": {
+        "wedding_marriage_bg_0": {
+            "frame": {
+                "x": 0,
+                "y": 1445,
+                "w": 1200,
+                "h": 2160
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 2160
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 2160
+            }
+        },
+        "wedding_marriage_bg_1": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 2400,
+                "h": 1440
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 2400,
+                "h": 1440
+            },
+            "sourceSize": {
+                "w": 2400,
+                "h": 1440
+            }
+        },
+        "wedding_marriage_bg_2": {
+            "frame": {
+                "x": 2405,
+                "y": 0,
+                "w": 1200,
+                "h": 1503
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 1503
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 1503
+            }
+        },
+        "wedding_marriage_bg_3": {
+            "frame": {
+                "x": 2405,
+                "y": 1508,
+                "w": 1200,
+                "h": 720
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 720
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 720
+            }
+        },
+        "wedding_marriage_bg_4": {
+            "frame": {
+                "x": 1205,
+                "y": 2233,
+                "w": 2400,
+                "h": 1440
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 2400,
+                "h": 1440
+            },
+            "sourceSize": {
+                "w": 2400,
+                "h": 1440
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "wedding_marriage_bg.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 3605,
+            "h": 3673
+        },
+        "scale": 1
+    }
+}

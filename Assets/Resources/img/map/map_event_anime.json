@@ -1,0 +1,614 @@
+{
+    "frames": {
+        "map_event_anime_0": {
+            "frame": {
+                "x": 144,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_1": {
+            "frame": {
+                "x": 432,
+                "y": 273,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_2": {
+            "frame": {
+                "x": 0,
+                "y": 91,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_3": {
+            "frame": {
+                "x": 144,
+                "y": 91,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_4": {
+            "frame": {
+                "x": 0,
+                "y": 182,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_5": {
+            "frame": {
+                "x": 144,
+                "y": 182,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_6": {
+            "frame": {
+                "x": 288,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_7": {
+            "frame": {
+                "x": 288,
+                "y": 91,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_8": {
+            "frame": {
+                "x": 288,
+                "y": 182,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_9": {
+            "frame": {
+                "x": 0,
+                "y": 273,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_10": {
+            "frame": {
+                "x": 144,
+                "y": 273,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_11": {
+            "frame": {
+                "x": 288,
+                "y": 273,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_12": {
+            "frame": {
+                "x": 432,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_13": {
+            "frame": {
+                "x": 432,
+                "y": 91,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_14": {
+            "frame": {
+                "x": 432,
+                "y": 182,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_15": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_16": {
+            "frame": {
+                "x": 0,
+                "y": 364,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_17": {
+            "frame": {
+                "x": 144,
+                "y": 364,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_18": {
+            "frame": {
+                "x": 288,
+                "y": 364,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_19": {
+            "frame": {
+                "x": 432,
+                "y": 364,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_20": {
+            "frame": {
+                "x": 0,
+                "y": 455,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_21": {
+            "frame": {
+                "x": 144,
+                "y": 455,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_22": {
+            "frame": {
+                "x": 288,
+                "y": 455,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_23": {
+            "frame": {
+                "x": 432,
+                "y": 455,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_24": {
+            "frame": {
+                "x": 576,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_25": {
+            "frame": {
+                "x": 576,
+                "y": 91,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_26": {
+            "frame": {
+                "x": 576,
+                "y": 182,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_27": {
+            "frame": {
+                "x": 576,
+                "y": 273,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_28": {
+            "frame": {
+                "x": 576,
+                "y": 364,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        },
+        "map_event_anime_29": {
+            "frame": {
+                "x": 576,
+                "y": 455,
+                "w": 139,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 86
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "map_event_anime.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 715,
+            "h": 541
+        },
+        "scale": 1
+    }
+}

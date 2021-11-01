@@ -1,0 +1,3574 @@
+{
+    "frames": {
+        "arsenal_main_0": {
+            "frame": {
+                "x": 1926,
+                "y": 844,
+                "w": 25,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 25,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 25,
+                "h": 12
+            }
+        },
+        "arsenal_main_1": {
+            "frame": {
+                "x": 1023,
+                "y": 1168,
+                "w": 352,
+                "h": 91
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 352,
+                "h": 91
+            },
+            "sourceSize": {
+                "w": 352,
+                "h": 91
+            }
+        },
+        "arsenal_main_2": {
+            "frame": {
+                "x": 1266,
+                "y": 572,
+                "w": 237,
+                "h": 91
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 237,
+                "h": 91
+            },
+            "sourceSize": {
+                "w": 237,
+                "h": 91
+            }
+        },
+        "arsenal_main_3": {
+            "frame": {
+                "x": 1735,
+                "y": 1633,
+                "w": 166,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 166,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 166,
+                "h": 22
+            }
+        },
+        "arsenal_main_4": {
+            "frame": {
+                "x": 821,
+                "y": 1394,
+                "w": 145,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 21
+            }
+        },
+        "arsenal_main_5": {
+            "frame": {
+                "x": 1112,
+                "y": 1394,
+                "w": 129,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 21
+            }
+        },
+        "arsenal_main_6": {
+            "frame": {
+                "x": 1380,
+                "y": 1394,
+                "w": 82,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 82,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 82,
+                "h": 21
+            }
+        },
+        "arsenal_main_7": {
+            "frame": {
+                "x": 1246,
+                "y": 1394,
+                "w": 129,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 21
+            }
+        },
+        "arsenal_main_8": {
+            "frame": {
+                "x": 971,
+                "y": 1394,
+                "w": 136,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 136,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 136,
+                "h": 21
+            }
+        },
+        "arsenal_main_9": {
+            "frame": {
+                "x": 1906,
+                "y": 1633,
+                "w": 85,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 22
+            }
+        },
+        "arsenal_main_10": {
+            "frame": {
+                "x": 1959,
+                "y": 160,
+                "w": 31,
+                "h": 31
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 31,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 31,
+                "h": 31
+            }
+        },
+        "arsenal_main_11": {
+            "frame": {
+                "x": 1959,
+                "y": 196,
+                "w": 31,
+                "h": 31
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 31,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 31,
+                "h": 31
+            }
+        },
+        "arsenal_main_12": {
+            "frame": {
+                "x": 1953,
+                "y": 620,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 24
+            }
+        },
+        "arsenal_main_13": {
+            "frame": {
+                "x": 1953,
+                "y": 540,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 24
+            }
+        },
+        "arsenal_main_14": {
+            "frame": {
+                "x": 1953,
+                "y": 460,
+                "w": 24,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 24
+            }
+        },
+        "arsenal_main_15": {
+            "frame": {
+                "x": 1959,
+                "y": 246,
+                "w": 31,
+                "h": 31
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 31,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 31,
+                "h": 31
+            }
+        },
+        "arsenal_main_16": {
+            "frame": {
+                "x": 1959,
+                "y": 282,
+                "w": 31,
+                "h": 31
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 31,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 31,
+                "h": 31
+            }
+        },
+        "arsenal_main_17": {
+            "frame": {
+                "x": 1735,
+                "y": 1319,
+                "w": 210,
+                "h": 63
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 63
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 63
+            }
+        },
+        "arsenal_main_18": {
+            "frame": {
+                "x": 1735,
+                "y": 1183,
+                "w": 210,
+                "h": 63
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 63
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 63
+            }
+        },
+        "arsenal_main_19": {
+            "frame": {
+                "x": 1735,
+                "y": 332,
+                "w": 219,
+                "h": 81
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 81
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 81
+            }
+        },
+        "arsenal_main_20": {
+            "frame": {
+                "x": 1735,
+                "y": 246,
+                "w": 219,
+                "h": 81
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 81
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 81
+            }
+        },
+        "arsenal_main_21": {
+            "frame": {
+                "x": 1735,
+                "y": 160,
+                "w": 219,
+                "h": 81
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 81
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 81
+            }
+        },
+        "arsenal_main_22": {
+            "frame": {
+                "x": 1735,
+                "y": 1485,
+                "w": 112,
+                "h": 93
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 112,
+                "h": 93
+            },
+            "sourceSize": {
+                "w": 112,
+                "h": 93
+            }
+        },
+        "arsenal_main_23": {
+            "frame": {
+                "x": 1852,
+                "y": 1387,
+                "w": 112,
+                "h": 93
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 112,
+                "h": 93
+            },
+            "sourceSize": {
+                "w": 112,
+                "h": 93
+            }
+        },
+        "arsenal_main_24": {
+            "frame": {
+                "x": 1735,
+                "y": 1387,
+                "w": 112,
+                "h": 93
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 112,
+                "h": 93
+            },
+            "sourceSize": {
+                "w": 112,
+                "h": 93
+            }
+        },
+        "arsenal_main_25": {
+            "frame": {
+                "x": 832,
+                "y": 1581,
+                "w": 259,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 259,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 259,
+                "h": 75
+            }
+        },
+        "arsenal_main_26": {
+            "frame": {
+                "x": 1096,
+                "y": 1581,
+                "w": 259,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 259,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 259,
+                "h": 75
+            }
+        },
+        "arsenal_main_27": {
+            "frame": {
+                "x": 1360,
+                "y": 1581,
+                "w": 259,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 259,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 259,
+                "h": 75
+            }
+        },
+        "arsenal_main_28": {
+            "frame": {
+                "x": 1735,
+                "y": 578,
+                "w": 213,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 213,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 213,
+                "h": 75
+            }
+        },
+        "arsenal_main_29": {
+            "frame": {
+                "x": 1735,
+                "y": 498,
+                "w": 213,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 213,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 213,
+                "h": 75
+            }
+        },
+        "arsenal_main_30": {
+            "frame": {
+                "x": 1735,
+                "y": 418,
+                "w": 213,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 213,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 213,
+                "h": 75
+            }
+        },
+        "arsenal_main_31": {
+            "frame": {
+                "x": 1735,
+                "y": 80,
+                "w": 259,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 259,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 259,
+                "h": 75
+            }
+        },
+        "arsenal_main_32": {
+            "frame": {
+                "x": 568,
+                "y": 1581,
+                "w": 259,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 259,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 259,
+                "h": 75
+            }
+        },
+        "arsenal_main_33": {
+            "frame": {
+                "x": 1735,
+                "y": 0,
+                "w": 259,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 259,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 259,
+                "h": 75
+            }
+        },
+        "arsenal_main_34": {
+            "frame": {
+                "x": 1363,
+                "y": 1130,
+                "w": 120,
+                "h": 30
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 30
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 30
+            }
+        },
+        "arsenal_main_35": {
+            "frame": {
+                "x": 1852,
+                "y": 1485,
+                "w": 141,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 141,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 141,
+                "h": 45
+            }
+        },
+        "arsenal_main_36": {
+            "frame": {
+                "x": 1735,
+                "y": 1583,
+                "w": 180,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 45
+            }
+        },
+        "arsenal_main_37": {
+            "frame": {
+                "x": 1735,
+                "y": 1251,
+                "w": 210,
+                "h": 63
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 63
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 63
+            }
+        },
+        "arsenal_main_38": {
+            "frame": {
+                "x": 1238,
+                "y": 1130,
+                "w": 120,
+                "h": 30
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 30
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 30
+            }
+        },
+        "arsenal_main_39": {
+            "frame": {
+                "x": 1562,
+                "y": 350,
+                "w": 141,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 141,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 141,
+                "h": 45
+            }
+        },
+        "arsenal_main_40": {
+            "frame": {
+                "x": 1079,
+                "y": 1661,
+                "w": 90,
+                "h": 30
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 90,
+                "h": 30
+            },
+            "sourceSize": {
+                "w": 90,
+                "h": 30
+            }
+        },
+        "arsenal_main_41": {
+            "frame": {
+                "x": 1174,
+                "y": 1661,
+                "w": 90,
+                "h": 30
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 90,
+                "h": 30
+            },
+            "sourceSize": {
+                "w": 90,
+                "h": 30
+            }
+        },
+        "arsenal_main_42": {
+            "frame": {
+                "x": 1959,
+                "y": 394,
+                "w": 24,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 16
+            }
+        },
+        "arsenal_main_43": {
+            "frame": {
+                "x": 1950,
+                "y": 1225,
+                "w": 24,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 16
+            }
+        },
+        "arsenal_main_44": {
+            "frame": {
+                "x": 1252,
+                "y": 812,
+                "w": 180,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 45
+            }
+        },
+        "arsenal_main_45": {
+            "frame": {
+                "x": 1266,
+                "y": 668,
+                "w": 204,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 204,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 204,
+                "h": 16
+            }
+        },
+        "arsenal_main_46": {
+            "frame": {
+                "x": 1095,
+                "y": 541,
+                "w": 286,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 286,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 286,
+                "h": 16
+            }
+        },
+        "arsenal_main_47": {
+            "frame": {
+                "x": 284,
+                "y": 1581,
+                "w": 279,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 279,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 279,
+                "h": 75
+            }
+        },
+        "arsenal_main_48": {
+            "frame": {
+                "x": 837,
+                "y": 1498,
+                "w": 279,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 279,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 279,
+                "h": 75
+            }
+        },
+        "arsenal_main_49": {
+            "frame": {
+                "x": 1121,
+                "y": 1498,
+                "w": 279,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 279,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 279,
+                "h": 75
+            }
+        },
+        "arsenal_main_50": {
+            "frame": {
+                "x": 1405,
+                "y": 1498,
+                "w": 279,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 279,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 279,
+                "h": 75
+            }
+        },
+        "arsenal_main_51": {
+            "frame": {
+                "x": 0,
+                "y": 1581,
+                "w": 279,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 279,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 279,
+                "h": 75
+            }
+        },
+        "arsenal_main_52": {
+            "frame": {
+                "x": 1735,
+                "y": 1103,
+                "w": 186,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 186,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 186,
+                "h": 75
+            }
+        },
+        "arsenal_main_53": {
+            "frame": {
+                "x": 1735,
+                "y": 1023,
+                "w": 186,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 186,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 186,
+                "h": 75
+            }
+        },
+        "arsenal_main_54": {
+            "frame": {
+                "x": 1735,
+                "y": 863,
+                "w": 186,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 186,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 186,
+                "h": 75
+            }
+        },
+        "arsenal_main_55": {
+            "frame": {
+                "x": 1735,
+                "y": 783,
+                "w": 186,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 186,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 186,
+                "h": 75
+            }
+        },
+        "arsenal_main_56": {
+            "frame": {
+                "x": 1735,
+                "y": 943,
+                "w": 186,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 186,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 186,
+                "h": 75
+            }
+        },
+        "arsenal_main_57": {
+            "frame": {
+                "x": 600,
+                "y": 891,
+                "w": 321,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 321,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 321,
+                "h": 142
+            }
+        },
+        "arsenal_main_58": {
+            "frame": {
+                "x": 990,
+                "y": 1661,
+                "w": 84,
+                "h": 34
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 84,
+                "h": 34
+            },
+            "sourceSize": {
+                "w": 84,
+                "h": 34
+            }
+        },
+        "arsenal_main_59": {
+            "frame": {
+                "x": 1920,
+                "y": 1583,
+                "w": 71,
+                "h": 33
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 71,
+                "h": 33
+            },
+            "sourceSize": {
+                "w": 71,
+                "h": 33
+            }
+        },
+        "arsenal_main_60": {
+            "frame": {
+                "x": 1463,
+                "y": 479,
+                "w": 86,
+                "h": 34
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 86,
+                "h": 34
+            },
+            "sourceSize": {
+                "w": 86,
+                "h": 34
+            }
+        },
+        "arsenal_main_61": {
+            "frame": {
+                "x": 0,
+                "y": 572,
+                "w": 295,
+                "h": 591
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 295,
+                "h": 591
+            },
+            "sourceSize": {
+                "w": 295,
+                "h": 591
+            }
+        },
+        "arsenal_main_62": {
+            "frame": {
+                "x": 300,
+                "y": 572,
+                "w": 295,
+                "h": 591
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 295,
+                "h": 591
+            },
+            "sourceSize": {
+                "w": 295,
+                "h": 591
+            }
+        },
+        "arsenal_main_63": {
+            "frame": {
+                "x": 1449,
+                "y": 1264,
+                "w": 96,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 96,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 96,
+                "h": 22
+            }
+        },
+        "arsenal_main_64": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 793,
+                "h": 567
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 793,
+                "h": 567
+            },
+            "sourceSize": {
+                "w": 793,
+                "h": 567
+            }
+        },
+        "arsenal_main_65": {
+            "frame": {
+                "x": 600,
+                "y": 1038,
+                "w": 384,
+                "h": 87
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 384,
+                "h": 87
+            },
+            "sourceSize": {
+                "w": 384,
+                "h": 87
+            }
+        },
+        "arsenal_main_66": {
+            "frame": {
+                "x": 879,
+                "y": 1308,
+                "w": 346,
+                "h": 72
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 346,
+                "h": 72
+            },
+            "sourceSize": {
+                "w": 346,
+                "h": 72
+            }
+        },
+        "arsenal_main_67": {
+            "frame": {
+                "x": 550,
+                "y": 1308,
+                "w": 324,
+                "h": 81
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 324,
+                "h": 81
+            },
+            "sourceSize": {
+                "w": 324,
+                "h": 81
+            }
+        },
+        "arsenal_main_68": {
+            "frame": {
+                "x": 558,
+                "y": 1498,
+                "w": 274,
+                "h": 78
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 274,
+                "h": 78
+            },
+            "sourceSize": {
+                "w": 274,
+                "h": 78
+            }
+        },
+        "arsenal_main_69": {
+            "frame": {
+                "x": 0,
+                "y": 1498,
+                "w": 274,
+                "h": 78
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 274,
+                "h": 78
+            },
+            "sourceSize": {
+                "w": 274,
+                "h": 78
+            }
+        },
+        "arsenal_main_70": {
+            "frame": {
+                "x": 279,
+                "y": 1498,
+                "w": 274,
+                "h": 78
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 274,
+                "h": 78
+            },
+            "sourceSize": {
+                "w": 274,
+                "h": 78
+            }
+        },
+        "arsenal_main_71": {
+            "frame": {
+                "x": 989,
+                "y": 1038,
+                "w": 381,
+                "h": 72
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 381,
+                "h": 72
+            },
+            "sourceSize": {
+                "w": 381,
+                "h": 72
+            }
+        },
+        "arsenal_main_72": {
+            "frame": {
+                "x": 1230,
+                "y": 1308,
+                "w": 291,
+                "h": 72
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 291,
+                "h": 72
+            },
+            "sourceSize": {
+                "w": 291,
+                "h": 72
+            }
+        },
+        "arsenal_main_73": {
+            "frame": {
+                "x": 1959,
+                "y": 364,
+                "w": 27,
+                "h": 25
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 25
+            },
+            "sourceSize": {
+                "w": 27,
+                "h": 25
+            }
+        },
+        "arsenal_main_74": {
+            "frame": {
+                "x": 1959,
+                "y": 332,
+                "w": 27,
+                "h": 27
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 27
+            },
+            "sourceSize": {
+                "w": 27,
+                "h": 27
+            }
+        },
+        "arsenal_main_75": {
+            "frame": {
+                "x": 1926,
+                "y": 863,
+                "w": 60,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 60,
+                "h": 56
+            },
+            "sourceSize": {
+                "w": 60,
+                "h": 56
+            }
+        },
+        "arsenal_main_76": {
+            "frame": {
+                "x": 1926,
+                "y": 783,
+                "w": 60,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 60,
+                "h": 56
+            },
+            "sourceSize": {
+                "w": 60,
+                "h": 56
+            }
+        },
+        "arsenal_main_77": {
+            "frame": {
+                "x": 1562,
+                "y": 0,
+                "w": 168,
+                "h": 144
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 168,
+                "h": 144
+            },
+            "sourceSize": {
+                "w": 168,
+                "h": 144
+            }
+        },
+        "arsenal_main_78": {
+            "frame": {
+                "x": 1562,
+                "y": 149,
+                "w": 162,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 162,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 162,
+                "h": 142
+            }
+        },
+        "arsenal_main_79": {
+            "frame": {
+                "x": 798,
+                "y": 0,
+                "w": 759,
+                "h": 474
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 759,
+                "h": 474
+            },
+            "sourceSize": {
+                "w": 759,
+                "h": 474
+            }
+        },
+        "arsenal_main_80": {
+            "frame": {
+                "x": 1926,
+                "y": 1023,
+                "w": 45,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 45,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 45,
+                "h": 45
+            }
+        },
+        "arsenal_main_81": {
+            "frame": {
+                "x": 932,
+                "y": 690,
+                "w": 315,
+                "h": 183
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 315,
+                "h": 183
+            },
+            "sourceSize": {
+                "w": 315,
+                "h": 183
+            }
+        },
+        "arsenal_main_82": {
+            "frame": {
+                "x": 600,
+                "y": 690,
+                "w": 327,
+                "h": 196
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 327,
+                "h": 196
+            },
+            "sourceSize": {
+                "w": 327,
+                "h": 196
+            }
+        },
+        "arsenal_main_83": {
+            "frame": {
+                "x": 1652,
+                "y": 400,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "arsenal_main_84": {
+            "frame": {
+                "x": 1694,
+                "y": 720,
+                "w": 36,
+                "h": 36
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 36,
+                "h": 36
+            },
+            "sourceSize": {
+                "w": 36,
+                "h": 36
+            }
+        },
+        "arsenal_main_85": {
+            "frame": {
+                "x": 1694,
+                "y": 640,
+                "w": 36,
+                "h": 36
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 36,
+                "h": 36
+            },
+            "sourceSize": {
+                "w": 36,
+                "h": 36
+            }
+        },
+        "arsenal_main_86": {
+            "frame": {
+                "x": 1562,
+                "y": 1414,
+                "w": 88,
+                "h": 3
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 3
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 3
+            }
+        },
+        "arsenal_main_87": {
+            "frame": {
+                "x": 600,
+                "y": 1130,
+                "w": 633,
+                "h": 31
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 633,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 633,
+                "h": 31
+            }
+        },
+        "arsenal_main_88": {
+            "frame": {
+                "x": 1926,
+                "y": 943,
+                "w": 45,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 45,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 45,
+                "h": 45
+            }
+        },
+        "arsenal_main_89": {
+            "frame": {
+                "x": 275,
+                "y": 1308,
+                "w": 270,
+                "h": 117
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 117
+            }
+        },
+        "arsenal_main_90": {
+            "frame": {
+                "x": 1252,
+                "y": 690,
+                "w": 270,
+                "h": 117
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 117
+            }
+        },
+        "arsenal_main_91": {
+            "frame": {
+                "x": 926,
+                "y": 891,
+                "w": 336,
+                "h": 135
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 336,
+                "h": 135
+            },
+            "sourceSize": {
+                "w": 336,
+                "h": 135
+            }
+        },
+        "arsenal_main_92": {
+            "frame": {
+                "x": 0,
+                "y": 1168,
+                "w": 336,
+                "h": 135
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 336,
+                "h": 135
+            },
+            "sourceSize": {
+                "w": 336,
+                "h": 135
+            }
+        },
+        "arsenal_main_93": {
+            "frame": {
+                "x": 1267,
+                "y": 891,
+                "w": 270,
+                "h": 117
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 117
+            }
+        },
+        "arsenal_main_94": {
+            "frame": {
+                "x": 0,
+                "y": 1308,
+                "w": 270,
+                "h": 117
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 117
+            }
+        },
+        "arsenal_main_95": {
+            "frame": {
+                "x": 682,
+                "y": 1168,
+                "w": 336,
+                "h": 135
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 336,
+                "h": 135
+            },
+            "sourceSize": {
+                "w": 336,
+                "h": 135
+            }
+        },
+        "arsenal_main_96": {
+            "frame": {
+                "x": 341,
+                "y": 1168,
+                "w": 336,
+                "h": 135
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 336,
+                "h": 135
+            },
+            "sourceSize": {
+                "w": 336,
+                "h": 135
+            }
+        },
+        "arsenal_main_97": {
+            "frame": {
+                "x": 900,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_98": {
+            "frame": {
+                "x": 450,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_99": {
+            "frame": {
+                "x": 540,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_100": {
+            "frame": {
+                "x": 630,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_101": {
+            "frame": {
+                "x": 720,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_102": {
+            "frame": {
+                "x": 810,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_103": {
+            "frame": {
+                "x": 360,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_104": {
+            "frame": {
+                "x": 270,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_105": {
+            "frame": {
+                "x": 90,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_106": {
+            "frame": {
+                "x": 0,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_107": {
+            "frame": {
+                "x": 180,
+                "y": 1661,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_108": {
+            "frame": {
+                "x": 1624,
+                "y": 1581,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_109": {
+            "frame": {
+                "x": 1470,
+                "y": 1168,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_110": {
+            "frame": {
+                "x": 1562,
+                "y": 1280,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_111": {
+            "frame": {
+                "x": 1562,
+                "y": 1200,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_112": {
+            "frame": {
+                "x": 1562,
+                "y": 1120,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_113": {
+            "frame": {
+                "x": 1562,
+                "y": 960,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_114": {
+            "frame": {
+                "x": 1562,
+                "y": 880,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_115": {
+            "frame": {
+                "x": 1562,
+                "y": 800,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_116": {
+            "frame": {
+                "x": 1562,
+                "y": 640,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_117": {
+            "frame": {
+                "x": 1562,
+                "y": 560,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_118": {
+            "frame": {
+                "x": 1562,
+                "y": 400,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_119": {
+            "frame": {
+                "x": 1380,
+                "y": 1168,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_120": {
+            "frame": {
+                "x": 1562,
+                "y": 1040,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_121": {
+            "frame": {
+                "x": 1562,
+                "y": 720,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_122": {
+            "frame": {
+                "x": 1562,
+                "y": 480,
+                "w": 85,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 75
+            }
+        },
+        "arsenal_main_123": {
+            "frame": {
+                "x": 1735,
+                "y": 658,
+                "w": 120,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 120
+            }
+        },
+        "arsenal_main_124": {
+            "frame": {
+                "x": 1860,
+                "y": 658,
+                "w": 120,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 120
+            }
+        },
+        "arsenal_main_125": {
+            "frame": {
+                "x": 1652,
+                "y": 800,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_126": {
+            "frame": {
+                "x": 1652,
+                "y": 880,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_127": {
+            "frame": {
+                "x": 1652,
+                "y": 960,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_128": {
+            "frame": {
+                "x": 1652,
+                "y": 1040,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_129": {
+            "frame": {
+                "x": 1652,
+                "y": 1120,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_130": {
+            "frame": {
+                "x": 1652,
+                "y": 1200,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_131": {
+            "frame": {
+                "x": 1652,
+                "y": 1280,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_132": {
+            "frame": {
+                "x": 1684,
+                "y": 1360,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_133": {
+            "frame": {
+                "x": 1508,
+                "y": 572,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_134": {
+            "frame": {
+                "x": 1508,
+                "y": 614,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_135": {
+            "frame": {
+                "x": 1315,
+                "y": 1264,
+                "w": 129,
+                "h": 25
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 25
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 25
+            }
+        },
+        "arsenal_main_136": {
+            "frame": {
+                "x": 1969,
+                "y": 1387,
+                "w": 22,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 22,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 22,
+                "h": 22
+            }
+        },
+        "arsenal_main_137": {
+            "frame": {
+                "x": 1652,
+                "y": 762,
+                "w": 48,
+                "h": 25
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 25
+            },
+            "sourceSize": {
+                "w": 48,
+                "h": 25
+            }
+        },
+        "arsenal_main_138": {
+            "frame": {
+                "x": 1652,
+                "y": 682,
+                "w": 48,
+                "h": 25
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 25
+            },
+            "sourceSize": {
+                "w": 48,
+                "h": 25
+            }
+        },
+        "arsenal_main_139": {
+            "frame": {
+                "x": 798,
+                "y": 479,
+                "w": 660,
+                "h": 57
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 660,
+                "h": 57
+            },
+            "sourceSize": {
+                "w": 660,
+                "h": 57
+            }
+        },
+        "arsenal_main_140": {
+            "frame": {
+                "x": 798,
+                "y": 541,
+                "w": 292,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 292,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 292,
+                "h": 24
+            }
+        },
+        "arsenal_main_141": {
+            "frame": {
+                "x": 1976,
+                "y": 943,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            }
+        },
+        "arsenal_main_142": {
+            "frame": {
+                "x": 1976,
+                "y": 964,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            }
+        },
+        "arsenal_main_143": {
+            "frame": {
+                "x": 1976,
+                "y": 1023,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            }
+        },
+        "arsenal_main_144": {
+            "frame": {
+                "x": 342,
+                "y": 1430,
+                "w": 122,
+                "h": 38
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 122,
+                "h": 38
+            },
+            "sourceSize": {
+                "w": 122,
+                "h": 38
+            }
+        },
+        "arsenal_main_145": {
+            "frame": {
+                "x": 1527,
+                "y": 690,
+                "w": 16,
+                "h": 95
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 95
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 95
+            }
+        },
+        "arsenal_main_146": {
+            "frame": {
+                "x": 600,
+                "y": 572,
+                "w": 661,
+                "h": 113
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 661,
+                "h": 113
+            },
+            "sourceSize": {
+                "w": 661,
+                "h": 113
+            }
+        },
+        "arsenal_main_147": {
+            "frame": {
+                "x": 1926,
+                "y": 1103,
+                "w": 43,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 43,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 43,
+                "h": 42
+            }
+        },
+        "arsenal_main_148": {
+            "frame": {
+                "x": 1562,
+                "y": 1360,
+                "w": 117,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 117,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 117,
+                "h": 49
+            }
+        },
+        "arsenal_main_149": {
+            "frame": {
+                "x": 1562,
+                "y": 296,
+                "w": 144,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 49
+            }
+        },
+        "arsenal_main_150": {
+            "frame": {
+                "x": 1694,
+                "y": 589,
+                "w": 36,
+                "h": 36
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 36,
+                "h": 36
+            },
+            "sourceSize": {
+                "w": 36,
+                "h": 36
+            }
+        },
+        "arsenal_main_151": {
+            "frame": {
+                "x": 1169,
+                "y": 1264,
+                "w": 141,
+                "h": 36
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 141,
+                "h": 36
+            },
+            "sourceSize": {
+                "w": 141,
+                "h": 36
+            }
+        },
+        "arsenal_main_152": {
+            "frame": {
+                "x": 1852,
+                "y": 1535,
+                "w": 141,
+                "h": 36
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 141,
+                "h": 36
+            },
+            "sourceSize": {
+                "w": 141,
+                "h": 36
+            }
+        },
+        "arsenal_main_153": {
+            "frame": {
+                "x": 1375,
+                "y": 1038,
+                "w": 141,
+                "h": 36
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 141,
+                "h": 36
+            },
+            "sourceSize": {
+                "w": 141,
+                "h": 36
+            }
+        },
+        "arsenal_main_154": {
+            "frame": {
+                "x": 1023,
+                "y": 1264,
+                "w": 141,
+                "h": 36
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 141,
+                "h": 36
+            },
+            "sourceSize": {
+                "w": 141,
+                "h": 36
+            }
+        },
+        "arsenal_main_155": {
+            "frame": {
+                "x": 469,
+                "y": 1430,
+                "w": 108,
+                "h": 27
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 108,
+                "h": 27
+            },
+            "sourceSize": {
+                "w": 108,
+                "h": 27
+            }
+        },
+        "arsenal_main_156": {
+            "frame": {
+                "x": 550,
+                "y": 1394,
+                "w": 120,
+                "h": 27
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 27
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 27
+            }
+        },
+        "arsenal_main_157": {
+            "frame": {
+                "x": 0,
+                "y": 1430,
+                "w": 337,
+                "h": 63
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 337,
+                "h": 63
+            },
+            "sourceSize": {
+                "w": 337,
+                "h": 63
+            }
+        },
+        "arsenal_main_158": {
+            "frame": {
+                "x": 1437,
+                "y": 812,
+                "w": 108,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 108,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 108,
+                "h": 39
+            }
+        },
+        "arsenal_main_159": {
+            "frame": {
+                "x": 582,
+                "y": 1430,
+                "w": 90,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 90,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 90,
+                "h": 22
+            }
+        },
+        "arsenal_main_160": {
+            "frame": {
+                "x": 1926,
+                "y": 1073,
+                "w": 67,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 67,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 67,
+                "h": 22
+            }
+        },
+        "arsenal_main_161": {
+            "frame": {
+                "x": 1652,
+                "y": 480,
+                "w": 73,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 73,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 73,
+                "h": 24
+            }
+        },
+        "arsenal_main_162": {
+            "frame": {
+                "x": 1926,
+                "y": 1150,
+                "w": 67,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 67,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 67,
+                "h": 22
+            }
+        },
+        "arsenal_main_163": {
+            "frame": {
+                "x": 1652,
+                "y": 509,
+                "w": 73,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 73,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 73,
+                "h": 24
+            }
+        },
+        "arsenal_main_164": {
+            "frame": {
+                "x": 1926,
+                "y": 993,
+                "w": 67,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 67,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 67,
+                "h": 22
+            }
+        },
+        "arsenal_main_165": {
+            "frame": {
+                "x": 1652,
+                "y": 560,
+                "w": 73,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 73,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 73,
+                "h": 24
+            }
+        },
+        "arsenal_main_166": {
+            "frame": {
+                "x": 675,
+                "y": 1394,
+                "w": 141,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 141,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 141,
+                "h": 22
+            }
+        },
+        "arsenal_main_167": {
+            "frame": {
+                "x": 1375,
+                "y": 1079,
+                "w": 156,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 24
+            }
+        },
+        "arsenal_main_168": {
+            "frame": {
+                "x": 1652,
+                "y": 589,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_169": {
+            "frame": {
+                "x": 1950,
+                "y": 1319,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_170": {
+            "frame": {
+                "x": 1950,
+                "y": 1251,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_171": {
+            "frame": {
+                "x": 1950,
+                "y": 1183,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_172": {
+            "frame": {
+                "x": 1953,
+                "y": 578,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_173": {
+            "frame": {
+                "x": 1953,
+                "y": 498,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_174": {
+            "frame": {
+                "x": 1953,
+                "y": 418,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_175": {
+            "frame": {
+                "x": 1689,
+                "y": 1498,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_176": {
+            "frame": {
+                "x": 1652,
+                "y": 720,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        },
+        "arsenal_main_177": {
+            "frame": {
+                "x": 1652,
+                "y": 640,
+                "w": 37,
+                "h": 37
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 37,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 37,
+                "h": 37
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "arsenal_main.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1994,
+            "h": 1736
+        },
+        "scale": 1
+    }
+}

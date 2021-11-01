@@ -1,0 +1,454 @@
+{
+    "frames": {
+        "map_anchorage_repair_0": {
+            "frame": {
+                "x": 323,
+                "y": 650,
+                "w": 356,
+                "h": 375
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 356,
+                "h": 375
+            },
+            "sourceSize": {
+                "w": 356,
+                "h": 375
+            }
+        },
+        "map_anchorage_repair_1": {
+            "frame": {
+                "x": 684,
+                "y": 650,
+                "w": 351,
+                "h": 370
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 351,
+                "h": 370
+            },
+            "sourceSize": {
+                "w": 351,
+                "h": 370
+            }
+        },
+        "map_anchorage_repair_2": {
+            "frame": {
+                "x": 435,
+                "y": 194,
+                "w": 398,
+                "h": 361
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 398,
+                "h": 361
+            },
+            "sourceSize": {
+                "w": 398,
+                "h": 361
+            }
+        },
+        "map_anchorage_repair_3": {
+            "frame": {
+                "x": 838,
+                "y": 194,
+                "w": 489,
+                "h": 250
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 489,
+                "h": 250
+            },
+            "sourceSize": {
+                "w": 489,
+                "h": 250
+            }
+        },
+        "map_anchorage_repair_4": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 430,
+                "h": 645
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 430,
+                "h": 645
+            },
+            "sourceSize": {
+                "w": 430,
+                "h": 645
+            }
+        },
+        "map_anchorage_repair_5": {
+            "frame": {
+                "x": 203,
+                "y": 1408,
+                "w": 193,
+                "h": 293
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 193,
+                "h": 293
+            },
+            "sourceSize": {
+                "w": 193,
+                "h": 293
+            }
+        },
+        "map_anchorage_repair_6": {
+            "frame": {
+                "x": 0,
+                "y": 1408,
+                "w": 198,
+                "h": 330
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 198,
+                "h": 330
+            },
+            "sourceSize": {
+                "w": 198,
+                "h": 330
+            }
+        },
+        "map_anchorage_repair_7": {
+            "frame": {
+                "x": 1740,
+                "y": 781,
+                "w": 10,
+                "h": 60
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 10,
+                "h": 60
+            },
+            "sourceSize": {
+                "w": 10,
+                "h": 60
+            }
+        },
+        "map_anchorage_repair_8": {
+            "frame": {
+                "x": 435,
+                "y": 560,
+                "w": 255,
+                "h": 73
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 255,
+                "h": 73
+            },
+            "sourceSize": {
+                "w": 255,
+                "h": 73
+            }
+        },
+        "map_anchorage_repair_9": {
+            "frame": {
+                "x": 1332,
+                "y": 194,
+                "w": 27,
+                "h": 27
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 27,
+                "h": 27
+            },
+            "sourceSize": {
+                "w": 27,
+                "h": 27
+            }
+        },
+        "map_anchorage_repair_10": {
+            "frame": {
+                "x": 748,
+                "y": 1097,
+                "w": 346,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 346,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 346,
+                "h": 256
+            }
+        },
+        "map_anchorage_repair_11": {
+            "frame": {
+                "x": 384,
+                "y": 1097,
+                "w": 359,
+                "h": 274
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 359,
+                "h": 274
+            },
+            "sourceSize": {
+                "w": 359,
+                "h": 274
+            }
+        },
+        "map_anchorage_repair_12": {
+            "frame": {
+                "x": 1454,
+                "y": 0,
+                "w": 306,
+                "h": 449
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 306,
+                "h": 449
+            },
+            "sourceSize": {
+                "w": 306,
+                "h": 449
+            }
+        },
+        "map_anchorage_repair_13": {
+            "frame": {
+                "x": 1040,
+                "y": 650,
+                "w": 325,
+                "h": 362
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 325,
+                "h": 362
+            },
+            "sourceSize": {
+                "w": 325,
+                "h": 362
+            }
+        },
+        "map_anchorage_repair_14": {
+            "frame": {
+                "x": 1454,
+                "y": 454,
+                "w": 292,
+                "h": 322
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 292,
+                "h": 322
+            },
+            "sourceSize": {
+                "w": 292,
+                "h": 322
+            }
+        },
+        "map_anchorage_repair_15": {
+            "frame": {
+                "x": 435,
+                "y": 0,
+                "w": 1014,
+                "h": 189
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1014,
+                "h": 189
+            },
+            "sourceSize": {
+                "w": 1014,
+                "h": 189
+            }
+        },
+        "map_anchorage_repair_16": {
+            "frame": {
+                "x": 838,
+                "y": 449,
+                "w": 447,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 447,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 447,
+                "h": 90
+            }
+        },
+        "map_anchorage_repair_17": {
+            "frame": {
+                "x": 1322,
+                "y": 1097,
+                "w": 219,
+                "h": 223
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 219,
+                "h": 223
+            },
+            "sourceSize": {
+                "w": 219,
+                "h": 223
+            }
+        },
+        "map_anchorage_repair_18": {
+            "frame": {
+                "x": 0,
+                "y": 650,
+                "w": 318,
+                "h": 442
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 318,
+                "h": 442
+            },
+            "sourceSize": {
+                "w": 318,
+                "h": 442
+            }
+        },
+        "map_anchorage_repair_19": {
+            "frame": {
+                "x": 1099,
+                "y": 1097,
+                "w": 218,
+                "h": 247
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 218,
+                "h": 247
+            },
+            "sourceSize": {
+                "w": 218,
+                "h": 247
+            }
+        },
+        "map_anchorage_repair_20": {
+            "frame": {
+                "x": 1454,
+                "y": 781,
+                "w": 281,
+                "h": 307
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 281,
+                "h": 307
+            },
+            "sourceSize": {
+                "w": 281,
+                "h": 307
+            }
+        },
+        "map_anchorage_repair_21": {
+            "frame": {
+                "x": 0,
+                "y": 1097,
+                "w": 379,
+                "h": 306
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 379,
+                "h": 306
+            },
+            "sourceSize": {
+                "w": 379,
+                "h": 306
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "map_anchorage_repair.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1760,
+            "h": 1738
+        },
+        "scale": 1
+    }
+}

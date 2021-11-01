@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "battle_result_event_e3_waprskjnmbdyjsyc_txt_1": {
+            "frame": {
+                "x": 0,
+                "y": 219,
+                "w": 930,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 930,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 930,
+                "h": 140
+            }
+        },
+        "battle_result_event_e3_waprskjnmbdyjsyc_txt_2": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 931,
+                "h": 214
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 931,
+                "h": 214
+            },
+            "sourceSize": {
+                "w": 931,
+                "h": 214
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "battle_result_event_e3_waprskjnmbdyjsyc.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 931,
+            "h": 359
+        },
+        "scale": 1
+    }
+}

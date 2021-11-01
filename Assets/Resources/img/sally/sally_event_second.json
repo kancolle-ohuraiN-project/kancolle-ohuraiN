@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "sally_event_second_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 183,
+                "h": 175
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 183,
+                "h": 175
+            },
+            "sourceSize": {
+                "w": 183,
+                "h": 175
+            }
+        },
+        "sally_event_second_1": {
+            "frame": {
+                "x": 188,
+                "y": 0,
+                "w": 183,
+                "h": 175
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 183,
+                "h": 175
+            },
+            "sourceSize": {
+                "w": 183,
+                "h": 175
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "sally_event_second.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 371,
+            "h": 175
+        },
+        "scale": 1
+    }
+}

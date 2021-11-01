@@ -1,0 +1,574 @@
+{
+    "frames": {
+        "item_payitemicon_id_1": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_2": {
+            "frame": {
+                "x": 80,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_3": {
+            "frame": {
+                "x": 0,
+                "y": 80,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_4": {
+            "frame": {
+                "x": 80,
+                "y": 80,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_5": {
+            "frame": {
+                "x": 160,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_6": {
+            "frame": {
+                "x": 160,
+                "y": 80,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_7": {
+            "frame": {
+                "x": 0,
+                "y": 160,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_8": {
+            "frame": {
+                "x": 80,
+                "y": 160,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_9": {
+            "frame": {
+                "x": 160,
+                "y": 160,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_10": {
+            "frame": {
+                "x": 240,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_11": {
+            "frame": {
+                "x": 240,
+                "y": 80,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_13": {
+            "frame": {
+                "x": 240,
+                "y": 160,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_14": {
+            "frame": {
+                "x": 0,
+                "y": 240,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_15": {
+            "frame": {
+                "x": 80,
+                "y": 240,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_16": {
+            "frame": {
+                "x": 160,
+                "y": 240,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_17": {
+            "frame": {
+                "x": 240,
+                "y": 240,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_18": {
+            "frame": {
+                "x": 320,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_19": {
+            "frame": {
+                "x": 320,
+                "y": 80,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_20": {
+            "frame": {
+                "x": 320,
+                "y": 160,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_21": {
+            "frame": {
+                "x": 320,
+                "y": 240,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_22": {
+            "frame": {
+                "x": 0,
+                "y": 320,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_23": {
+            "frame": {
+                "x": 80,
+                "y": 320,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_24": {
+            "frame": {
+                "x": 160,
+                "y": 320,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_25": {
+            "frame": {
+                "x": 240,
+                "y": 320,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_26": {
+            "frame": {
+                "x": 320,
+                "y": 320,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_27": {
+            "frame": {
+                "x": 400,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_28": {
+            "frame": {
+                "x": 400,
+                "y": 80,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "item_payitemicon_id_29": {
+            "frame": {
+                "x": 400,
+                "y": 160,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "item_payitemicon.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 475,
+            "h": 395
+        },
+        "scale": 1
+    }
+}

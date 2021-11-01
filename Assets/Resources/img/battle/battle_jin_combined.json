@@ -1,0 +1,174 @@
+{
+    "frames": {
+        "battle_jin_combined_0": {
+            "frame": {
+                "x": 863,
+                "y": 476,
+                "w": 856,
+                "h": 229
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 856,
+                "h": 229
+            },
+            "sourceSize": {
+                "w": 856,
+                "h": 229
+            }
+        },
+        "battle_jin_combined_1": {
+            "frame": {
+                "x": 858,
+                "y": 726,
+                "w": 850,
+                "h": 229
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 850,
+                "h": 229
+            },
+            "sourceSize": {
+                "w": 850,
+                "h": 229
+            }
+        },
+        "battle_jin_combined_2": {
+            "frame": {
+                "x": 0,
+                "y": 726,
+                "w": 853,
+                "h": 229
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 853,
+                "h": 229
+            },
+            "sourceSize": {
+                "w": 853,
+                "h": 229
+            }
+        },
+        "battle_jin_combined_3": {
+            "frame": {
+                "x": 863,
+                "y": 242,
+                "w": 858,
+                "h": 229
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 858,
+                "h": 229
+            },
+            "sourceSize": {
+                "w": 858,
+                "h": 229
+            }
+        },
+        "battle_jin_combined_4": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 858,
+                "h": 237
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 858,
+                "h": 237
+            },
+            "sourceSize": {
+                "w": 858,
+                "h": 237
+            }
+        },
+        "battle_jin_combined_5": {
+            "frame": {
+                "x": 0,
+                "y": 242,
+                "w": 858,
+                "h": 237
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 858,
+                "h": 237
+            },
+            "sourceSize": {
+                "w": 858,
+                "h": 237
+            }
+        },
+        "battle_jin_combined_6": {
+            "frame": {
+                "x": 0,
+                "y": 484,
+                "w": 858,
+                "h": 237
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 858,
+                "h": 237
+            },
+            "sourceSize": {
+                "w": 858,
+                "h": 237
+            }
+        },
+        "battle_jin_combined_7": {
+            "frame": {
+                "x": 863,
+                "y": 0,
+                "w": 858,
+                "h": 237
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 858,
+                "h": 237
+            },
+            "sourceSize": {
+                "w": 858,
+                "h": 237
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "battle_jin_combined.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1721,
+            "h": 955
+        },
+        "scale": 1
+    }
+}

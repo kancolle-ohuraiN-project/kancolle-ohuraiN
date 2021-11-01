@@ -1,0 +1,114 @@
+{
+    "frames": {
+        "battle_result_sanma_fes_0": {
+            "frame": {
+                "x": 0,
+                "y": 747,
+                "w": 907,
+                "h": 767
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 907,
+                "h": 767
+            },
+            "sourceSize": {
+                "w": 907,
+                "h": 767
+            }
+        },
+        "battle_result_sanma_fes_1": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 944,
+                "h": 742
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 944,
+                "h": 742
+            },
+            "sourceSize": {
+                "w": 944,
+                "h": 742
+            }
+        },
+        "battle_result_sanma_fes_2": {
+            "frame": {
+                "x": 1291,
+                "y": 275,
+                "w": 260,
+                "h": 198
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 260,
+                "h": 198
+            },
+            "sourceSize": {
+                "w": 260,
+                "h": 198
+            }
+        },
+        "battle_result_sanma_fes_3": {
+            "frame": {
+                "x": 949,
+                "y": 0,
+                "w": 649,
+                "h": 270
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 649,
+                "h": 270
+            },
+            "sourceSize": {
+                "w": 649,
+                "h": 270
+            }
+        },
+        "battle_result_sanma_fes_4": {
+            "frame": {
+                "x": 949,
+                "y": 275,
+                "w": 337,
+                "h": 278
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 337,
+                "h": 278
+            },
+            "sourceSize": {
+                "w": 337,
+                "h": 278
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "battle_result_sanma_fes.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1598,
+            "h": 1514
+        },
+        "scale": 1
+    }
+}

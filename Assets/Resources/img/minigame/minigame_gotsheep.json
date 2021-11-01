@@ -1,0 +1,1614 @@
+{
+    "frames": {
+        "minigame_gotsheep_0": {
+            "frame": {
+                "x": 435,
+                "y": 0,
+                "w": 1200,
+                "h": 166
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 166
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 166
+            }
+        },
+        "minigame_gotsheep_1": {
+            "frame": {
+                "x": 2098,
+                "y": 1457,
+                "w": 77,
+                "h": 19
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 77,
+                "h": 19
+            },
+            "sourceSize": {
+                "w": 77,
+                "h": 19
+            }
+        },
+        "minigame_gotsheep_2": {
+            "frame": {
+                "x": 487,
+                "y": 970,
+                "w": 33,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 42
+            }
+        },
+        "minigame_gotsheep_3": {
+            "frame": {
+                "x": 2152,
+                "y": 1702,
+                "w": 33,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 42
+            }
+        },
+        "minigame_gotsheep_4": {
+            "frame": {
+                "x": 2152,
+                "y": 1655,
+                "w": 33,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 42
+            }
+        },
+        "minigame_gotsheep_5": {
+            "frame": {
+                "x": 2363,
+                "y": 1986,
+                "w": 33,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 42
+            }
+        },
+        "minigame_gotsheep_6": {
+            "frame": {
+                "x": 2363,
+                "y": 2033,
+                "w": 33,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 42
+            }
+        },
+        "minigame_gotsheep_7": {
+            "frame": {
+                "x": 2173,
+                "y": 1499,
+                "w": 33,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 42
+            }
+        },
+        "minigame_gotsheep_8": {
+            "frame": {
+                "x": 1579,
+                "y": 476,
+                "w": 33,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 42
+            }
+        },
+        "minigame_gotsheep_9": {
+            "frame": {
+                "x": 525,
+                "y": 970,
+                "w": 33,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 42
+            }
+        },
+        "minigame_gotsheep_10": {
+            "frame": {
+                "x": 2173,
+                "y": 1546,
+                "w": 33,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 42
+            }
+        },
+        "minigame_gotsheep_11": {
+            "frame": {
+                "x": 2173,
+                "y": 1593,
+                "w": 33,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 42
+            }
+        },
+        "minigame_gotsheep_12": {
+            "frame": {
+                "x": 837,
+                "y": 936,
+                "w": 202,
+                "h": 25
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 202,
+                "h": 25
+            },
+            "sourceSize": {
+                "w": 202,
+                "h": 25
+            }
+        },
+        "minigame_gotsheep_13": {
+            "frame": {
+                "x": 1280,
+                "y": 342,
+                "w": 214,
+                "h": 247
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 214,
+                "h": 247
+            },
+            "sourceSize": {
+                "w": 214,
+                "h": 247
+            }
+        },
+        "minigame_gotsheep_14": {
+            "frame": {
+                "x": 2008,
+                "y": 1655,
+                "w": 139,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 139,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 139,
+                "h": 105
+            }
+        },
+        "minigame_gotsheep_15": {
+            "frame": {
+                "x": 2213,
+                "y": 381,
+                "w": 180,
+                "h": 178
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 178
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 178
+            }
+        },
+        "minigame_gotsheep_16": {
+            "frame": {
+                "x": 2213,
+                "y": 927,
+                "w": 172,
+                "h": 177
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 177
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 177
+            }
+        },
+        "minigame_gotsheep_17": {
+            "frame": {
+                "x": 2213,
+                "y": 1289,
+                "w": 172,
+                "h": 174
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 174
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 174
+            }
+        },
+        "minigame_gotsheep_18": {
+            "frame": {
+                "x": 2213,
+                "y": 1468,
+                "w": 174,
+                "h": 172
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 172
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 172
+            }
+        },
+        "minigame_gotsheep_19": {
+            "frame": {
+                "x": 2213,
+                "y": 199,
+                "w": 192,
+                "h": 177
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 177
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 177
+            }
+        },
+        "minigame_gotsheep_20": {
+            "frame": {
+                "x": 2213,
+                "y": 747,
+                "w": 178,
+                "h": 175
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 178,
+                "h": 175
+            },
+            "sourceSize": {
+                "w": 178,
+                "h": 175
+            }
+        },
+        "minigame_gotsheep_21": {
+            "frame": {
+                "x": 2213,
+                "y": 1986,
+                "w": 145,
+                "h": 118
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 118
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 118
+            }
+        },
+        "minigame_gotsheep_22": {
+            "frame": {
+                "x": 1079,
+                "y": 1791,
+                "w": 151,
+                "h": 136
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 151,
+                "h": 136
+            },
+            "sourceSize": {
+                "w": 151,
+                "h": 136
+            }
+        },
+        "minigame_gotsheep_23": {
+            "frame": {
+                "x": 1472,
+                "y": 1213,
+                "w": 156,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 142
+            }
+        },
+        "minigame_gotsheep_24": {
+            "frame": {
+                "x": 2008,
+                "y": 1499,
+                "w": 160,
+                "h": 151
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 151
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 151
+            }
+        },
+        "minigame_gotsheep_25": {
+            "frame": {
+                "x": 2213,
+                "y": 1819,
+                "w": 166,
+                "h": 162
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 166,
+                "h": 162
+            },
+            "sourceSize": {
+                "w": 166,
+                "h": 162
+            }
+        },
+        "minigame_gotsheep_26": {
+            "frame": {
+                "x": 2213,
+                "y": 1645,
+                "w": 168,
+                "h": 169
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 168,
+                "h": 169
+            },
+            "sourceSize": {
+                "w": 168,
+                "h": 169
+            }
+        },
+        "minigame_gotsheep_27": {
+            "frame": {
+                "x": 2213,
+                "y": 1109,
+                "w": 172,
+                "h": 175
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 175
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 175
+            }
+        },
+        "minigame_gotsheep_28": {
+            "frame": {
+                "x": 2213,
+                "y": 564,
+                "w": 177,
+                "h": 178
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 177,
+                "h": 178
+            },
+            "sourceSize": {
+                "w": 177,
+                "h": 178
+            }
+        },
+        "minigame_gotsheep_29": {
+            "frame": {
+                "x": 234,
+                "y": 1936,
+                "w": 229,
+                "h": 182
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 229,
+                "h": 182
+            },
+            "sourceSize": {
+                "w": 229,
+                "h": 182
+            }
+        },
+        "minigame_gotsheep_30": {
+            "frame": {
+                "x": 0,
+                "y": 1936,
+                "w": 229,
+                "h": 182
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 229,
+                "h": 182
+            },
+            "sourceSize": {
+                "w": 229,
+                "h": 182
+            }
+        },
+        "minigame_gotsheep_31": {
+            "frame": {
+                "x": 2213,
+                "y": 0,
+                "w": 203,
+                "h": 194
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 203,
+                "h": 194
+            },
+            "sourceSize": {
+                "w": 203,
+                "h": 194
+            }
+        },
+        "minigame_gotsheep_32": {
+            "frame": {
+                "x": 2008,
+                "y": 1034,
+                "w": 85,
+                "h": 460
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 85,
+                "h": 460
+            },
+            "sourceSize": {
+                "w": 85,
+                "h": 460
+            }
+        },
+        "minigame_gotsheep_33": {
+            "frame": {
+                "x": 0,
+                "y": 650,
+                "w": 404,
+                "h": 403
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 404,
+                "h": 403
+            },
+            "sourceSize": {
+                "w": 404,
+                "h": 403
+            }
+        },
+        "minigame_gotsheep_34": {
+            "frame": {
+                "x": 1640,
+                "y": 1104,
+                "w": 273,
+                "h": 226
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 273,
+                "h": 226
+            },
+            "sourceSize": {
+                "w": 273,
+                "h": 226
+            }
+        },
+        "minigame_gotsheep_35": {
+            "frame": {
+                "x": 365,
+                "y": 1426,
+                "w": 360,
+                "h": 360
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 360
+            },
+            "sourceSize": {
+                "w": 360,
+                "h": 360
+            }
+        },
+        "minigame_gotsheep_36": {
+            "frame": {
+                "x": 0,
+                "y": 1426,
+                "w": 360,
+                "h": 360
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 360,
+                "h": 360
+            },
+            "sourceSize": {
+                "w": 360,
+                "h": 360
+            }
+        },
+        "minigame_gotsheep_37": {
+            "frame": {
+                "x": 1472,
+                "y": 1058,
+                "w": 150,
+                "h": 150
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 150
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 150
+            }
+        },
+        "minigame_gotsheep_38": {
+            "frame": {
+                "x": 2098,
+                "y": 1377,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "minigame_gotsheep_39": {
+            "frame": {
+                "x": 1918,
+                "y": 1104,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "minigame_gotsheep_40": {
+            "frame": {
+                "x": 2098,
+                "y": 1297,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "minigame_gotsheep_41": {
+            "frame": {
+                "x": 1918,
+                "y": 1184,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "minigame_gotsheep_42": {
+            "frame": {
+                "x": 1499,
+                "y": 476,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "minigame_gotsheep_43": {
+            "frame": {
+                "x": 435,
+                "y": 171,
+                "w": 1200,
+                "h": 166
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 166
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 166
+            }
+        },
+        "minigame_gotsheep_44": {
+            "frame": {
+                "x": 409,
+                "y": 970,
+                "w": 73,
+                "h": 62
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 73,
+                "h": 62
+            },
+            "sourceSize": {
+                "w": 73,
+                "h": 62
+            }
+        },
+        "minigame_gotsheep_45": {
+            "frame": {
+                "x": 1918,
+                "y": 1264,
+                "w": 82,
+                "h": 61
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 82,
+                "h": 61
+            },
+            "sourceSize": {
+                "w": 82,
+                "h": 61
+            }
+        },
+        "minigame_gotsheep_46": {
+            "frame": {
+                "x": 2098,
+                "y": 1215,
+                "w": 81,
+                "h": 77
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 81,
+                "h": 77
+            },
+            "sourceSize": {
+                "w": 81,
+                "h": 77
+            }
+        },
+        "minigame_gotsheep_47": {
+            "frame": {
+                "x": 2098,
+                "y": 1115,
+                "w": 73,
+                "h": 95
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 73,
+                "h": 95
+            },
+            "sourceSize": {
+                "w": 73,
+                "h": 95
+            }
+        },
+        "minigame_gotsheep_48": {
+            "frame": {
+                "x": 2098,
+                "y": 1034,
+                "w": 98,
+                "h": 76
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 98,
+                "h": 76
+            },
+            "sourceSize": {
+                "w": 98,
+                "h": 76
+            }
+        },
+        "minigame_gotsheep_49": {
+            "frame": {
+                "x": 1814,
+                "y": 1335,
+                "w": 169,
+                "h": 68
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 169,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 169,
+                "h": 68
+            }
+        },
+        "minigame_gotsheep_50": {
+            "frame": {
+                "x": 1640,
+                "y": 1335,
+                "w": 169,
+                "h": 68
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 169,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 169,
+                "h": 68
+            }
+        },
+        "minigame_gotsheep_51": {
+            "frame": {
+                "x": 2398,
+                "y": 381,
+                "w": 16,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 16
+            }
+        },
+        "minigame_gotsheep_52": {
+            "frame": {
+                "x": 1736,
+                "y": 1571,
+                "w": 206,
+                "h": 117
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 206,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 206,
+                "h": 117
+            }
+        },
+        "minigame_gotsheep_53": {
+            "frame": {
+                "x": 1525,
+                "y": 1571,
+                "w": 206,
+                "h": 117
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 206,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 206,
+                "h": 117
+            }
+        },
+        "minigame_gotsheep_54": {
+            "frame": {
+                "x": 1314,
+                "y": 1571,
+                "w": 206,
+                "h": 117
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 206,
+                "h": 117
+            },
+            "sourceSize": {
+                "w": 206,
+                "h": 117
+            }
+        },
+        "minigame_gotsheep_55": {
+            "frame": {
+                "x": 1640,
+                "y": 736,
+                "w": 363,
+                "h": 363
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 363,
+                "h": 363
+            },
+            "sourceSize": {
+                "w": 363,
+                "h": 363
+            }
+        },
+        "minigame_gotsheep_56": {
+            "frame": {
+                "x": 0,
+                "y": 1058,
+                "w": 363,
+                "h": 363
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 363,
+                "h": 363
+            },
+            "sourceSize": {
+                "w": 363,
+                "h": 363
+            }
+        },
+        "minigame_gotsheep_57": {
+            "frame": {
+                "x": 1640,
+                "y": 0,
+                "w": 363,
+                "h": 363
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 363,
+                "h": 363
+            },
+            "sourceSize": {
+                "w": 363,
+                "h": 363
+            }
+        },
+        "minigame_gotsheep_58": {
+            "frame": {
+                "x": 1104,
+                "y": 1058,
+                "w": 363,
+                "h": 363
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 363,
+                "h": 363
+            },
+            "sourceSize": {
+                "w": 363,
+                "h": 363
+            }
+        },
+        "minigame_gotsheep_59": {
+            "frame": {
+                "x": 736,
+                "y": 1058,
+                "w": 363,
+                "h": 363
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 363,
+                "h": 363
+            },
+            "sourceSize": {
+                "w": 363,
+                "h": 363
+            }
+        },
+        "minigame_gotsheep_60": {
+            "frame": {
+                "x": 368,
+                "y": 1058,
+                "w": 363,
+                "h": 363
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 363,
+                "h": 363
+            },
+            "sourceSize": {
+                "w": 363,
+                "h": 363
+            }
+        },
+        "minigame_gotsheep_61": {
+            "frame": {
+                "x": 1640,
+                "y": 368,
+                "w": 363,
+                "h": 363
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 363,
+                "h": 363
+            },
+            "sourceSize": {
+                "w": 363,
+                "h": 363
+            }
+        },
+        "minigame_gotsheep_62": {
+            "frame": {
+                "x": 1564,
+                "y": 650,
+                "w": 58,
+                "h": 61
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 58,
+                "h": 61
+            },
+            "sourceSize": {
+                "w": 58,
+                "h": 61
+            }
+        },
+        "minigame_gotsheep_63": {
+            "frame": {
+                "x": 1564,
+                "y": 716,
+                "w": 58,
+                "h": 61
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 58,
+                "h": 61
+            },
+            "sourceSize": {
+                "w": 58,
+                "h": 61
+            }
+        },
+        "minigame_gotsheep_64": {
+            "frame": {
+                "x": 541,
+                "y": 1791,
+                "w": 533,
+                "h": 138
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 533,
+                "h": 138
+            },
+            "sourceSize": {
+                "w": 533,
+                "h": 138
+            }
+        },
+        "minigame_gotsheep_65": {
+            "frame": {
+                "x": 730,
+                "y": 1571,
+                "w": 579,
+                "h": 136
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 579,
+                "h": 136
+            },
+            "sourceSize": {
+                "w": 579,
+                "h": 136
+            }
+        },
+        "minigame_gotsheep_66": {
+            "frame": {
+                "x": 730,
+                "y": 1426,
+                "w": 569,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 569,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 569,
+                "h": 140
+            }
+        },
+        "minigame_gotsheep_67": {
+            "frame": {
+                "x": 1304,
+                "y": 1426,
+                "w": 565,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 565,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 565,
+                "h": 140
+            }
+        },
+        "minigame_gotsheep_68": {
+            "frame": {
+                "x": 0,
+                "y": 1791,
+                "w": 536,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 536,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 536,
+                "h": 140
+            }
+        },
+        "minigame_gotsheep_69": {
+            "frame": {
+                "x": 837,
+                "y": 793,
+                "w": 655,
+                "h": 138
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 655,
+                "h": 138
+            },
+            "sourceSize": {
+                "w": 655,
+                "h": 138
+            }
+        },
+        "minigame_gotsheep_70": {
+            "frame": {
+                "x": 837,
+                "y": 650,
+                "w": 722,
+                "h": 138
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 722,
+                "h": 138
+            },
+            "sourceSize": {
+                "w": 722,
+                "h": 138
+            }
+        },
+        "minigame_gotsheep_71": {
+            "frame": {
+                "x": 468,
+                "y": 1936,
+                "w": 210,
+                "h": 175
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 175
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 175
+            }
+        },
+        "minigame_gotsheep_72": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 430,
+                "h": 645
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 430,
+                "h": 645
+            },
+            "sourceSize": {
+                "w": 430,
+                "h": 645
+            }
+        },
+        "minigame_gotsheep_73": {
+            "frame": {
+                "x": 1497,
+                "y": 793,
+                "w": 111,
+                "h": 128
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 111,
+                "h": 128
+            },
+            "sourceSize": {
+                "w": 111,
+                "h": 128
+            }
+        },
+        "minigame_gotsheep_74": {
+            "frame": {
+                "x": 890,
+                "y": 342,
+                "w": 385,
+                "h": 272
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 385,
+                "h": 272
+            },
+            "sourceSize": {
+                "w": 385,
+                "h": 272
+            }
+        },
+        "minigame_gotsheep_75": {
+            "frame": {
+                "x": 409,
+                "y": 650,
+                "w": 423,
+                "h": 315
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 423,
+                "h": 315
+            },
+            "sourceSize": {
+                "w": 423,
+                "h": 315
+            }
+        },
+        "minigame_gotsheep_76": {
+            "frame": {
+                "x": 1499,
+                "y": 342,
+                "w": 111,
+                "h": 129
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 111,
+                "h": 129
+            },
+            "sourceSize": {
+                "w": 111,
+                "h": 129
+            }
+        },
+        "minigame_gotsheep_77": {
+            "frame": {
+                "x": 435,
+                "y": 342,
+                "w": 450,
+                "h": 285
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 450,
+                "h": 285
+            },
+            "sourceSize": {
+                "w": 450,
+                "h": 285
+            }
+        },
+        "minigame_gotsheep_78": {
+            "frame": {
+                "x": 2008,
+                "y": 517,
+                "w": 180,
+                "h": 512
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 512
+            }
+        },
+        "minigame_gotsheep_79": {
+            "frame": {
+                "x": 2008,
+                "y": 0,
+                "w": 200,
+                "h": 512
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 512
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "minigame_gotsheep.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2416,
+            "h": 2118
+        },
+        "scale": 1
+    }
+}

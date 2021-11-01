@@ -1,0 +1,214 @@
+{
+    "frames": {
+        "battle_cutin_anti_air_0": {
+            "frame": {
+                "x": 584,
+                "y": 725,
+                "w": 384,
+                "h": 384
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 384,
+                "h": 384
+            },
+            "sourceSize": {
+                "w": 384,
+                "h": 384
+            }
+        },
+        "battle_cutin_anti_air_1": {
+            "frame": {
+                "x": 584,
+                "y": 1114,
+                "w": 1200,
+                "h": 100
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 100
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 100
+            }
+        },
+        "battle_cutin_anti_air_2": {
+            "frame": {
+                "x": 1205,
+                "y": 0,
+                "w": 579,
+                "h": 543
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 579,
+                "h": 543
+            },
+            "sourceSize": {
+                "w": 579,
+                "h": 543
+            }
+        },
+        "battle_cutin_anti_air_3": {
+            "frame": {
+                "x": 0,
+                "y": 725,
+                "w": 579,
+                "h": 543
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 579,
+                "h": 543
+            },
+            "sourceSize": {
+                "w": 579,
+                "h": 543
+            }
+        },
+        "battle_cutin_anti_air_4": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 720
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 720
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 720
+            }
+        },
+        "battle_cutin_anti_air_5": {
+            "frame": {
+                "x": 973,
+                "y": 725,
+                "w": 184,
+                "h": 205
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 184,
+                "h": 205
+            },
+            "sourceSize": {
+                "w": 184,
+                "h": 205
+            }
+        },
+        "battle_cutin_anti_air_6": {
+            "frame": {
+                "x": 1162,
+                "y": 725,
+                "w": 184,
+                "h": 205
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 184,
+                "h": 205
+            },
+            "sourceSize": {
+                "w": 184,
+                "h": 205
+            }
+        },
+        "battle_cutin_anti_air_7": {
+            "frame": {
+                "x": 1351,
+                "y": 725,
+                "w": 184,
+                "h": 205
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 184,
+                "h": 205
+            },
+            "sourceSize": {
+                "w": 184,
+                "h": 205
+            }
+        },
+        "battle_cutin_anti_air_8": {
+            "frame": {
+                "x": 1540,
+                "y": 725,
+                "w": 184,
+                "h": 205
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 184,
+                "h": 205
+            },
+            "sourceSize": {
+                "w": 184,
+                "h": 205
+            }
+        },
+        "battle_cutin_anti_air_9": {
+            "frame": {
+                "x": 0,
+                "y": 1273,
+                "w": 184,
+                "h": 205
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 184,
+                "h": 205
+            },
+            "sourceSize": {
+                "w": 184,
+                "h": 205
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "battle_cutin_anti_air.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1784,
+            "h": 1478
+        },
+        "scale": 1
+    }
+}

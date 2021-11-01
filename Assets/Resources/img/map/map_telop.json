@@ -1,0 +1,294 @@
+{
+    "frames": {
+        "map_telop_0": {
+            "frame": {
+                "x": 0,
+                "y": 1450,
+                "w": 1083,
+                "h": 271
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1083,
+                "h": 271
+            },
+            "sourceSize": {
+                "w": 1083,
+                "h": 271
+            }
+        },
+        "map_telop_1": {
+            "frame": {
+                "x": 1805,
+                "y": 0,
+                "w": 1083,
+                "h": 271
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1083,
+                "h": 271
+            },
+            "sourceSize": {
+                "w": 1083,
+                "h": 271
+            }
+        },
+        "map_telop_2": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1800,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1800,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 1800,
+                "h": 225
+            }
+        },
+        "map_telop_3": {
+            "frame": {
+                "x": 0,
+                "y": 230,
+                "w": 1200,
+                "h": 300
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 300
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 300
+            }
+        },
+        "map_telop_4": {
+            "frame": {
+                "x": 0,
+                "y": 1145,
+                "w": 1200,
+                "h": 300
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 300
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 300
+            }
+        },
+        "map_telop_5": {
+            "frame": {
+                "x": 0,
+                "y": 840,
+                "w": 1200,
+                "h": 300
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 300
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 300
+            }
+        },
+        "map_telop_6": {
+            "frame": {
+                "x": 0,
+                "y": 535,
+                "w": 1200,
+                "h": 300
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 300
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 300
+            }
+        },
+        "map_telop_7": {
+            "frame": {
+                "x": 1805,
+                "y": 534,
+                "w": 690,
+                "h": 232
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 690,
+                "h": 232
+            },
+            "sourceSize": {
+                "w": 690,
+                "h": 232
+            }
+        },
+        "map_telop_8": {
+            "frame": {
+                "x": 1805,
+                "y": 1090,
+                "w": 828,
+                "h": 102
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 828,
+                "h": 102
+            },
+            "sourceSize": {
+                "w": 828,
+                "h": 102
+            }
+        },
+        "map_telop_9": {
+            "frame": {
+                "x": 1200,
+                "y": 1726,
+                "w": 1086,
+                "h": 102
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1086,
+                "h": 102
+            },
+            "sourceSize": {
+                "w": 1086,
+                "h": 102
+            }
+        },
+        "map_telop_10": {
+            "frame": {
+                "x": 0,
+                "y": 1726,
+                "w": 1195,
+                "h": 214
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1195,
+                "h": 214
+            },
+            "sourceSize": {
+                "w": 1195,
+                "h": 214
+            }
+        },
+        "map_telop_11": {
+            "frame": {
+                "x": 1805,
+                "y": 276,
+                "w": 718,
+                "h": 253
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 718,
+                "h": 253
+            },
+            "sourceSize": {
+                "w": 718,
+                "h": 253
+            }
+        },
+        "map_telop_12": {
+            "frame": {
+                "x": 1805,
+                "y": 771,
+                "w": 940,
+                "h": 156
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 940,
+                "h": 156
+            },
+            "sourceSize": {
+                "w": 940,
+                "h": 156
+            }
+        },
+        "map_telop_13": {
+            "frame": {
+                "x": 1805,
+                "y": 932,
+                "w": 784,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 784,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 784,
+                "h": 153
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "map_telop.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2888,
+            "h": 1940
+        },
+        "scale": 1
+    }
+}

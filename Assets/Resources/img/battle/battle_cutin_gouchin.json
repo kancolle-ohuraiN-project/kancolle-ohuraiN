@@ -1,0 +1,274 @@
+{
+    "frames": {
+        "battle_cutin_gouchin_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 720
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 720
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 720
+            }
+        },
+        "battle_cutin_gouchin_1": {
+            "frame": {
+                "x": 0,
+                "y": 947,
+                "w": 1200,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 142
+            }
+        },
+        "battle_cutin_gouchin_2": {
+            "frame": {
+                "x": 1205,
+                "y": 113,
+                "w": 1200,
+                "h": 100
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 100
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 100
+            }
+        },
+        "battle_cutin_gouchin_3": {
+            "frame": {
+                "x": 1205,
+                "y": 0,
+                "w": 1200,
+                "h": 108
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 108
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 108
+            }
+        },
+        "battle_cutin_gouchin_4": {
+            "frame": {
+                "x": 1745,
+                "y": 589,
+                "w": 331,
+                "h": 52
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 331,
+                "h": 52
+            },
+            "sourceSize": {
+                "w": 331,
+                "h": 52
+            }
+        },
+        "battle_cutin_gouchin_5": {
+            "frame": {
+                "x": 1745,
+                "y": 532,
+                "w": 331,
+                "h": 52
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 331,
+                "h": 52
+            },
+            "sourceSize": {
+                "w": 331,
+                "h": 52
+            }
+        },
+        "battle_cutin_gouchin_6": {
+            "frame": {
+                "x": 1205,
+                "y": 532,
+                "w": 535,
+                "h": 150
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 535,
+                "h": 150
+            },
+            "sourceSize": {
+                "w": 535,
+                "h": 150
+            }
+        },
+        "battle_cutin_gouchin_7": {
+            "frame": {
+                "x": 1774,
+                "y": 377,
+                "w": 535,
+                "h": 150
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 535,
+                "h": 150
+            },
+            "sourceSize": {
+                "w": 535,
+                "h": 150
+            }
+        },
+        "battle_cutin_gouchin_8": {
+            "frame": {
+                "x": 1876,
+                "y": 218,
+                "w": 498,
+                "h": 153
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 498,
+                "h": 153
+            },
+            "sourceSize": {
+                "w": 498,
+                "h": 153
+            }
+        },
+        "battle_cutin_gouchin_9": {
+            "frame": {
+                "x": 1205,
+                "y": 218,
+                "w": 666,
+                "h": 154
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 666,
+                "h": 154
+            },
+            "sourceSize": {
+                "w": 666,
+                "h": 154
+            }
+        },
+        "battle_cutin_gouchin_10": {
+            "frame": {
+                "x": 0,
+                "y": 725,
+                "w": 952,
+                "h": 217
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 952,
+                "h": 217
+            },
+            "sourceSize": {
+                "w": 952,
+                "h": 217
+            }
+        },
+        "battle_cutin_gouchin_11": {
+            "frame": {
+                "x": 2314,
+                "y": 377,
+                "w": 78,
+                "h": 102
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 78,
+                "h": 102
+            },
+            "sourceSize": {
+                "w": 78,
+                "h": 102
+            }
+        },
+        "battle_cutin_gouchin_12": {
+            "frame": {
+                "x": 1205,
+                "y": 377,
+                "w": 564,
+                "h": 150
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 564,
+                "h": 150
+            },
+            "sourceSize": {
+                "w": 564,
+                "h": 150
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "battle_cutin_gouchin.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2405,
+            "h": 1089
+        },
+        "scale": 1
+    }
+}

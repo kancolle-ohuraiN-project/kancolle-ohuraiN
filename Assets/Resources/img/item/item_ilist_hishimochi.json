@@ -1,0 +1,234 @@
+{
+    "frames": {
+        "item_ilist_hishimochi_0": {
+            "frame": {
+                "x": 803,
+                "y": 240,
+                "w": 75,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 45
+            }
+        },
+        "item_ilist_hishimochi_1": {
+            "frame": {
+                "x": 683,
+                "y": 615,
+                "w": 120,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 45
+            }
+        },
+        "item_ilist_hishimochi_2": {
+            "frame": {
+                "x": 533,
+                "y": 339,
+                "w": 120,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 45
+            }
+        },
+        "item_ilist_hishimochi_3": {
+            "frame": {
+                "x": 683,
+                "y": 365,
+                "w": 115,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 115,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 115,
+                "h": 120
+            }
+        },
+        "item_ilist_hishimochi_4": {
+            "frame": {
+                "x": 683,
+                "y": 490,
+                "w": 115,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 115,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 115,
+                "h": 120
+            }
+        },
+        "item_ilist_hishimochi_5": {
+            "frame": {
+                "x": 683,
+                "y": 240,
+                "w": 115,
+                "h": 120
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 115,
+                "h": 120
+            },
+            "sourceSize": {
+                "w": 115,
+                "h": 120
+            }
+        },
+        "item_ilist_hishimochi_6": {
+            "frame": {
+                "x": 683,
+                "y": 80,
+                "w": 225,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 225,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 225,
+                "h": 75
+            }
+        },
+        "item_ilist_hishimochi_7": {
+            "frame": {
+                "x": 683,
+                "y": 160,
+                "w": 225,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 225,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 225,
+                "h": 75
+            }
+        },
+        "item_ilist_hishimochi_8": {
+            "frame": {
+                "x": 683,
+                "y": 0,
+                "w": 225,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 225,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 225,
+                "h": 75
+            }
+        },
+        "item_ilist_hishimochi_9": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 678,
+                "h": 334
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 678,
+                "h": 334
+            },
+            "sourceSize": {
+                "w": 678,
+                "h": 334
+            }
+        },
+        "item_ilist_hishimochi_10": {
+            "frame": {
+                "x": 0,
+                "y": 339,
+                "w": 528,
+                "h": 334
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 528,
+                "h": 334
+            },
+            "sourceSize": {
+                "w": 528,
+                "h": 334
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "item_ilist_hishimochi.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 908,
+            "h": 673
+        },
+        "scale": 1
+    }
+}

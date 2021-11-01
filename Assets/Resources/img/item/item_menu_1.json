@@ -1,0 +1,154 @@
+{
+    "frames": {
+        "item_menu_1_0": {
+            "frame": {
+                "x": 215,
+                "y": 0,
+                "w": 165,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 165,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 165,
+                "h": 49
+            }
+        },
+        "item_menu_1_1": {
+            "frame": {
+                "x": 215,
+                "y": 54,
+                "w": 165,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 165,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 165,
+                "h": 49
+            }
+        },
+        "item_menu_1_2": {
+            "frame": {
+                "x": 215,
+                "y": 108,
+                "w": 165,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 165,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 165,
+                "h": 49
+            }
+        },
+        "item_menu_1_3": {
+            "frame": {
+                "x": 215,
+                "y": 162,
+                "w": 165,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 165,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 165,
+                "h": 49
+            }
+        },
+        "item_menu_1_4": {
+            "frame": {
+                "x": 215,
+                "y": 216,
+                "w": 165,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 165,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 165,
+                "h": 49
+            }
+        },
+        "item_menu_1_5": {
+            "frame": {
+                "x": 215,
+                "y": 270,
+                "w": 165,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 165,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 165,
+                "h": 49
+            }
+        },
+        "item_menu_1_6": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 720
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 720
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 720
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "item_menu_1.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 380,
+            "h": 720
+        },
+        "scale": 1
+    }
+}

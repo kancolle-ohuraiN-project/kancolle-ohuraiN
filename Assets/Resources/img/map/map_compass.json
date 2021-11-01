@@ -1,0 +1,174 @@
+{
+    "frames": {
+        "map_compass_0": {
+            "frame": {
+                "x": 708,
+                "y": 290,
+                "w": 168,
+                "h": 219
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 168,
+                "h": 219
+            },
+            "sourceSize": {
+                "w": 168,
+                "h": 219
+            }
+        },
+        "map_compass_1": {
+            "frame": {
+                "x": 0,
+                "y": 541,
+                "w": 168,
+                "h": 219
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 168,
+                "h": 219
+            },
+            "sourceSize": {
+                "w": 168,
+                "h": 219
+            }
+        },
+        "map_compass_2": {
+            "frame": {
+                "x": 0,
+                "y": 290,
+                "w": 172,
+                "h": 246
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 246
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 246
+            }
+        },
+        "map_compass_3": {
+            "frame": {
+                "x": 177,
+                "y": 290,
+                "w": 172,
+                "h": 246
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 246
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 246
+            }
+        },
+        "map_compass_4": {
+            "frame": {
+                "x": 354,
+                "y": 290,
+                "w": 172,
+                "h": 246
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 246
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 246
+            }
+        },
+        "map_compass_5": {
+            "frame": {
+                "x": 531,
+                "y": 290,
+                "w": 172,
+                "h": 246
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 246
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 246
+            }
+        },
+        "map_compass_6": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 450,
+                "h": 285
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 450,
+                "h": 285
+            },
+            "sourceSize": {
+                "w": 450,
+                "h": 285
+            }
+        },
+        "map_compass_7": {
+            "frame": {
+                "x": 455,
+                "y": 0,
+                "w": 454,
+                "h": 109
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 454,
+                "h": 109
+            },
+            "sourceSize": {
+                "w": 454,
+                "h": 109
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "map_compass.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 909,
+            "h": 760
+        },
+        "scale": 1
+    }
+}

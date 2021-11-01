@@ -1,0 +1,214 @@
+{
+    "frames": {
+        "battle_zrk_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 720
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 720
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 720
+            }
+        },
+        "battle_zrk_1": {
+            "frame": {
+                "x": 1205,
+                "y": 0,
+                "w": 1200,
+                "h": 720
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 720
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 720
+            }
+        },
+        "battle_zrk_2": {
+            "frame": {
+                "x": 0,
+                "y": 725,
+                "w": 1200,
+                "h": 300
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 300
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 300
+            }
+        },
+        "battle_zrk_3": {
+            "frame": {
+                "x": 1205,
+                "y": 725,
+                "w": 1200,
+                "h": 300
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1200,
+                "h": 300
+            },
+            "sourceSize": {
+                "w": 1200,
+                "h": 300
+            }
+        },
+        "battle_zrk_4": {
+            "frame": {
+                "x": 1140,
+                "y": 1030,
+                "w": 482,
+                "h": 453
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 482,
+                "h": 453
+            },
+            "sourceSize": {
+                "w": 482,
+                "h": 453
+            }
+        },
+        "battle_zrk_5": {
+            "frame": {
+                "x": 566,
+                "y": 1030,
+                "w": 569,
+                "h": 479
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 569,
+                "h": 479
+            },
+            "sourceSize": {
+                "w": 569,
+                "h": 479
+            }
+        },
+        "battle_zrk_6": {
+            "frame": {
+                "x": 0,
+                "y": 1030,
+                "w": 561,
+                "h": 513
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 561,
+                "h": 513
+            },
+            "sourceSize": {
+                "w": 561,
+                "h": 513
+            }
+        },
+        "battle_zrk_7": {
+            "frame": {
+                "x": 2079,
+                "y": 1030,
+                "w": 162,
+                "h": 178
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 162,
+                "h": 178
+            },
+            "sourceSize": {
+                "w": 162,
+                "h": 178
+            }
+        },
+        "battle_zrk_8": {
+            "frame": {
+                "x": 2246,
+                "y": 1030,
+                "w": 159,
+                "h": 177
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 159,
+                "h": 177
+            },
+            "sourceSize": {
+                "w": 159,
+                "h": 177
+            }
+        },
+        "battle_zrk_9": {
+            "frame": {
+                "x": 1627,
+                "y": 1030,
+                "w": 447,
+                "h": 178
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 447,
+                "h": 178
+            },
+            "sourceSize": {
+                "w": 447,
+                "h": 178
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "battle_zrk.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2405,
+            "h": 1543
+        },
+        "scale": 1
+    }
+}

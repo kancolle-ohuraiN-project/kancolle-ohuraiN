@@ -1,0 +1,394 @@
+{
+    "frames": {
+        "sally_strategymap_s_0": {
+            "frame": {
+                "x": 570,
+                "y": 319,
+                "w": 109,
+                "h": 109
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 109,
+                "h": 109
+            },
+            "sourceSize": {
+                "w": 109,
+                "h": 109
+            }
+        },
+        "sally_strategymap_s_1": {
+            "frame": {
+                "x": 570,
+                "y": 168,
+                "w": 134,
+                "h": 146
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 146
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 146
+            }
+        },
+        "sally_strategymap_s_2": {
+            "frame": {
+                "x": 410,
+                "y": 285,
+                "w": 140,
+                "h": 134
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 140,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 134
+            }
+        },
+        "sally_strategymap_s_3": {
+            "frame": {
+                "x": 570,
+                "y": 0,
+                "w": 156,
+                "h": 163
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 163
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 163
+            }
+        },
+        "sally_strategymap_s_4": {
+            "frame": {
+                "x": 176,
+                "y": 439,
+                "w": 171,
+                "h": 108
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 171,
+                "h": 108
+            },
+            "sourceSize": {
+                "w": 171,
+                "h": 108
+            }
+        },
+        "sally_strategymap_s_5": {
+            "frame": {
+                "x": 0,
+                "y": 439,
+                "w": 171,
+                "h": 108
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 171,
+                "h": 108
+            },
+            "sourceSize": {
+                "w": 171,
+                "h": 108
+            }
+        },
+        "sally_strategymap_s_6": {
+            "frame": {
+                "x": 205,
+                "y": 285,
+                "w": 200,
+                "h": 149
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 149
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 149
+            }
+        },
+        "sally_strategymap_s_7": {
+            "frame": {
+                "x": 0,
+                "y": 285,
+                "w": 200,
+                "h": 149
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 149
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 149
+            }
+        },
+        "sally_strategymap_s_8": {
+            "frame": {
+                "x": 592,
+                "y": 439,
+                "w": 47,
+                "h": 68
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 47,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 47,
+                "h": 68
+            }
+        },
+        "sally_strategymap_s_9": {
+            "frame": {
+                "x": 644,
+                "y": 439,
+                "w": 47,
+                "h": 68
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 47,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 47,
+                "h": 68
+            }
+        },
+        "sally_strategymap_s_10": {
+            "frame": {
+                "x": 407,
+                "y": 552,
+                "w": 162,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 162,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 162,
+                "h": 42
+            }
+        },
+        "sally_strategymap_s_11": {
+            "frame": {
+                "x": 240,
+                "y": 552,
+                "w": 162,
+                "h": 42
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 162,
+                "h": 42
+            },
+            "sourceSize": {
+                "w": 162,
+                "h": 42
+            }
+        },
+        "sally_strategymap_s_12": {
+            "frame": {
+                "x": 0,
+                "y": 552,
+                "w": 235,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 235,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 235,
+                "h": 75
+            }
+        },
+        "sally_strategymap_s_13": {
+            "frame": {
+                "x": 352,
+                "y": 439,
+                "w": 235,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 235,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 235,
+                "h": 75
+            }
+        },
+        "sally_strategymap_s_14": {
+            "frame": {
+                "x": 285,
+                "y": 0,
+                "w": 280,
+                "h": 280
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 280,
+                "h": 280
+            },
+            "sourceSize": {
+                "w": 280,
+                "h": 280
+            }
+        },
+        "sally_strategymap_s_15": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 280,
+                "h": 280
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 280,
+                "h": 280
+            },
+            "sourceSize": {
+                "w": 280,
+                "h": 280
+            }
+        },
+        "sally_strategymap_s_16": {
+            "frame": {
+                "x": 0,
+                "y": 632,
+                "w": 159,
+                "h": 26
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 159,
+                "h": 26
+            },
+            "sourceSize": {
+                "w": 159,
+                "h": 26
+            }
+        },
+        "sally_strategymap_s_17": {
+            "frame": {
+                "x": 352,
+                "y": 519,
+                "w": 264,
+                "h": 26
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 264,
+                "h": 26
+            },
+            "sourceSize": {
+                "w": 264,
+                "h": 26
+            }
+        },
+        "sally_strategymap_s_18": {
+            "frame": {
+                "x": 240,
+                "y": 599,
+                "w": 212,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 212,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 212,
+                "h": 20
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "sally_strategymap_s.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 726,
+            "h": 658
+        },
+        "scale": 1
+    }
+}

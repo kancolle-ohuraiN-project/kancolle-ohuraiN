@@ -1,0 +1,914 @@
+{
+    "frames": {
+        "remodel_preset_0": {
+            "frame": {
+                "x": 1288,
+                "y": 597,
+                "w": 22,
+                "h": 27
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 22,
+                "h": 27
+            },
+            "sourceSize": {
+                "w": 22,
+                "h": 27
+            }
+        },
+        "remodel_preset_1": {
+            "frame": {
+                "x": 1288,
+                "y": 561,
+                "w": 24,
+                "h": 31
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 31
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 31
+            }
+        },
+        "remodel_preset_2": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1013,
+                "h": 646
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1013,
+                "h": 646
+            },
+            "sourceSize": {
+                "w": 1013,
+                "h": 646
+            }
+        },
+        "remodel_preset_3": {
+            "frame": {
+                "x": 818,
+                "y": 860,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_4": {
+            "frame": {
+                "x": 889,
+                "y": 860,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_5": {
+            "frame": {
+                "x": 331,
+                "y": 998,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_6": {
+            "frame": {
+                "x": 739,
+                "y": 860,
+                "w": 74,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 74,
+                "h": 56
+            },
+            "sourceSize": {
+                "w": 74,
+                "h": 56
+            }
+        },
+        "remodel_preset_7": {
+            "frame": {
+                "x": 402,
+                "y": 998,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_8": {
+            "frame": {
+                "x": 473,
+                "y": 998,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_9": {
+            "frame": {
+                "x": 544,
+                "y": 998,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_10": {
+            "frame": {
+                "x": 1267,
+                "y": 365,
+                "w": 48,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 50
+            },
+            "sourceSize": {
+                "w": 48,
+                "h": 50
+            }
+        },
+        "remodel_preset_11": {
+            "frame": {
+                "x": 1018,
+                "y": 893,
+                "w": 181,
+                "h": 46
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 46
+            }
+        },
+        "remodel_preset_12": {
+            "frame": {
+                "x": 1218,
+                "y": 561,
+                "w": 65,
+                "h": 65
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 65,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 65,
+                "h": 65
+            }
+        },
+        "remodel_preset_13": {
+            "frame": {
+                "x": 739,
+                "y": 790,
+                "w": 65,
+                "h": 65
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 65,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 65,
+                "h": 65
+            }
+        },
+        "remodel_preset_14": {
+            "frame": {
+                "x": 809,
+                "y": 790,
+                "w": 65,
+                "h": 65
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 65,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 65,
+                "h": 65
+            }
+        },
+        "remodel_preset_15": {
+            "frame": {
+                "x": 879,
+                "y": 790,
+                "w": 65,
+                "h": 65
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 65,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 65,
+                "h": 65
+            }
+        },
+        "remodel_preset_16": {
+            "frame": {
+                "x": 615,
+                "y": 998,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_17": {
+            "frame": {
+                "x": 686,
+                "y": 998,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_18": {
+            "frame": {
+                "x": 1018,
+                "y": 677,
+                "w": 172,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 49
+            }
+        },
+        "remodel_preset_19": {
+            "frame": {
+                "x": 1018,
+                "y": 731,
+                "w": 172,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 49
+            }
+        },
+        "remodel_preset_20": {
+            "frame": {
+                "x": 739,
+                "y": 651,
+                "w": 181,
+                "h": 46
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 46
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 46
+            }
+        },
+        "remodel_preset_21": {
+            "frame": {
+                "x": 757,
+                "y": 998,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_22": {
+            "frame": {
+                "x": 828,
+                "y": 998,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_23": {
+            "frame": {
+                "x": 899,
+                "y": 998,
+                "w": 66,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 66,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 66,
+                "h": 49
+            }
+        },
+        "remodel_preset_24": {
+            "frame": {
+                "x": 739,
+                "y": 702,
+                "w": 159,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 159,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 159,
+                "h": 39
+            }
+        },
+        "remodel_preset_25": {
+            "frame": {
+                "x": 739,
+                "y": 746,
+                "w": 159,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 159,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 159,
+                "h": 39
+            }
+        },
+        "remodel_preset_26": {
+            "frame": {
+                "x": 1018,
+                "y": 785,
+                "w": 172,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 49
+            }
+        },
+        "remodel_preset_27": {
+            "frame": {
+                "x": 1018,
+                "y": 839,
+                "w": 172,
+                "h": 49
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 49
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 49
+            }
+        },
+        "remodel_preset_28": {
+            "frame": {
+                "x": 0,
+                "y": 651,
+                "w": 734,
+                "h": 291
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 734,
+                "h": 291
+            },
+            "sourceSize": {
+                "w": 734,
+                "h": 291
+            }
+        },
+        "remodel_preset_29": {
+            "frame": {
+                "x": 1018,
+                "y": 561,
+                "w": 195,
+                "h": 70
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 195,
+                "h": 70
+            },
+            "sourceSize": {
+                "w": 195,
+                "h": 70
+            }
+        },
+        "remodel_preset_30": {
+            "frame": {
+                "x": 331,
+                "y": 947,
+                "w": 892,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 892,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 892,
+                "h": 22
+            }
+        },
+        "remodel_preset_31": {
+            "frame": {
+                "x": 331,
+                "y": 974,
+                "w": 888,
+                "h": 19
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 888,
+                "h": 19
+            },
+            "sourceSize": {
+                "w": 888,
+                "h": 19
+            }
+        },
+        "remodel_preset_32": {
+            "frame": {
+                "x": 1018,
+                "y": 0,
+                "w": 312,
+                "h": 360
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 312,
+                "h": 360
+            },
+            "sourceSize": {
+                "w": 312,
+                "h": 360
+            }
+        },
+        "remodel_preset_33": {
+            "frame": {
+                "x": 0,
+                "y": 947,
+                "w": 326,
+                "h": 331
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 326,
+                "h": 331
+            },
+            "sourceSize": {
+                "w": 326,
+                "h": 331
+            }
+        },
+        "remodel_preset_34": {
+            "frame": {
+                "x": 1018,
+                "y": 509,
+                "w": 296,
+                "h": 47
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 296,
+                "h": 47
+            },
+            "sourceSize": {
+                "w": 296,
+                "h": 47
+            }
+        },
+        "remodel_preset_35": {
+            "frame": {
+                "x": 1018,
+                "y": 636,
+                "w": 292,
+                "h": 36
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 292,
+                "h": 36
+            },
+            "sourceSize": {
+                "w": 292,
+                "h": 36
+            }
+        },
+        "remodel_preset_36": {
+            "frame": {
+                "x": 1267,
+                "y": 437,
+                "w": 43,
+                "h": 26
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 43,
+                "h": 26
+            },
+            "sourceSize": {
+                "w": 43,
+                "h": 26
+            }
+        },
+        "remodel_preset_37": {
+            "frame": {
+                "x": 1267,
+                "y": 468,
+                "w": 43,
+                "h": 26
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 43,
+                "h": 26
+            },
+            "sourceSize": {
+                "w": 43,
+                "h": 26
+            }
+        },
+        "remodel_preset_38": {
+            "frame": {
+                "x": 1204,
+                "y": 893,
+                "w": 108,
+                "h": 19
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 108,
+                "h": 19
+            },
+            "sourceSize": {
+                "w": 108,
+                "h": 19
+            }
+        },
+        "remodel_preset_39": {
+            "frame": {
+                "x": 1195,
+                "y": 677,
+                "w": 103,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 103,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 103,
+                "h": 32
+            }
+        },
+        "remodel_preset_40": {
+            "frame": {
+                "x": 1195,
+                "y": 731,
+                "w": 103,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 103,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 103,
+                "h": 32
+            }
+        },
+        "remodel_preset_41": {
+            "frame": {
+                "x": 1195,
+                "y": 785,
+                "w": 103,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 103,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 103,
+                "h": 32
+            }
+        },
+        "remodel_preset_42": {
+            "frame": {
+                "x": 1195,
+                "y": 839,
+                "w": 103,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 103,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 103,
+                "h": 32
+            }
+        },
+        "remodel_preset_43": {
+            "frame": {
+                "x": 1018,
+                "y": 365,
+                "w": 244,
+                "h": 67
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 244,
+                "h": 67
+            },
+            "sourceSize": {
+                "w": 244,
+                "h": 67
+            }
+        },
+        "remodel_preset_44": {
+            "frame": {
+                "x": 1018,
+                "y": 437,
+                "w": 244,
+                "h": 67
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 244,
+                "h": 67
+            },
+            "sourceSize": {
+                "w": 244,
+                "h": 67
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "remodel_preset.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1330,
+            "h": 1278
+        },
+        "scale": 1
+    }
+}

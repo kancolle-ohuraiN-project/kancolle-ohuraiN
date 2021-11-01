@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "duty_poster_girl_xmas_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 433,
+                "h": 1146
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 433,
+                "h": 1146
+            },
+            "sourceSize": {
+                "w": 433,
+                "h": 1146
+            }
+        },
+        "duty_poster_girl_xmas_1": {
+            "frame": {
+                "x": 438,
+                "y": 0,
+                "w": 433,
+                "h": 1146
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 433,
+                "h": 1146
+            },
+            "sourceSize": {
+                "w": 433,
+                "h": 1146
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "duty_poster_girl_xmas.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 871,
+            "h": 1146
+        },
+        "scale": 1
+    }
+}

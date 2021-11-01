@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "revamp_pager_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 21
+            }
+        },
+        "revamp_pager_1": {
+            "frame": {
+                "x": 38,
+                "y": 0,
+                "w": 33,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 33,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 33,
+                "h": 21
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "revamp_pager.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 71,
+            "h": 21
+        },
+        "scale": 1
+    }
+}

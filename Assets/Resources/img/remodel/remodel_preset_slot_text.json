@@ -1,0 +1,294 @@
+{
+    "frames": {
+        "remodel_preset_slot_text_id_1": {
+            "frame": {
+                "x": 0,
+                "y": 56,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_2": {
+            "frame": {
+                "x": 0,
+                "y": 84,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_3": {
+            "frame": {
+                "x": 0,
+                "y": 112,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_4": {
+            "frame": {
+                "x": 164,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_5": {
+            "frame": {
+                "x": 164,
+                "y": 28,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_6": {
+            "frame": {
+                "x": 164,
+                "y": 56,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_7": {
+            "frame": {
+                "x": 164,
+                "y": 84,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_8": {
+            "frame": {
+                "x": 164,
+                "y": 112,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_9": {
+            "frame": {
+                "x": 0,
+                "y": 140,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_10": {
+            "frame": {
+                "x": 155,
+                "y": 140,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_11": {
+            "frame": {
+                "x": 0,
+                "y": 168,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_12": {
+            "frame": {
+                "x": 155,
+                "y": 168,
+                "w": 150,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_13": {
+            "frame": {
+                "x": 0,
+                "y": 28,
+                "w": 156,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 156,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 156,
+                "h": 23
+            }
+        },
+        "remodel_preset_slot_text_id_14": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 159,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 159,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 159,
+                "h": 23
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "remodel_preset_slot_text.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 314,
+            "h": 191
+        },
+        "scale": 1
+    }
+}

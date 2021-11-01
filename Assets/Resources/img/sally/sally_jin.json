@@ -1,0 +1,894 @@
+{
+    "frames": {
+        "sally_jin_0": {
+            "frame": {
+                "x": 651,
+                "y": 750,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_1": {
+            "frame": {
+                "x": 341,
+                "y": 750,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_2": {
+            "frame": {
+                "x": 806,
+                "y": 750,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_3": {
+            "frame": {
+                "x": 0,
+                "y": 830,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_4": {
+            "frame": {
+                "x": 155,
+                "y": 830,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_5": {
+            "frame": {
+                "x": 310,
+                "y": 830,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_6": {
+            "frame": {
+                "x": 465,
+                "y": 830,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_7": {
+            "frame": {
+                "x": 620,
+                "y": 830,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_8": {
+            "frame": {
+                "x": 775,
+                "y": 830,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_9": {
+            "frame": {
+                "x": 0,
+                "y": 883,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_10": {
+            "frame": {
+                "x": 186,
+                "y": 750,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_11": {
+            "frame": {
+                "x": 496,
+                "y": 750,
+                "w": 150,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 48
+            }
+        },
+        "sally_jin_12": {
+            "frame": {
+                "x": 776,
+                "y": 700,
+                "w": 21,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 21,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 21,
+                "h": 21
+            }
+        },
+        "sally_jin_13": {
+            "frame": {
+                "x": 750,
+                "y": 700,
+                "w": 21,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 21,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 21,
+                "h": 21
+            }
+        },
+        "sally_jin_14": {
+            "frame": {
+                "x": 0,
+                "y": 200,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_15": {
+            "frame": {
+                "x": 245,
+                "y": 200,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_16": {
+            "frame": {
+                "x": 490,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_17": {
+            "frame": {
+                "x": 490,
+                "y": 200,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_18": {
+            "frame": {
+                "x": 616,
+                "y": 700,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "sally_jin_19": {
+            "frame": {
+                "x": 616,
+                "y": 600,
+                "w": 210,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 45
+            }
+        },
+        "sally_jin_20": {
+            "frame": {
+                "x": 186,
+                "y": 650,
+                "w": 210,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 45
+            }
+        },
+        "sally_jin_21": {
+            "frame": {
+                "x": 401,
+                "y": 700,
+                "w": 210,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 45
+            }
+        },
+        "sally_jin_22": {
+            "frame": {
+                "x": 401,
+                "y": 650,
+                "w": 210,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 45
+            }
+        },
+        "sally_jin_23": {
+            "frame": {
+                "x": 616,
+                "y": 650,
+                "w": 210,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 45
+            }
+        },
+        "sally_jin_24": {
+            "frame": {
+                "x": 186,
+                "y": 700,
+                "w": 210,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 45
+            }
+        },
+        "sally_jin_25": {
+            "frame": {
+                "x": 186,
+                "y": 600,
+                "w": 210,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 45
+            }
+        },
+        "sally_jin_26": {
+            "frame": {
+                "x": 401,
+                "y": 600,
+                "w": 210,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 45
+            }
+        },
+        "sally_jin_27": {
+            "frame": {
+                "x": 848,
+                "y": 700,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 18,
+                "h": 18
+            }
+        },
+        "sally_jin_28": {
+            "frame": {
+                "x": 802,
+                "y": 700,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 18,
+                "h": 18
+            }
+        },
+        "sally_jin_29": {
+            "frame": {
+                "x": 917,
+                "y": 700,
+                "w": 15,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 15,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 15,
+                "h": 15
+            }
+        },
+        "sally_jin_30": {
+            "frame": {
+                "x": 871,
+                "y": 700,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 18,
+                "h": 18
+            }
+        },
+        "sally_jin_31": {
+            "frame": {
+                "x": 825,
+                "y": 700,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 18,
+                "h": 18
+            }
+        },
+        "sally_jin_32": {
+            "frame": {
+                "x": 894,
+                "y": 700,
+                "w": 18,
+                "h": 18
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "sourceSize": {
+                "w": 18,
+                "h": 18
+            }
+        },
+        "sally_jin_33": {
+            "frame": {
+                "x": 0,
+                "y": 600,
+                "w": 181,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 225
+            }
+        },
+        "sally_jin_34": {
+            "frame": {
+                "x": 245,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_35": {
+            "frame": {
+                "x": 735,
+                "y": 400,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_36": {
+            "frame": {
+                "x": 735,
+                "y": 200,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_37": {
+            "frame": {
+                "x": 735,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_38": {
+            "frame": {
+                "x": 831,
+                "y": 650,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "sally_jin_39": {
+            "frame": {
+                "x": 490,
+                "y": 400,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_40": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_41": {
+            "frame": {
+                "x": 0,
+                "y": 400,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_42": {
+            "frame": {
+                "x": 245,
+                "y": 400,
+                "w": 240,
+                "h": 195
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 195
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 195
+            }
+        },
+        "sally_jin_43": {
+            "frame": {
+                "x": 831,
+                "y": 600,
+                "w": 129,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 40
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "sally_jin.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 975,
+            "h": 931
+        },
+        "scale": 1
+    }
+}

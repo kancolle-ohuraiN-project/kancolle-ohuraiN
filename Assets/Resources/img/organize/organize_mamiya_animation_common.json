@@ -1,0 +1,74 @@
+{
+    "frames": {
+        "organize_mamiya_animation_common_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 795,
+                "h": 795
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 795,
+                "h": 795
+            },
+            "sourceSize": {
+                "w": 795,
+                "h": 795
+            }
+        },
+        "organize_mamiya_animation_common_1": {
+            "frame": {
+                "x": 800,
+                "y": 224,
+                "w": 150,
+                "h": 150
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 150
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 150
+            }
+        },
+        "organize_mamiya_animation_common_2": {
+            "frame": {
+                "x": 800,
+                "y": 0,
+                "w": 696,
+                "h": 219
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 696,
+                "h": 219
+            },
+            "sourceSize": {
+                "w": 696,
+                "h": 219
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "organize_mamiya_animation_common.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1496,
+            "h": 795
+        },
+        "scale": 1
+    }
+}

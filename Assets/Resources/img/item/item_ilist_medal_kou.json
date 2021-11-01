@@ -1,0 +1,74 @@
+{
+    "frames": {
+        "item_ilist_medal_kou_0": {
+            "frame": {
+                "x": 0,
+                "y": 311,
+                "w": 180,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 45
+            }
+        },
+        "item_ilist_medal_kou_1": {
+            "frame": {
+                "x": 185,
+                "y": 311,
+                "w": 180,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 45
+            }
+        },
+        "item_ilist_medal_kou_2": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 771,
+                "h": 306
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 771,
+                "h": 306
+            },
+            "sourceSize": {
+                "w": 771,
+                "h": 306
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "item_ilist_medal_kou.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 771,
+            "h": 356
+        },
+        "scale": 1
+    }
+}

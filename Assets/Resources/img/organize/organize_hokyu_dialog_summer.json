@@ -1,0 +1,214 @@
+{
+    "frames": {
+        "organize_hokyu_dialog_summer_0": {
+            "frame": {
+                "x": 767,
+                "y": 783,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_summer_1": {
+            "frame": {
+                "x": 901,
+                "y": 783,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_summer_2": {
+            "frame": {
+                "x": 1303,
+                "y": 783,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_summer_3": {
+            "frame": {
+                "x": 1437,
+                "y": 783,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_summer_4": {
+            "frame": {
+                "x": 1035,
+                "y": 783,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_summer_5": {
+            "frame": {
+                "x": 1169,
+                "y": 783,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_summer_6": {
+            "frame": {
+                "x": 0,
+                "y": 591,
+                "w": 762,
+                "h": 579
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 762,
+                "h": 579
+            },
+            "sourceSize": {
+                "w": 762,
+                "h": 579
+            }
+        },
+        "organize_hokyu_dialog_summer_7": {
+            "frame": {
+                "x": 767,
+                "y": 591,
+                "w": 906,
+                "h": 187
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 906,
+                "h": 187
+            },
+            "sourceSize": {
+                "w": 906,
+                "h": 187
+            }
+        },
+        "organize_hokyu_dialog_summer_8": {
+            "frame": {
+                "x": 1011,
+                "y": 0,
+                "w": 762,
+                "h": 585
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 762,
+                "h": 585
+            },
+            "sourceSize": {
+                "w": 762,
+                "h": 585
+            }
+        },
+        "organize_hokyu_dialog_summer_9": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1006,
+                "h": 586
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1006,
+                "h": 586
+            },
+            "sourceSize": {
+                "w": 1006,
+                "h": 586
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "organize_hokyu_dialog_summer.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1773,
+            "h": 1170
+        },
+        "scale": 1
+    }
+}

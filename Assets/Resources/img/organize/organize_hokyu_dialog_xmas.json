@@ -1,0 +1,214 @@
+{
+    "frames": {
+        "organize_hokyu_dialog_xmas_0": {
+            "frame": {
+                "x": 1678,
+                "y": 588,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_xmas_1": {
+            "frame": {
+                "x": 1678,
+                "y": 632,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_xmas_2": {
+            "frame": {
+                "x": 767,
+                "y": 780,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_xmas_3": {
+            "frame": {
+                "x": 901,
+                "y": 780,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_xmas_4": {
+            "frame": {
+                "x": 1678,
+                "y": 676,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_xmas_5": {
+            "frame": {
+                "x": 1678,
+                "y": 720,
+                "w": 129,
+                "h": 39
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 129,
+                "h": 39
+            },
+            "sourceSize": {
+                "w": 129,
+                "h": 39
+            }
+        },
+        "organize_hokyu_dialog_xmas_6": {
+            "frame": {
+                "x": 1073,
+                "y": 0,
+                "w": 762,
+                "h": 583
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 762,
+                "h": 583
+            },
+            "sourceSize": {
+                "w": 762,
+                "h": 583
+            }
+        },
+        "organize_hokyu_dialog_xmas_7": {
+            "frame": {
+                "x": 767,
+                "y": 588,
+                "w": 906,
+                "h": 187
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 906,
+                "h": 187
+            },
+            "sourceSize": {
+                "w": 906,
+                "h": 187
+            }
+        },
+        "organize_hokyu_dialog_xmas_8": {
+            "frame": {
+                "x": 0,
+                "y": 588,
+                "w": 762,
+                "h": 532
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 762,
+                "h": 532
+            },
+            "sourceSize": {
+                "w": 762,
+                "h": 532
+            }
+        },
+        "organize_hokyu_dialog_xmas_9": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1068,
+                "h": 583
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1068,
+                "h": 583
+            },
+            "sourceSize": {
+                "w": 1068,
+                "h": 583
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "organize_hokyu_dialog_xmas.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1835,
+            "h": 1120
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "frames": {
+        "arsenal_animation_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 720,
+                "h": 720
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 720,
+                "h": 720
+            },
+            "sourceSize": {
+                "w": 720,
+                "h": 720
+            }
+        },
+        "arsenal_animation_1": {
+            "frame": {
+                "x": 725,
+                "y": 398,
+                "w": 312,
+                "h": 312
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 312,
+                "h": 312
+            },
+            "sourceSize": {
+                "w": 312,
+                "h": 312
+            }
+        },
+        "arsenal_animation_2": {
+            "frame": {
+                "x": 300,
+                "y": 725,
+                "w": 154,
+                "h": 154
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 154
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 154
+            }
+        },
+        "arsenal_animation_3": {
+            "frame": {
+                "x": 1042,
+                "y": 398,
+                "w": 15,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 15,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 15,
+                "h": 15
+            }
+        },
+        "arsenal_animation_4": {
+            "frame": {
+                "x": 1062,
+                "y": 398,
+                "w": 13,
+                "h": 13
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 13,
+                "h": 13
+            },
+            "sourceSize": {
+                "w": 13,
+                "h": 13
+            }
+        },
+        "arsenal_animation_5": {
+            "frame": {
+                "x": 725,
+                "y": 0,
+                "w": 393,
+                "h": 393
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 393,
+                "h": 393
+            },
+            "sourceSize": {
+                "w": 393,
+                "h": 393
+            }
+        },
+        "arsenal_animation_6": {
+            "frame": {
+                "x": 0,
+                "y": 725,
+                "w": 295,
+                "h": 295
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 295,
+                "h": 295
+            },
+            "sourceSize": {
+                "w": 295,
+                "h": 295
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "arsenal_animation.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1118,
+            "h": 1020
+        },
+        "scale": 1
+    }
+}

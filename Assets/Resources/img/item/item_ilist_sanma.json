@@ -1,0 +1,314 @@
+{
+    "frames": {
+        "item_ilist_sanma_0": {
+            "frame": {
+                "x": 683,
+                "y": 342,
+                "w": 75,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 45
+            }
+        },
+        "item_ilist_sanma_1": {
+            "frame": {
+                "x": 286,
+                "y": 733,
+                "w": 120,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 45
+            }
+        },
+        "item_ilist_sanma_2": {
+            "frame": {
+                "x": 536,
+                "y": 733,
+                "w": 120,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 45
+            }
+        },
+        "item_ilist_sanma_3": {
+            "frame": {
+                "x": 411,
+                "y": 733,
+                "w": 120,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 45
+            }
+        },
+        "item_ilist_sanma_4": {
+            "frame": {
+                "x": 143,
+                "y": 733,
+                "w": 138,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 138,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 148
+            }
+        },
+        "item_ilist_sanma_5": {
+            "frame": {
+                "x": 0,
+                "y": 733,
+                "w": 138,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 138,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 148
+            }
+        },
+        "item_ilist_sanma_6": {
+            "frame": {
+                "x": 803,
+                "y": 379,
+                "w": 138,
+                "h": 148
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 138,
+                "h": 148
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 148
+            }
+        },
+        "item_ilist_sanma_7": {
+            "frame": {
+                "x": 0,
+                "y": 653,
+                "w": 307,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 307,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 307,
+                "h": 75
+            }
+        },
+        "item_ilist_sanma_8": {
+            "frame": {
+                "x": 624,
+                "y": 653,
+                "w": 307,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 307,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 307,
+                "h": 75
+            }
+        },
+        "item_ilist_sanma_9": {
+            "frame": {
+                "x": 312,
+                "y": 653,
+                "w": 307,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 307,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 307,
+                "h": 75
+            }
+        },
+        "item_ilist_sanma_10": {
+            "frame": {
+                "x": 803,
+                "y": 191,
+                "w": 193,
+                "h": 183
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 193,
+                "h": 183
+            },
+            "sourceSize": {
+                "w": 193,
+                "h": 183
+            }
+        },
+        "item_ilist_sanma_11": {
+            "frame": {
+                "x": 803,
+                "y": 532,
+                "w": 180,
+                "h": 102
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 102
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 102
+            }
+        },
+        "item_ilist_sanma_12": {
+            "frame": {
+                "x": 803,
+                "y": 0,
+                "w": 193,
+                "h": 186
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 193,
+                "h": 186
+            },
+            "sourceSize": {
+                "w": 193,
+                "h": 186
+            }
+        },
+        "item_ilist_sanma_13": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 798,
+                "h": 337
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 798,
+                "h": 337
+            },
+            "sourceSize": {
+                "w": 798,
+                "h": 337
+            }
+        },
+        "item_ilist_sanma_14": {
+            "frame": {
+                "x": 0,
+                "y": 342,
+                "w": 678,
+                "h": 306
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 678,
+                "h": 306
+            },
+            "sourceSize": {
+                "w": 678,
+                "h": 306
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "item_ilist_sanma.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 996,
+            "h": 881
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,1194 @@
+{
+    "frames": {
+        "sally_airbase_maint_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 520
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 520
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 520
+            }
+        },
+        "sally_airbase_maint_1": {
+            "frame": {
+                "x": 141,
+                "y": 560,
+                "w": 180,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 45
+            }
+        },
+        "sally_airbase_maint_2": {
+            "frame": {
+                "x": 141,
+                "y": 525,
+                "w": 270,
+                "h": 30
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 30
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 30
+            }
+        },
+        "sally_airbase_maint_3": {
+            "frame": {
+                "x": 416,
+                "y": 525,
+                "w": 270,
+                "h": 30
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 30
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 30
+            }
+        },
+        "sally_airbase_maint_4": {
+            "frame": {
+                "x": 1425,
+                "y": 213,
+                "w": 292,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 292,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 292,
+                "h": 40
+            }
+        },
+        "sally_airbase_maint_5": {
+            "frame": {
+                "x": 1425,
+                "y": 258,
+                "w": 292,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 292,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 292,
+                "h": 40
+            }
+        },
+        "sally_airbase_maint_6": {
+            "frame": {
+                "x": 691,
+                "y": 525,
+                "w": 270,
+                "h": 30
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 30
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 30
+            }
+        },
+        "sally_airbase_maint_7": {
+            "frame": {
+                "x": 1743,
+                "y": 324,
+                "w": 59,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 59,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 59,
+                "h": 20
+            }
+        },
+        "sally_airbase_maint_8": {
+            "frame": {
+                "x": 1727,
+                "y": 353,
+                "w": 59,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 59,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 59,
+                "h": 20
+            }
+        },
+        "sally_airbase_maint_9": {
+            "frame": {
+                "x": 1366,
+                "y": 525,
+                "w": 54,
+                "h": 19
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 54,
+                "h": 19
+            },
+            "sourceSize": {
+                "w": 54,
+                "h": 19
+            }
+        },
+        "sally_airbase_maint_10": {
+            "frame": {
+                "x": 1425,
+                "y": 525,
+                "w": 54,
+                "h": 19
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 54,
+                "h": 19
+            },
+            "sourceSize": {
+                "w": 54,
+                "h": 19
+            }
+        },
+        "sally_airbase_maint_11": {
+            "frame": {
+                "x": 699,
+                "y": 411,
+                "w": 134,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 90
+            }
+        },
+        "sally_airbase_maint_12": {
+            "frame": {
+                "x": 838,
+                "y": 411,
+                "w": 134,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 90
+            }
+        },
+        "sally_airbase_maint_13": {
+            "frame": {
+                "x": 977,
+                "y": 411,
+                "w": 134,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 90
+            }
+        },
+        "sally_airbase_maint_14": {
+            "frame": {
+                "x": 1116,
+                "y": 411,
+                "w": 134,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 90
+            }
+        },
+        "sally_airbase_maint_15": {
+            "frame": {
+                "x": 854,
+                "y": 213,
+                "w": 201,
+                "h": 135
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 201,
+                "h": 135
+            },
+            "sourceSize": {
+                "w": 201,
+                "h": 135
+            }
+        },
+        "sally_airbase_maint_16": {
+            "frame": {
+                "x": 1255,
+                "y": 411,
+                "w": 134,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 90
+            }
+        },
+        "sally_airbase_maint_17": {
+            "frame": {
+                "x": 1394,
+                "y": 411,
+                "w": 134,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 90
+            }
+        },
+        "sally_airbase_maint_18": {
+            "frame": {
+                "x": 1060,
+                "y": 213,
+                "w": 201,
+                "h": 135
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 201,
+                "h": 135
+            },
+            "sourceSize": {
+                "w": 201,
+                "h": 135
+            }
+        },
+        "sally_airbase_maint_19": {
+            "frame": {
+                "x": 1533,
+                "y": 411,
+                "w": 134,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 90
+            }
+        },
+        "sally_airbase_maint_20": {
+            "frame": {
+                "x": 1672,
+                "y": 411,
+                "w": 134,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 134,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 134,
+                "h": 90
+            }
+        },
+        "sally_airbase_maint_21": {
+            "frame": {
+                "x": 326,
+                "y": 560,
+                "w": 180,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 45
+            }
+        },
+        "sally_airbase_maint_22": {
+            "frame": {
+                "x": 699,
+                "y": 0,
+                "w": 1111,
+                "h": 208
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1111,
+                "h": 208
+            },
+            "sourceSize": {
+                "w": 1111,
+                "h": 208
+            }
+        },
+        "sally_airbase_maint_23": {
+            "frame": {
+                "x": 1266,
+                "y": 213,
+                "w": 154,
+                "h": 106
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 106
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 106
+            }
+        },
+        "sally_airbase_maint_24": {
+            "frame": {
+                "x": 141,
+                "y": 610,
+                "w": 69,
+                "h": 85
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 69,
+                "h": 85
+            },
+            "sourceSize": {
+                "w": 69,
+                "h": 85
+            }
+        },
+        "sally_airbase_maint_25": {
+            "frame": {
+                "x": 0,
+                "y": 525,
+                "w": 136,
+                "h": 179
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 136,
+                "h": 179
+            },
+            "sourceSize": {
+                "w": 136,
+                "h": 179
+            }
+        },
+        "sally_airbase_maint_26": {
+            "frame": {
+                "x": 1791,
+                "y": 353,
+                "w": 10,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 10,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 10,
+                "h": 10
+            }
+        },
+        "sally_airbase_maint_27": {
+            "frame": {
+                "x": 699,
+                "y": 213,
+                "w": 150,
+                "h": 193
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 150,
+                "h": 193
+            },
+            "sourceSize": {
+                "w": 150,
+                "h": 193
+            }
+        },
+        "sally_airbase_maint_28": {
+            "frame": {
+                "x": 295,
+                "y": 610,
+                "w": 50,
+                "h": 50
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 50,
+                "h": 50
+            },
+            "sourceSize": {
+                "w": 50,
+                "h": 50
+            }
+        },
+        "sally_airbase_maint_29": {
+            "frame": {
+                "x": 1764,
+                "y": 382,
+                "w": 39,
+                "h": 19
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 39,
+                "h": 19
+            },
+            "sourceSize": {
+                "w": 39,
+                "h": 19
+            }
+        },
+        "sally_airbase_maint_30": {
+            "frame": {
+                "x": 1804,
+                "y": 213,
+                "w": 2,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 2,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 2,
+                "h": 15
+            }
+        },
+        "sally_airbase_maint_31": {
+            "frame": {
+                "x": 350,
+                "y": 610,
+                "w": 38,
+                "h": 19
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 38,
+                "h": 19
+            },
+            "sourceSize": {
+                "w": 38,
+                "h": 19
+            }
+        },
+        "sally_airbase_maint_32": {
+            "frame": {
+                "x": 660,
+                "y": 560,
+                "w": 136,
+                "h": 32
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 136,
+                "h": 32
+            },
+            "sourceSize": {
+                "w": 136,
+                "h": 32
+            }
+        },
+        "sally_airbase_maint_33": {
+            "frame": {
+                "x": 511,
+                "y": 560,
+                "w": 144,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 40
+            }
+        },
+        "sally_airbase_maint_34": {
+            "frame": {
+                "x": 1722,
+                "y": 213,
+                "w": 77,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 77,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 77,
+                "h": 20
+            }
+        },
+        "sally_airbase_maint_35": {
+            "frame": {
+                "x": 1264,
+                "y": 525,
+                "w": 97,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 97,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 97,
+                "h": 20
+            }
+        },
+        "sally_airbase_maint_36": {
+            "frame": {
+                "x": 1555,
+                "y": 382,
+                "w": 100,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 100,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 100,
+                "h": 20
+            }
+        },
+        "sally_airbase_maint_37": {
+            "frame": {
+                "x": 1660,
+                "y": 382,
+                "w": 99,
+                "h": 20
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 99,
+                "h": 20
+            },
+            "sourceSize": {
+                "w": 99,
+                "h": 20
+            }
+        },
+        "sally_airbase_maint_38": {
+            "frame": {
+                "x": 215,
+                "y": 610,
+                "w": 75,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 75
+            }
+        },
+        "sally_airbase_maint_39": {
+            "frame": {
+                "x": 1433,
+                "y": 382,
+                "w": 117,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 117,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 117,
+                "h": 21
+            }
+        },
+        "sally_airbase_maint_40": {
+            "frame": {
+                "x": 1425,
+                "y": 303,
+                "w": 243,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 243,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 243,
+                "h": 15
+            }
+        },
+        "sally_airbase_maint_41": {
+            "frame": {
+                "x": 1266,
+                "y": 324,
+                "w": 472,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 472,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 472,
+                "h": 24
+            }
+        },
+        "sally_airbase_maint_42": {
+            "frame": {
+                "x": 854,
+                "y": 382,
+                "w": 574,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 574,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 574,
+                "h": 24
+            }
+        },
+        "sally_airbase_maint_43": {
+            "frame": {
+                "x": 854,
+                "y": 353,
+                "w": 586,
+                "h": 24
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 586,
+                "h": 24
+            },
+            "sourceSize": {
+                "w": 586,
+                "h": 24
+            }
+        },
+        "sally_airbase_maint_44": {
+            "frame": {
+                "x": 1445,
+                "y": 353,
+                "w": 136,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 136,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 136,
+                "h": 22
+            }
+        },
+        "sally_airbase_maint_45": {
+            "frame": {
+                "x": 966,
+                "y": 525,
+                "w": 144,
+                "h": 30
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 30
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 30
+            }
+        },
+        "sally_airbase_maint_46": {
+            "frame": {
+                "x": 1484,
+                "y": 525,
+                "w": 64,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 64,
+                "h": 15
+            }
+        },
+        "sally_airbase_maint_47": {
+            "frame": {
+                "x": 1767,
+                "y": 303,
+                "w": 38,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 38,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 38,
+                "h": 15
+            }
+        },
+        "sally_airbase_maint_48": {
+            "frame": {
+                "x": 1553,
+                "y": 525,
+                "w": 38,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 38,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 38,
+                "h": 15
+            }
+        },
+        "sally_airbase_maint_49": {
+            "frame": {
+                "x": 801,
+                "y": 560,
+                "w": 55,
+                "h": 17
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 55,
+                "h": 17
+            },
+            "sourceSize": {
+                "w": 55,
+                "h": 17
+            }
+        },
+        "sally_airbase_maint_50": {
+            "frame": {
+                "x": 1586,
+                "y": 353,
+                "w": 136,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 136,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 136,
+                "h": 22
+            }
+        },
+        "sally_airbase_maint_51": {
+            "frame": {
+                "x": 1115,
+                "y": 525,
+                "w": 144,
+                "h": 30
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 30
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 30
+            }
+        },
+        "sally_airbase_maint_52": {
+            "frame": {
+                "x": 1673,
+                "y": 303,
+                "w": 89,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 89,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 89,
+                "h": 15
+            }
+        },
+        "sally_airbase_maint_53": {
+            "frame": {
+                "x": 1722,
+                "y": 278,
+                "w": 83,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 83,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 83,
+                "h": 15
+            }
+        },
+        "sally_airbase_maint_54": {
+            "frame": {
+                "x": 1722,
+                "y": 238,
+                "w": 84,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 84,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 84,
+                "h": 15
+            }
+        },
+        "sally_airbase_maint_55": {
+            "frame": {
+                "x": 1722,
+                "y": 258,
+                "w": 84,
+                "h": 15
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 84,
+                "h": 15
+            },
+            "sourceSize": {
+                "w": 84,
+                "h": 15
+            }
+        },
+        "sally_airbase_maint_56": {
+            "frame": {
+                "x": 1791,
+                "y": 368,
+                "w": 5,
+                "h": 5
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 5,
+                "h": 5
+            },
+            "sourceSize": {
+                "w": 5,
+                "h": 5
+            }
+        },
+        "sally_airbase_maint_57": {
+            "frame": {
+                "x": 0,
+                "y": 709,
+                "w": 21,
+                "h": 27
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 21,
+                "h": 27
+            },
+            "sourceSize": {
+                "w": 21,
+                "h": 27
+            }
+        },
+        "sally_airbase_maint_58": {
+            "frame": {
+                "x": 1801,
+                "y": 368,
+                "w": 5,
+                "h": 5
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 5,
+                "h": 5
+            },
+            "sourceSize": {
+                "w": 5,
+                "h": 5
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "sally_airbase_maint.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1810,
+            "h": 736
+        },
+        "scale": 1
+    }
+}

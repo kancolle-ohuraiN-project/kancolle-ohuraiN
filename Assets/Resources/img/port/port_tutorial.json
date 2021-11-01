@@ -1,0 +1,194 @@
+{
+    "frames": {
+        "port_tutorial_0": {
+            "frame": {
+                "x": 954,
+                "y": 542,
+                "w": 145,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 142
+            }
+        },
+        "port_tutorial_1": {
+            "frame": {
+                "x": 954,
+                "y": 258,
+                "w": 211,
+                "h": 279
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 279
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 279
+            }
+        },
+        "port_tutorial_2": {
+            "frame": {
+                "x": 1170,
+                "y": 258,
+                "w": 211,
+                "h": 279
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 211,
+                "h": 279
+            },
+            "sourceSize": {
+                "w": 211,
+                "h": 279
+            }
+        },
+        "port_tutorial_3": {
+            "frame": {
+                "x": 0,
+                "y": 269,
+                "w": 432,
+                "h": 253
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 432,
+                "h": 253
+            },
+            "sourceSize": {
+                "w": 432,
+                "h": 253
+            }
+        },
+        "port_tutorial_4": {
+            "frame": {
+                "x": 437,
+                "y": 269,
+                "w": 432,
+                "h": 253
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 432,
+                "h": 253
+            },
+            "sourceSize": {
+                "w": 432,
+                "h": 253
+            }
+        },
+        "port_tutorial_5": {
+            "frame": {
+                "x": 0,
+                "y": 527,
+                "w": 432,
+                "h": 253
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 432,
+                "h": 253
+            },
+            "sourceSize": {
+                "w": 432,
+                "h": 253
+            }
+        },
+        "port_tutorial_6": {
+            "frame": {
+                "x": 437,
+                "y": 527,
+                "w": 432,
+                "h": 253
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 432,
+                "h": 253
+            },
+            "sourceSize": {
+                "w": 432,
+                "h": 253
+            }
+        },
+        "port_tutorial_7": {
+            "frame": {
+                "x": 954,
+                "y": 0,
+                "w": 432,
+                "h": 253
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 432,
+                "h": 253
+            },
+            "sourceSize": {
+                "w": 432,
+                "h": 253
+            }
+        },
+        "port_tutorial_8": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 949,
+                "h": 264
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 949,
+                "h": 264
+            },
+            "sourceSize": {
+                "w": 949,
+                "h": 264
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "port_tutorial.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1386,
+            "h": 780
+        },
+        "scale": 1
+    }
+}

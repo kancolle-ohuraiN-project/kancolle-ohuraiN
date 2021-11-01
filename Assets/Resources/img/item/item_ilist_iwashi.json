@@ -1,0 +1,374 @@
+{
+    "frames": {
+        "item_ilist_iwashi_0": {
+            "frame": {
+                "x": 1372,
+                "y": 694,
+                "w": 75,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 45
+            }
+        },
+        "item_ilist_iwashi_1": {
+            "frame": {
+                "x": 995,
+                "y": 880,
+                "w": 120,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 45
+            }
+        },
+        "item_ilist_iwashi_2": {
+            "frame": {
+                "x": 1245,
+                "y": 880,
+                "w": 120,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 45
+            }
+        },
+        "item_ilist_iwashi_3": {
+            "frame": {
+                "x": 1120,
+                "y": 880,
+                "w": 120,
+                "h": 45
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 120,
+                "h": 45
+            },
+            "sourceSize": {
+                "w": 120,
+                "h": 45
+            }
+        },
+        "item_ilist_iwashi_4": {
+            "frame": {
+                "x": 889,
+                "y": 694,
+                "w": 166,
+                "h": 159
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 166,
+                "h": 159
+            },
+            "sourceSize": {
+                "w": 166,
+                "h": 159
+            }
+        },
+        "item_ilist_iwashi_5": {
+            "frame": {
+                "x": 0,
+                "y": 1269,
+                "w": 108,
+                "h": 135
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 108,
+                "h": 135
+            },
+            "sourceSize": {
+                "w": 108,
+                "h": 135
+            }
+        },
+        "item_ilist_iwashi_6": {
+            "frame": {
+                "x": 0,
+                "y": 1155,
+                "w": 144,
+                "h": 109
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 109
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 109
+            }
+        },
+        "item_ilist_iwashi_7": {
+            "frame": {
+                "x": 1060,
+                "y": 694,
+                "w": 307,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 307,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 307,
+                "h": 75
+            }
+        },
+        "item_ilist_iwashi_8": {
+            "frame": {
+                "x": 1060,
+                "y": 774,
+                "w": 307,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 307,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 307,
+                "h": 75
+            }
+        },
+        "item_ilist_iwashi_9": {
+            "frame": {
+                "x": 683,
+                "y": 880,
+                "w": 307,
+                "h": 75
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 307,
+                "h": 75
+            },
+            "sourceSize": {
+                "w": 307,
+                "h": 75
+            }
+        },
+        "item_ilist_iwashi_10": {
+            "frame": {
+                "x": 683,
+                "y": 694,
+                "w": 201,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 201,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 201,
+                "h": 181
+            }
+        },
+        "item_ilist_iwashi_11": {
+            "frame": {
+                "x": 159,
+                "y": 1005,
+                "w": 190,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 190,
+                "h": 90
+            },
+            "sourceSize": {
+                "w": 190,
+                "h": 90
+            }
+        },
+        "item_ilist_iwashi_12": {
+            "frame": {
+                "x": 0,
+                "y": 1005,
+                "w": 154,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 145
+            }
+        },
+        "item_ilist_iwashi_13": {
+            "frame": {
+                "x": 711,
+                "y": 0,
+                "w": 766,
+                "h": 318
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 766,
+                "h": 318
+            },
+            "sourceSize": {
+                "w": 766,
+                "h": 318
+            }
+        },
+        "item_ilist_iwashi_14": {
+            "frame": {
+                "x": 0,
+                "y": 694,
+                "w": 678,
+                "h": 306
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 678,
+                "h": 306
+            },
+            "sourceSize": {
+                "w": 678,
+                "h": 306
+            }
+        },
+        "item_ilist_iwashi_15": {
+            "frame": {
+                "x": 0,
+                "y": 353,
+                "w": 721,
+                "h": 336
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 721,
+                "h": 336
+            },
+            "sourceSize": {
+                "w": 721,
+                "h": 336
+            }
+        },
+        "item_ilist_iwashi_16": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 706,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 706,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 706,
+                "h": 348
+            }
+        },
+        "item_ilist_iwashi_17": {
+            "frame": {
+                "x": 726,
+                "y": 353,
+                "w": 708,
+                "h": 315
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 708,
+                "h": 315
+            },
+            "sourceSize": {
+                "w": 708,
+                "h": 315
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "item_ilist_iwashi.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1477,
+            "h": 1404
+        },
+        "scale": 1
+    }
+}

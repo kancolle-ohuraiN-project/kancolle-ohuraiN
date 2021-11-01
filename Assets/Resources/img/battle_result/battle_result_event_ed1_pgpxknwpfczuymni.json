@@ -1,0 +1,174 @@
+{
+    "frames": {
+        "battle_result_event_ed1_pgpxknwpfczuymni_stamp_common": {
+            "frame": {
+                "x": 906,
+                "y": 0,
+                "w": 109,
+                "h": 109
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 109,
+                "h": 109
+            },
+            "sourceSize": {
+                "w": 109,
+                "h": 109
+            }
+        },
+        "battle_result_event_ed1_pgpxknwpfczuymni_stamp_e2": {
+            "frame": {
+                "x": 0,
+                "y": 300,
+                "w": 302,
+                "h": 269
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 302,
+                "h": 269
+            },
+            "sourceSize": {
+                "w": 302,
+                "h": 269
+            }
+        },
+        "battle_result_event_ed1_pgpxknwpfczuymni_strategymap1": {
+            "frame": {
+                "x": 307,
+                "y": 300,
+                "w": 252,
+                "h": 252
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 252,
+                "h": 252
+            },
+            "sourceSize": {
+                "w": 252,
+                "h": 252
+            }
+        },
+        "battle_result_event_ed1_pgpxknwpfczuymni_strategymap2": {
+            "frame": {
+                "x": 564,
+                "y": 300,
+                "w": 252,
+                "h": 252
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 252,
+                "h": 252
+            },
+            "sourceSize": {
+                "w": 252,
+                "h": 252
+            }
+        },
+        "battle_result_event_ed1_pgpxknwpfczuymni_txt_open1": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 901,
+                "h": 295
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 901,
+                "h": 295
+            },
+            "sourceSize": {
+                "w": 901,
+                "h": 295
+            }
+        },
+        "battle_result_event_ed1_pgpxknwpfczuymni_txt_open2": {
+            "frame": {
+                "x": 0,
+                "y": 574,
+                "w": 506,
+                "h": 89
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 506,
+                "h": 89
+            },
+            "sourceSize": {
+                "w": 506,
+                "h": 89
+            }
+        },
+        "battle_result_event_ed1_pgpxknwpfczuymni_txt_open3_1": {
+            "frame": {
+                "x": 0,
+                "y": 732,
+                "w": 447,
+                "h": 59
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 447,
+                "h": 59
+            },
+            "sourceSize": {
+                "w": 447,
+                "h": 59
+            }
+        },
+        "battle_result_event_ed1_pgpxknwpfczuymni_txt_open3_2": {
+            "frame": {
+                "x": 0,
+                "y": 668,
+                "w": 552,
+                "h": 59
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 552,
+                "h": 59
+            },
+            "sourceSize": {
+                "w": 552,
+                "h": 59
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "battle_result_event_ed1_pgpxknwpfczuymni.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1015,
+            "h": 791
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "duty_poster_girl_sanma_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 430,
+                "h": 1144
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 430,
+                "h": 1144
+            },
+            "sourceSize": {
+                "w": 430,
+                "h": 1144
+            }
+        },
+        "duty_poster_girl_sanma_1": {
+            "frame": {
+                "x": 435,
+                "y": 0,
+                "w": 430,
+                "h": 1144
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 430,
+                "h": 1144
+            },
+            "sourceSize": {
+                "w": 430,
+                "h": 1144
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "duty_poster_girl_sanma.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 865,
+            "h": 1144
+        },
+        "scale": 1
+    }
+}

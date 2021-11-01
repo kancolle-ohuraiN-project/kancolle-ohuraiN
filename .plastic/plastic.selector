@@ -1,0 +1,4 @@
+repository "My project@ssl://sns-84003d47-4902-48ab-bbb4-c28fe64977b5@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/misaka10843" 
+     

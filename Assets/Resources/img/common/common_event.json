@@ -1,0 +1,94 @@
+{
+    "frames": {
+        "common_event_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 89,
+                "h": 76
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 89,
+                "h": 76
+            },
+            "sourceSize": {
+                "w": 89,
+                "h": 76
+            }
+        },
+        "common_event_1": {
+            "frame": {
+                "x": 94,
+                "y": 0,
+                "w": 89,
+                "h": 76
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 89,
+                "h": 76
+            },
+            "sourceSize": {
+                "w": 89,
+                "h": 76
+            }
+        },
+        "common_event_2": {
+            "frame": {
+                "x": 0,
+                "y": 81,
+                "w": 80,
+                "h": 67
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 80,
+                "h": 67
+            },
+            "sourceSize": {
+                "w": 80,
+                "h": 67
+            }
+        },
+        "common_event_3": {
+            "frame": {
+                "x": 85,
+                "y": 81,
+                "w": 80,
+                "h": 67
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 80,
+                "h": 67
+            },
+            "sourceSize": {
+                "w": 80,
+                "h": 67
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "common_event.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 183,
+            "h": 148
+        },
+        "scale": 1
+    }
+}

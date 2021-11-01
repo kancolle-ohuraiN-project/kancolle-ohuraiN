@@ -1,0 +1,374 @@
+{
+    "frames": {
+        "battle_telop_0": {
+            "frame": {
+                "x": 405,
+                "y": 2385,
+                "w": 400,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 400,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 400,
+                "h": 225
+            }
+        },
+        "battle_telop_1": {
+            "frame": {
+                "x": 1620,
+                "y": 2385,
+                "w": 300,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 225
+            }
+        },
+        "battle_telop_2": {
+            "frame": {
+                "x": 915,
+                "y": 2615,
+                "w": 300,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 225
+            }
+        },
+        "battle_telop_3": {
+            "frame": {
+                "x": 810,
+                "y": 2385,
+                "w": 400,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 400,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 400,
+                "h": 225
+            }
+        },
+        "battle_telop_4": {
+            "frame": {
+                "x": 610,
+                "y": 2615,
+                "w": 300,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 225
+            }
+        },
+        "battle_telop_5": {
+            "frame": {
+                "x": 305,
+                "y": 2615,
+                "w": 300,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 225
+            }
+        },
+        "battle_telop_6": {
+            "frame": {
+                "x": 0,
+                "y": 2385,
+                "w": 400,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 400,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 400,
+                "h": 225
+            }
+        },
+        "battle_telop_7": {
+            "frame": {
+                "x": 0,
+                "y": 2615,
+                "w": 300,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 225
+            }
+        },
+        "battle_telop_8": {
+            "frame": {
+                "x": 2535,
+                "y": 2385,
+                "w": 300,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 225
+            }
+        },
+        "battle_telop_9": {
+            "frame": {
+                "x": 1215,
+                "y": 2385,
+                "w": 400,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 400,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 400,
+                "h": 225
+            }
+        },
+        "battle_telop_10": {
+            "frame": {
+                "x": 1925,
+                "y": 2385,
+                "w": 300,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 225
+            }
+        },
+        "battle_telop_11": {
+            "frame": {
+                "x": 2230,
+                "y": 2385,
+                "w": 300,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 225
+            }
+        },
+        "battle_telop_12": {
+            "frame": {
+                "x": 1505,
+                "y": 1630,
+                "w": 1500,
+                "h": 750
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1500,
+                "h": 750
+            },
+            "sourceSize": {
+                "w": 1500,
+                "h": 750
+            }
+        },
+        "battle_telop_13": {
+            "frame": {
+                "x": 1505,
+                "y": 0,
+                "w": 1500,
+                "h": 870
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1500,
+                "h": 870
+            },
+            "sourceSize": {
+                "w": 1500,
+                "h": 870
+            }
+        },
+        "battle_telop_14": {
+            "frame": {
+                "x": 0,
+                "y": 1630,
+                "w": 1500,
+                "h": 750
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1500,
+                "h": 750
+            },
+            "sourceSize": {
+                "w": 1500,
+                "h": 750
+            }
+        },
+        "battle_telop_15": {
+            "frame": {
+                "x": 1505,
+                "y": 875,
+                "w": 1500,
+                "h": 750
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1500,
+                "h": 750
+            },
+            "sourceSize": {
+                "w": 1500,
+                "h": 750
+            }
+        },
+        "battle_telop_16": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1500,
+                "h": 870
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1500,
+                "h": 870
+            },
+            "sourceSize": {
+                "w": 1500,
+                "h": 870
+            }
+        },
+        "battle_telop_17": {
+            "frame": {
+                "x": 0,
+                "y": 875,
+                "w": 1500,
+                "h": 750
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1500,
+                "h": 750
+            },
+            "sourceSize": {
+                "w": 1500,
+                "h": 750
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "battle_telop.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 3005,
+            "h": 2840
+        },
+        "scale": 1
+    }
+}

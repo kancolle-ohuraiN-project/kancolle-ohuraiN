@@ -1,0 +1,334 @@
+{
+    "frames": {
+        "sally_expedition_detail_0": {
+            "frame": {
+                "x": 101,
+                "y": 15,
+                "w": 21,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 21,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 21,
+                "h": 21
+            }
+        },
+        "sally_expedition_detail_1": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 23,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 23,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 23,
+                "h": 23
+            }
+        },
+        "sally_expedition_detail_2": {
+            "frame": {
+                "x": 0,
+                "y": 28,
+                "w": 22,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 22,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 22,
+                "h": 21
+            }
+        },
+        "sally_expedition_detail_3": {
+            "frame": {
+                "x": 101,
+                "y": 41,
+                "w": 22,
+                "h": 17
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 22,
+                "h": 17
+            },
+            "sourceSize": {
+                "w": 22,
+                "h": 17
+            }
+        },
+        "sally_expedition_detail_4": {
+            "frame": {
+                "x": 28,
+                "y": 0,
+                "w": 22,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 22,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 22,
+                "h": 22
+            }
+        },
+        "sally_expedition_detail_5": {
+            "frame": {
+                "x": 27,
+                "y": 28,
+                "w": 22,
+                "h": 21
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 22,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 22,
+                "h": 21
+            }
+        },
+        "sally_expedition_detail_6": {
+            "frame": {
+                "x": 55,
+                "y": 30,
+                "w": 41,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 10
+            }
+        },
+        "sally_expedition_detail_7": {
+            "frame": {
+                "x": 0,
+                "y": 54,
+                "w": 41,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 10
+            }
+        },
+        "sally_expedition_detail_8": {
+            "frame": {
+                "x": 55,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 10
+            }
+        },
+        "sally_expedition_detail_9": {
+            "frame": {
+                "x": 0,
+                "y": 69,
+                "w": 41,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 10
+            }
+        },
+        "sally_expedition_detail_10": {
+            "frame": {
+                "x": 46,
+                "y": 69,
+                "w": 41,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 10
+            }
+        },
+        "sally_expedition_detail_11": {
+            "frame": {
+                "x": 0,
+                "y": 84,
+                "w": 41,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 10
+            }
+        },
+        "sally_expedition_detail_12": {
+            "frame": {
+                "x": 46,
+                "y": 84,
+                "w": 41,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 10
+            }
+        },
+        "sally_expedition_detail_13": {
+            "frame": {
+                "x": 101,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 10
+            }
+        },
+        "sally_expedition_detail_14": {
+            "frame": {
+                "x": 55,
+                "y": 15,
+                "w": 41,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 10
+            }
+        },
+        "sally_expedition_detail_15": {
+            "frame": {
+                "x": 46,
+                "y": 54,
+                "w": 41,
+                "h": 10
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 41,
+                "h": 10
+            },
+            "sourceSize": {
+                "w": 41,
+                "h": 10
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "sally_expedition_detail.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 142,
+            "h": 94
+        },
+        "scale": 1
+    }
+}

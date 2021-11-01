@@ -1,0 +1,154 @@
+{
+    "frames": {
+        "battle_result_event_ed2_szkolgjhitsdenat_0": {
+            "frame": {
+                "x": 786,
+                "y": 322,
+                "w": 109,
+                "h": 109
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 109,
+                "h": 109
+            },
+            "sourceSize": {
+                "w": 109,
+                "h": 109
+            }
+        },
+        "battle_result_event_ed2_szkolgjhitsdenat_1": {
+            "frame": {
+                "x": 0,
+                "y": 472,
+                "w": 265,
+                "h": 269
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 265,
+                "h": 269
+            },
+            "sourceSize": {
+                "w": 265,
+                "h": 269
+            }
+        },
+        "battle_result_event_ed2_szkolgjhitsdenat_2": {
+            "frame": {
+                "x": 511,
+                "y": 472,
+                "w": 198,
+                "h": 198
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 198,
+                "h": 198
+            },
+            "sourceSize": {
+                "w": 198,
+                "h": 198
+            }
+        },
+        "battle_result_event_ed2_szkolgjhitsdenat_3": {
+            "frame": {
+                "x": 714,
+                "y": 472,
+                "w": 198,
+                "h": 198
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 198,
+                "h": 198
+            },
+            "sourceSize": {
+                "w": 198,
+                "h": 198
+            }
+        },
+        "battle_result_event_ed2_szkolgjhitsdenat_4": {
+            "frame": {
+                "x": 270,
+                "y": 472,
+                "w": 236,
+                "h": 236
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 236,
+                "h": 236
+            },
+            "sourceSize": {
+                "w": 236,
+                "h": 236
+            }
+        },
+        "battle_result_event_ed2_szkolgjhitsdenat_5": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 978,
+                "h": 317
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 978,
+                "h": 317
+            },
+            "sourceSize": {
+                "w": 978,
+                "h": 317
+            }
+        },
+        "battle_result_event_ed2_szkolgjhitsdenat_6": {
+            "frame": {
+                "x": 0,
+                "y": 322,
+                "w": 781,
+                "h": 145
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 781,
+                "h": 145
+            },
+            "sourceSize": {
+                "w": 781,
+                "h": 145
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "battle_result_event_ed2_szkolgjhitsdenat.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 978,
+            "h": 741
+        },
+        "scale": 1
+    }
+}

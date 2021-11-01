@@ -1,0 +1,574 @@
+{
+    "frames": {
+        "common_shogo_0": {
+            "frame": {
+                "x": 35,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_1": {
+            "frame": {
+                "x": 245,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_2": {
+            "frame": {
+                "x": 70,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_3": {
+            "frame": {
+                "x": 105,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_4": {
+            "frame": {
+                "x": 140,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_5": {
+            "frame": {
+                "x": 175,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_6": {
+            "frame": {
+                "x": 210,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_7": {
+            "frame": {
+                "x": 0,
+                "y": 110,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_8": {
+            "frame": {
+                "x": 35,
+                "y": 110,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_9": {
+            "frame": {
+                "x": 70,
+                "y": 110,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_10": {
+            "frame": {
+                "x": 105,
+                "y": 110,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_11": {
+            "frame": {
+                "x": 140,
+                "y": 110,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_12": {
+            "frame": {
+                "x": 175,
+                "y": 110,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_13": {
+            "frame": {
+                "x": 210,
+                "y": 110,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_14": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_15": {
+            "frame": {
+                "x": 245,
+                "y": 110,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_16": {
+            "frame": {
+                "x": 280,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_17": {
+            "frame": {
+                "x": 280,
+                "y": 110,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_18": {
+            "frame": {
+                "x": 315,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_19": {
+            "frame": {
+                "x": 315,
+                "y": 110,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_20": {
+            "frame": {
+                "x": 0,
+                "y": 220,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_21": {
+            "frame": {
+                "x": 35,
+                "y": 220,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_22": {
+            "frame": {
+                "x": 70,
+                "y": 220,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_23": {
+            "frame": {
+                "x": 105,
+                "y": 220,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_24": {
+            "frame": {
+                "x": 140,
+                "y": 220,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_25": {
+            "frame": {
+                "x": 175,
+                "y": 220,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_26": {
+            "frame": {
+                "x": 210,
+                "y": 220,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        },
+        "common_shogo_27": {
+            "frame": {
+                "x": 245,
+                "y": 220,
+                "w": 30,
+                "h": 105
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 105
+            },
+            "sourceSize": {
+                "w": 30,
+                "h": 105
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "common_shogo.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 345,
+            "h": 325
+        },
+        "scale": 1
+    }
+}

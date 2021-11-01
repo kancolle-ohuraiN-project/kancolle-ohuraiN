@@ -1,0 +1,74 @@
+{
+    "frames": {
+        "record_mini_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 225,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 225,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 225,
+                "h": 225
+            }
+        },
+        "record_mini_1": {
+            "frame": {
+                "x": 230,
+                "y": 0,
+                "w": 225,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 225,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 225,
+                "h": 225
+            }
+        },
+        "record_mini_2": {
+            "frame": {
+                "x": 0,
+                "y": 230,
+                "w": 22,
+                "h": 22
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 22,
+                "h": 22
+            },
+            "sourceSize": {
+                "w": 22,
+                "h": 22
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "record_mini.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 455,
+            "h": 252
+        },
+        "scale": 1
+    }
+}
