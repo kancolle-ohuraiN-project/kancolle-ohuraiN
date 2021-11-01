@@ -11,11 +11,6 @@ public class Fadebutton : MonoBehaviour{
     {
             FindObjectOfType<SceneFader1>().FadeTo(scenename);
 
-
             // SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);//跳到下一个场景（原场景编号+！）//这是另一种切换场景的写法
-
-
-
-            Debug.Log("I am an Error");//这是测试触发是否实现的测试字符。。
         }
 }
