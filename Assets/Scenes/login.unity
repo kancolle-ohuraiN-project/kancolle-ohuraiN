@@ -135,8 +135,8 @@ GameObject:
   - component: {fileID: 136796088}
   - component: {fileID: 136796087}
   - component: {fileID: 136796086}
-  - component: {fileID: 136796085}
   - component: {fileID: 136796089}
+  - component: {fileID: 136796085}
   m_Layer: 5
   m_Name: "\u5F00\u59CB\u6E38\u620F"
   m_TagString: Untagged
