@@ -1,0 +1,30 @@
+﻿{
+	"shift": [	
+		{ "filename": "f334_e064_JPNdrawer_8_B1.png", "pos": [-110.5, 430] },
+		{ "filename": "f334_e064_JPNdrawer_8_B3.png", "pos": [-110.5, 430] }
+	],	
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f334_e064_JPNdrawer_8_A.png" }
+			]
+		],
+		"hitarea":{"filename": "f334_e064_JPNdrawer_8_clickable.png", "offset":[-110,430], "state":"action1"}
+	},
+	"action1": {
+		"data":[
+			[
+				{ "filename": "f334_e064_JPNdrawer_8_A.png" }
+			], [
+				{ "filename": "f334_e064_JPNdrawer_8_B1.png", "frame": 65, "offset":[-110,430] },
+				{ "filename": "f334_e064_JPNdrawer_8_B2.png", "frame": 6 },
+				{ "filename": "f334_e064_JPNdrawer_8_B3.png", "frame": 6 },
+				{ "filename": "f334_e064_JPNdrawer_8_B4.png", "frame": 98 },
+				{ "filename": "f334_e064_JPNdrawer_8_B3.png", "frame": 6 },
+				{ "filename": "f334_e064_JPNdrawer_8_B2.png", "frame": 6 },
+				{ "filename": "f334_e064_JPNdrawer_8_B1.png", "frame": 44 }
+			]
+		]
+	},
+	"reloadflag": false
+}

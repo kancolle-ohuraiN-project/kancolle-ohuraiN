@@ -1,0 +1,24 @@
+{
+	"category":["chocochest"],
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f523_e092_choco_chest_A.png" }
+			], [
+				{ "filename": "f523_e092_choco_chest_B7.png", "frame": 18, "alpha":[0, 1] }
+			]
+		]
+	},
+	"shipclass": [
+		{ "filename": "f523_e092_choco_chest_B1.png", "list": [28] },
+		{ "filename": "f523_e092_choco_chest_B2.png", "list": [66] },
+		{ "filename": "f523_e092_choco_chest_B3.png", "list": [23] },
+		{ "filename": "f523_e092_choco_chest_B4.png", "list": [ 4] },
+		{ "filename": "f523_e092_choco_chest_B5.png", "list": [41] }
+	],
+	"shiptype": [
+		{ "filename": "f523_e092_choco_chest_B6.png", "list": [ 8, 9, 10] }
+	],
+	"default": {"filename":"f523_e092_choco_chest_B7.png"},
+	"reloadflag": true
+}

@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "f216_f058_pool_1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 493,
+                "h": 329
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 493,
+                "h": 329
+            },
+            "sourceSize": {
+                "w": 493,
+                "h": 329
+            }
+        },
+        "f216_f058_pool_2.png": {
+            "frame": {
+                "x": 498,
+                "y": 0,
+                "w": 493,
+                "h": 290
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 493,
+                "h": 290
+            },
+            "sourceSize": {
+                "w": 493,
+                "h": 290
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "216_7176.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 991,
+            "h": 329
+        },
+        "scale": 1
+    }
+}

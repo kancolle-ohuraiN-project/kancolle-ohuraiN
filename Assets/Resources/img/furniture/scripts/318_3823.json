@@ -1,0 +1,32 @@
+﻿{
+	"category":["radio"],
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f318_c065_radio2_A.png" }
+			], [
+				{ "filename": "f318_c065_radio2_B1.png", "offset":[50,229] }
+			]
+		],
+		"hitarea":{"filename": "f318_c065_radio2_C.png", "offset":[50,229], "state":"action1"}
+	},
+	"action1": {
+		"data":[
+			[
+				{ "filename": "f318_c065_radio2_A.png" }
+			], [
+				{ "filename": "f318_c065_radio2_B1.png", "frame": 18, "offset":[50,229] },
+				{ "filename": "f318_c065_radio2_B1.png", "frame": 1, "bgm": "stop" },
+				{ "filename": "f318_c065_radio2_B1.png", "frame": 1, "se": "313" },
+				{ "filename": "f318_c065_radio2_B2.png", "frame": 2 },
+				{ "filename": "f318_c065_radio2_B3.png", "frame": 2 },
+				{ "filename": "f318_c065_radio2_B2.png", "frame": 2 },
+				{ "filename": "f318_c065_radio2_B3.png", "frame": 2 },
+				{ "filename": "f318_c065_radio2_B1.png", "frame": 38 },
+				{ "filename": "f318_c065_radio2_B1.png", "frame": 80, "se": "322" },
+				{ "filename": "f318_c065_radio2_B1.png", "frame": 5, "bgm": "start" }
+			]
+		]
+	},
+	"reloadflag": false
+}

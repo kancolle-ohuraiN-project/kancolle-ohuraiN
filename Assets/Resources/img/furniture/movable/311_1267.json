@@ -1,0 +1,594 @@
+{
+    "frames": {
+        "f311_c062_stamp_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f311_c062_stamp_B01.png": {
+            "frame": {
+                "x": 1152,
+                "y": 245,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B02.png": {
+            "frame": {
+                "x": 662,
+                "y": 245,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B03.png": {
+            "frame": {
+                "x": 0,
+                "y": 545,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B04.png": {
+            "frame": {
+                "x": 245,
+                "y": 545,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B05.png": {
+            "frame": {
+                "x": 490,
+                "y": 545,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B06.png": {
+            "frame": {
+                "x": 907,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B07.png": {
+            "frame": {
+                "x": 907,
+                "y": 245,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B08.png": {
+            "frame": {
+                "x": 907,
+                "y": 490,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B09.png": {
+            "frame": {
+                "x": 0,
+                "y": 790,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B10.png": {
+            "frame": {
+                "x": 245,
+                "y": 790,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B11.png": {
+            "frame": {
+                "x": 490,
+                "y": 790,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B12.png": {
+            "frame": {
+                "x": 735,
+                "y": 790,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B13.png": {
+            "frame": {
+                "x": 1152,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B14.png": {
+            "frame": {
+                "x": 662,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B15.png": {
+            "frame": {
+                "x": 1152,
+                "y": 490,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B16.png": {
+            "frame": {
+                "x": 1152,
+                "y": 735,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B17.png": {
+            "frame": {
+                "x": 0,
+                "y": 1035,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B18.png": {
+            "frame": {
+                "x": 245,
+                "y": 1035,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_B19.png": {
+            "frame": {
+                "x": 490,
+                "y": 1035,
+                "w": 240,
+                "h": 240
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 240
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 240
+            }
+        },
+        "f311_c062_stamp_C1.png": {
+            "frame": {
+                "x": 735,
+                "y": 1035,
+                "w": 192,
+                "h": 192
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 192
+            }
+        },
+        "f311_c062_stamp_C2.png": {
+            "frame": {
+                "x": 932,
+                "y": 1035,
+                "w": 192,
+                "h": 192
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 192
+            }
+        },
+        "f311_c062_stamp_C3.png": {
+            "frame": {
+                "x": 1129,
+                "y": 1035,
+                "w": 192,
+                "h": 192
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 192
+            }
+        },
+        "f311_c062_stamp_C4.png": {
+            "frame": {
+                "x": 1397,
+                "y": 0,
+                "w": 192,
+                "h": 192
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 192
+            }
+        },
+        "f311_c062_stamp_C5.png": {
+            "frame": {
+                "x": 1397,
+                "y": 197,
+                "w": 192,
+                "h": 192
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 192
+            }
+        },
+        "f311_c062_stamp_C6.png": {
+            "frame": {
+                "x": 1397,
+                "y": 394,
+                "w": 192,
+                "h": 192
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 192
+            }
+        },
+        "f311_c062_stamp_C7.png": {
+            "frame": {
+                "x": 1397,
+                "y": 591,
+                "w": 192,
+                "h": 192
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 192
+            }
+        },
+        "f311_c062_stamp_C8.png": {
+            "frame": {
+                "x": 1397,
+                "y": 788,
+                "w": 192,
+                "h": 192
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 192
+            }
+        },
+        "f311_c062_stamp_C9.png": {
+            "frame": {
+                "x": 1397,
+                "y": 985,
+                "w": 192,
+                "h": 192
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 192
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 192
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "311_1267.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1589,
+            "h": 1275
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "frames": {
+        "f369_d094_JPNscroll_45_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 457
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 457
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 457
+            }
+        },
+        "f369_d094_JPNscroll_45_B1.png": {
+            "frame": {
+                "x": 0,
+                "y": 462,
+                "w": 240,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 215
+            }
+        },
+        "f369_d094_JPNscroll_45_B2.png": {
+            "frame": {
+                "x": 245,
+                "y": 462,
+                "w": 240,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 215
+            }
+        },
+        "f369_d094_JPNscroll_45_B3.png": {
+            "frame": {
+                "x": 490,
+                "y": 0,
+                "w": 240,
+                "h": 311
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 311
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 311
+            }
+        },
+        "f369_d094_JPNscroll_45_B4.png": {
+            "frame": {
+                "x": 490,
+                "y": 462,
+                "w": 240,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 215
+            }
+        },
+        "f369_d094_JPNscroll_45_B5.png": {
+            "frame": {
+                "x": 735,
+                "y": 0,
+                "w": 240,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 215
+            }
+        },
+        "f369_d094_JPNscroll_45_B6.png": {
+            "frame": {
+                "x": 735,
+                "y": 220,
+                "w": 240,
+                "h": 215
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 215
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 215
+            }
+        },
+        "f369_d094_JPNscroll_45_C.png": {
+            "frame": {
+                "x": 245,
+                "y": 0,
+                "w": 240,
+                "h": 457
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 457
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 457
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "369_6795.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 975,
+            "h": 677
+        },
+        "scale": 1
+    }
+}

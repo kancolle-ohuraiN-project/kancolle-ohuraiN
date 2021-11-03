@@ -1,0 +1,134 @@
+{
+    "frames": {
+        "f334_e064_JPNdrawer_8_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 361,
+                "h": 646
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 361,
+                "h": 646
+            },
+            "sourceSize": {
+                "w": 361,
+                "h": 646
+            }
+        },
+        "f334_e064_JPNdrawer_8_B1.png": {
+            "frame": {
+                "x": 366,
+                "y": 186,
+                "w": 251,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 251,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 251,
+                "h": 180
+            }
+        },
+        "f334_e064_JPNdrawer_8_B2.png": {
+            "frame": {
+                "x": 366,
+                "y": 371,
+                "w": 251,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 251,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 251,
+                "h": 180
+            }
+        },
+        "f334_e064_JPNdrawer_8_B3.png": {
+            "frame": {
+                "x": 622,
+                "y": 0,
+                "w": 251,
+                "h": 180
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 251,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 251,
+                "h": 180
+            }
+        },
+        "f334_e064_JPNdrawer_8_B4.png": {
+            "frame": {
+                "x": 366,
+                "y": 0,
+                "w": 251,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 251,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 251,
+                "h": 181
+            }
+        },
+        "f334_e064_JPNdrawer_8_clickable.png": {
+            "frame": {
+                "x": 622,
+                "y": 185,
+                "w": 251,
+                "h": 108
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 251,
+                "h": 108
+            },
+            "sourceSize": {
+                "w": 251,
+                "h": 108
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "334_5783.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 873,
+            "h": 646
+        },
+        "scale": 1
+    }
+}

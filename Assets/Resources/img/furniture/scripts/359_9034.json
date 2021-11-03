@@ -1,0 +1,30 @@
+﻿{
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f359_c71_nagatsuki3_A.png" }
+			], [
+				{ "filename": "f359_c71_nagatsuki3_B1.png", "offset":[177,69] }
+			]
+		],
+		"hitarea":{"filename": "f359_c71_nagatsuki3_C.png", "offset":[177,69], "state":"action1"}
+	},
+	"action1": {
+		"data":[
+			[
+				{ "filename": "f359_c71_nagatsuki3_A.png" }
+			], [
+				{ "filename": "f359_c71_nagatsuki3_B1.png", "frame": 1, "offset":[177,69] },
+				{ "filename": "f359_c71_nagatsuki3_B2.png", "frame": 8 },
+				{ "filename": "f359_c71_nagatsuki3_B3.png", "frame": 8 },
+				{ "filename": "f359_c71_nagatsuki3_B4.png", "frame": 8 },
+				{ "filename": "f359_c71_nagatsuki3_B5.png", "frame": 360 },
+				{ "filename": "f359_c71_nagatsuki3_B4.png", "frame": 8 },
+				{ "filename": "f359_c71_nagatsuki3_B3.png", "frame": 8 },
+				{ "filename": "f359_c71_nagatsuki3_B2.png", "frame": 8 },
+				{ "filename": "f359_c71_nagatsuki3_B1.png" }
+			]
+		]
+	},
+	"reloadflag": true
+}

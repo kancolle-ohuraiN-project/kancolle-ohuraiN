@@ -1,0 +1,1254 @@
+{
+    "frames": {
+        "f215_c049_hanabi_1.png": {
+            "frame": {
+                "x": 662,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_01.png": {
+            "frame": {
+                "x": 2648,
+                "y": 1059,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_02.png": {
+            "frame": {
+                "x": 0,
+                "y": 353,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_03.png": {
+            "frame": {
+                "x": 662,
+                "y": 353,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_04.png": {
+            "frame": {
+                "x": 0,
+                "y": 706,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_05.png": {
+            "frame": {
+                "x": 662,
+                "y": 706,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_06.png": {
+            "frame": {
+                "x": 1324,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_07.png": {
+            "frame": {
+                "x": 1324,
+                "y": 353,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_08.png": {
+            "frame": {
+                "x": 1324,
+                "y": 706,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_09.png": {
+            "frame": {
+                "x": 0,
+                "y": 1059,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_10.png": {
+            "frame": {
+                "x": 662,
+                "y": 1059,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_11.png": {
+            "frame": {
+                "x": 1324,
+                "y": 1059,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_12.png": {
+            "frame": {
+                "x": 0,
+                "y": 1412,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_13.png": {
+            "frame": {
+                "x": 662,
+                "y": 1412,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_14.png": {
+            "frame": {
+                "x": 1324,
+                "y": 1412,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_15.png": {
+            "frame": {
+                "x": 1986,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_16.png": {
+            "frame": {
+                "x": 1986,
+                "y": 353,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_17.png": {
+            "frame": {
+                "x": 1986,
+                "y": 706,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_18.png": {
+            "frame": {
+                "x": 1986,
+                "y": 1059,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_19.png": {
+            "frame": {
+                "x": 1986,
+                "y": 1412,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_20.png": {
+            "frame": {
+                "x": 0,
+                "y": 1765,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_21.png": {
+            "frame": {
+                "x": 662,
+                "y": 1765,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_22.png": {
+            "frame": {
+                "x": 1324,
+                "y": 1765,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_23.png": {
+            "frame": {
+                "x": 1986,
+                "y": 1765,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_24.png": {
+            "frame": {
+                "x": 0,
+                "y": 2118,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_25.png": {
+            "frame": {
+                "x": 662,
+                "y": 2118,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_26.png": {
+            "frame": {
+                "x": 1324,
+                "y": 2118,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_kiku_27.png": {
+            "frame": {
+                "x": 1986,
+                "y": 2118,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_01.png": {
+            "frame": {
+                "x": 2648,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_02.png": {
+            "frame": {
+                "x": 2648,
+                "y": 353,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_03.png": {
+            "frame": {
+                "x": 2648,
+                "y": 706,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_04.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_05.png": {
+            "frame": {
+                "x": 2648,
+                "y": 1412,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_06.png": {
+            "frame": {
+                "x": 2648,
+                "y": 1765,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_07.png": {
+            "frame": {
+                "x": 2648,
+                "y": 2118,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_08.png": {
+            "frame": {
+                "x": 0,
+                "y": 2471,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_09.png": {
+            "frame": {
+                "x": 662,
+                "y": 2471,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_10.png": {
+            "frame": {
+                "x": 1324,
+                "y": 2471,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_11.png": {
+            "frame": {
+                "x": 1986,
+                "y": 2471,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_12.png": {
+            "frame": {
+                "x": 2648,
+                "y": 2471,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_13.png": {
+            "frame": {
+                "x": 0,
+                "y": 2824,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_14.png": {
+            "frame": {
+                "x": 662,
+                "y": 2824,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_15.png": {
+            "frame": {
+                "x": 1324,
+                "y": 2824,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_16.png": {
+            "frame": {
+                "x": 1986,
+                "y": 2824,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_17.png": {
+            "frame": {
+                "x": 2648,
+                "y": 2824,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_18.png": {
+            "frame": {
+                "x": 3310,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_19.png": {
+            "frame": {
+                "x": 3310,
+                "y": 353,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_20.png": {
+            "frame": {
+                "x": 3310,
+                "y": 706,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_21.png": {
+            "frame": {
+                "x": 3310,
+                "y": 1059,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_22.png": {
+            "frame": {
+                "x": 3310,
+                "y": 1412,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_23.png": {
+            "frame": {
+                "x": 3310,
+                "y": 1765,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_24.png": {
+            "frame": {
+                "x": 3310,
+                "y": 2118,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_25.png": {
+            "frame": {
+                "x": 3310,
+                "y": 2471,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_26.png": {
+            "frame": {
+                "x": 3310,
+                "y": 2824,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_27.png": {
+            "frame": {
+                "x": 0,
+                "y": 3177,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_28.png": {
+            "frame": {
+                "x": 662,
+                "y": 3177,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_29.png": {
+            "frame": {
+                "x": 1324,
+                "y": 3177,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_30.png": {
+            "frame": {
+                "x": 1986,
+                "y": 3177,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_31.png": {
+            "frame": {
+                "x": 2648,
+                "y": 3177,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_32.png": {
+            "frame": {
+                "x": 3310,
+                "y": 3177,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_33.png": {
+            "frame": {
+                "x": 0,
+                "y": 3530,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f215_c049_hanabi_wi_34.png": {
+            "frame": {
+                "x": 662,
+                "y": 3530,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "215_3517.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 3967,
+            "h": 3878
+        },
+        "scale": 1
+    }
+}

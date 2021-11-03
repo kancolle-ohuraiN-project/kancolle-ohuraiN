@@ -1,0 +1,18 @@
+﻿{
+	"standard": {
+		"data":[
+			[
+				{ "filename": "f286_d077_JPNscroll_34.png" }
+			]
+		],
+		"hitarea":{"filename": "f286_d077_JPNscroll_34c.png", "state":"action1"}
+	},
+	"action1":{
+		"data":[
+			[
+				{ "filename": "f286_d077_JPNscroll_34.png", "popup": {"src":"286"} }
+			]
+		]
+	},
+	"reloadflag": true
+}

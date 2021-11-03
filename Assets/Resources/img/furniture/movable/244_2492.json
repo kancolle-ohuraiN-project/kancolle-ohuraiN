@@ -1,0 +1,334 @@
+{
+    "frames": {
+        "f244_c054_teruteru_2_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 395
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 395
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 395
+            }
+        },
+        "f244_c054_teruteru_2_B.png": {
+            "frame": {
+                "x": 605,
+                "y": 0,
+                "w": 591,
+                "h": 342
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 591,
+                "h": 342
+            },
+            "sourceSize": {
+                "w": 591,
+                "h": 342
+            }
+        },
+        "f244_c054_teruteru_2_C1.png": {
+            "frame": {
+                "x": 0,
+                "y": 400,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_C2.png": {
+            "frame": {
+                "x": 159,
+                "y": 400,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_C3.png": {
+            "frame": {
+                "x": 318,
+                "y": 400,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_C4.png": {
+            "frame": {
+                "x": 477,
+                "y": 400,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_C5.png": {
+            "frame": {
+                "x": 636,
+                "y": 400,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_clickable.png": {
+            "frame": {
+                "x": 954,
+                "y": 586,
+                "w": 96,
+                "h": 69
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 96,
+                "h": 69
+            },
+            "sourceSize": {
+                "w": 96,
+                "h": 69
+            }
+        },
+        "f244_c054_teruteru_2_fl05.png": {
+            "frame": {
+                "x": 795,
+                "y": 586,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_fl11.png": {
+            "frame": {
+                "x": 0,
+                "y": 586,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_fl20.png": {
+            "frame": {
+                "x": 159,
+                "y": 586,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_fl26.png": {
+            "frame": {
+                "x": 318,
+                "y": 586,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_fl30.png": {
+            "frame": {
+                "x": 477,
+                "y": 586,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_fl36.png": {
+            "frame": {
+                "x": 636,
+                "y": 586,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_fl43.png": {
+            "frame": {
+                "x": 795,
+                "y": 400,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        },
+        "f244_c054_teruteru_2_fl48.png": {
+            "frame": {
+                "x": 954,
+                "y": 400,
+                "w": 154,
+                "h": 181
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 181
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 181
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "244_2492.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1196,
+            "h": 767
+        },
+        "scale": 1
+    }
+}

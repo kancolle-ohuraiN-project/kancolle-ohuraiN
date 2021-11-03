@@ -1,0 +1,101 @@
+﻿{
+	"category":["gramo"],
+	"standard": {
+		"data":[
+			[
+				{ "filename": "f360_e066_JPNdrawer_10_A.png", "offset":[0,295] }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_C1.png", "offset":[0,310] }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_B1.png", "offset":[0,309] }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_D1.png", "offset":[0,192] }
+			]
+		],
+		"hitarea":{"filename": "f360_e066_JPNdrawer_10_E.png", "offset":[0,190], "state":"click1"}
+	},
+	"click1": {
+		"data":[
+			[
+				{ "filename": "f360_e066_JPNdrawer_10_A.png", "offset":[0,295] }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_C1.png", "offset":[0,310] }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_B1.png", "offset":[0,309], "bgm": "start" }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_D1.png", "offset":[0,192] },
+				{ "filename": "", "state": "standard2" }
+			]
+		]
+	},
+	"standard2": {
+		"setting": {
+			"loop": [0, -1, 0, -1]
+		},
+		"data":[
+			[
+				{ "filename": "f360_e066_JPNdrawer_10_A.png", "offset":[0,295] }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_C1.png", "frame": 6, "offset":[0,310] },
+				{ "filename": "f360_e066_JPNdrawer_10_C2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_C3.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_C4.png", "frame": 6 }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_B1.png", "frame": 6, "offset":[0,309] },
+				{ "filename": "f360_e066_JPNdrawer_10_B2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_B3.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_B4.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_B5.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_B6.png", "frame": 6 }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_D1.png", "frame": 6, "offset":[0,192] },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D3.png", "frame": 46 },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D1.png", "frame": 46 },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D3.png", "frame": 46 },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D1.png", "frame": 46 },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D3.png", "frame": 46 },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D1.png", "frame": 46 },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D3.png", "frame": 46 },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D1.png", "frame": 46 },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D3.png", "frame": 46 },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D1.png", "frame": 656 }
+			]
+		],
+		"hitarea":{"filename": "f360_e066_JPNdrawer_10_E.png", "offset":[0,190], "state":"click2"}
+	},
+	"click2": {
+		"data":[
+			[
+				{ "filename": "f360_e066_JPNdrawer_10_A.png", "frame": 30, "offset":[0,295] }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_C1.png", "frame": 6, "offset":[0,310] },
+				{ "filename": "f360_e066_JPNdrawer_10_C2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_C3.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_C4.png", "frame": 12 }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_B6.png", "frame": 6, "offset":[0,309] },
+				{ "filename": "f360_e066_JPNdrawer_10_B5.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_B4.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_B3.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_B2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_B1.png" }
+			], [
+				{ "filename": "f360_e066_JPNdrawer_10_D3.png", "frame": 6, "offset":[0,192] },
+				{ "filename": "f360_e066_JPNdrawer_10_D2.png", "frame": 6 },
+				{ "filename": "f360_e066_JPNdrawer_10_D1.png", "frame": 18 },
+				{ "filename": "", "state": "standard", "bgm": "play" }
+			]
+		]
+	},
+	"reloadflag": true
+}

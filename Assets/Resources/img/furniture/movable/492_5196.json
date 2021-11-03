@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "f492_f118_wanashi_radio.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 547,
+                "h": 520
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 547,
+                "h": 520
+            },
+            "sourceSize": {
+                "w": 547,
+                "h": 520
+            }
+        },
+        "f492_f118_wanashi_radio_click.png": {
+            "frame": {
+                "x": 552,
+                "y": 0,
+                "w": 547,
+                "h": 520
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 547,
+                "h": 520
+            },
+            "sourceSize": {
+                "w": 547,
+                "h": 520
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "492_5196.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1099,
+            "h": 520
+        },
+        "scale": 1
+    }
+}

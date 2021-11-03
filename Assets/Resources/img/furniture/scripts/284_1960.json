@@ -1,0 +1,29 @@
+﻿{
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f284_d076_JPNscroll_30_1.png" }
+			]
+		],
+		"hitarea":{"filename": "f284_d076_JPNscroll_30_clickable.png", "state":"action1"}
+	},
+	"action1": {
+		"data":[
+			[
+				{ "filename": "f284_d076_JPNscroll_30_1.png", "frame": 10, "se": "313" },
+				{ "filename": "f284_d076_JPNscroll_30_2.png", "frame": 4 },
+				{ "filename": "f284_d076_JPNscroll_30_1.png", "frame": 4 },
+				{ "filename": "f284_d076_JPNscroll_30_3.png", "frame": 4 },
+				{ "filename": "f284_d076_JPNscroll_30_1.png", "frame": 36 },
+				{ "filename": "f284_d076_JPNscroll_30_1.png", "frame": 10, "se": "312" },
+				{ "filename": "f284_d076_JPNscroll_30_4.png", "frame": 2 },
+				{ "filename": "f284_d076_JPNscroll_30_5.png", "frame": 50 },
+				{ "filename": "f284_d076_JPNscroll_30_5.png", "frame": 116, "se": "306" },
+				{ "filename": "f284_d076_JPNscroll_30_6.png", "frame": 14 },
+				{ "filename": "f284_d076_JPNscroll_30_7.png", "frame": 14 },
+				{ "filename": "f284_d076_JPNscroll_30_1.png", "frame": 86 }
+			]
+		]
+	},
+	"reloadflag": false
+}

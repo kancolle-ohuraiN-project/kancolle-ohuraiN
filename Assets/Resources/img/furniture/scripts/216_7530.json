@@ -1,0 +1,23 @@
+﻿{
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f216_f058_pool_2.png" }
+			]
+		]
+	},
+	"standard_2": {
+		"data":[
+			[
+				{ "filename": "f216_f058_pool_1.png" }
+			]
+		]
+	},
+	"case": {
+		"time":[
+			{ "time": "100000", "state": "standard_2" },
+			{ "time": "200000", "state": "standard" }
+		]
+	},
+	"reloadflag": true
+}

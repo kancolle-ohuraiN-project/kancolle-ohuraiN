@@ -1,0 +1,154 @@
+{
+    "frames": {
+        "f359_c71_nagatsuki3_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 607,
+                "h": 384
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 607,
+                "h": 384
+            },
+            "sourceSize": {
+                "w": 607,
+                "h": 384
+            }
+        },
+        "f359_c71_nagatsuki3_B1.png": {
+            "frame": {
+                "x": 612,
+                "y": 0,
+                "w": 261,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 261,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 261,
+                "h": 234
+            }
+        },
+        "f359_c71_nagatsuki3_B2.png": {
+            "frame": {
+                "x": 0,
+                "y": 389,
+                "w": 261,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 261,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 261,
+                "h": 234
+            }
+        },
+        "f359_c71_nagatsuki3_B3.png": {
+            "frame": {
+                "x": 266,
+                "y": 389,
+                "w": 261,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 261,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 261,
+                "h": 234
+            }
+        },
+        "f359_c71_nagatsuki3_B4.png": {
+            "frame": {
+                "x": 532,
+                "y": 389,
+                "w": 261,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 261,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 261,
+                "h": 234
+            }
+        },
+        "f359_c71_nagatsuki3_B5.png": {
+            "frame": {
+                "x": 0,
+                "y": 628,
+                "w": 261,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 261,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 261,
+                "h": 234
+            }
+        },
+        "f359_c71_nagatsuki3_C.png": {
+            "frame": {
+                "x": 266,
+                "y": 628,
+                "w": 261,
+                "h": 234
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 261,
+                "h": 234
+            },
+            "sourceSize": {
+                "w": 261,
+                "h": 234
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "359_8440.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 873,
+            "h": 862
+        },
+        "scale": 1
+    }
+}

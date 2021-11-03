@@ -1,0 +1,21 @@
+﻿{
+	"standard": {
+		"data":[
+			[
+				{ "filename": "f280_d075_wallPicture_4.png" }
+			]
+		],
+		"hitarea":{"filename": "f280_d075_wallPicture_4_c.png", "state":"action1"}
+	},
+	"action1":{
+		"data":[
+			[
+				{
+					"filename": "f280_d075_wallPicture_4.png",
+					"popup": {"src":"280", "se_open":"316", "se_close":"316"}
+				}
+			]
+		]
+	},
+	"reloadflag": true
+}

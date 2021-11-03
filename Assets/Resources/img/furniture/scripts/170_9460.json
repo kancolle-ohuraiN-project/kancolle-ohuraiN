@@ -1,0 +1,12 @@
+﻿{
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f170_007.png" }
+			]
+		]
+	},
+	"reloadflag": true,
+	"kaikyo": {"type":3, "pos":[420,330]},
+	"shogo": {"pos":[ 388, 325]}
+}

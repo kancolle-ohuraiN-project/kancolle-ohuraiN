@@ -1,0 +1,254 @@
+{
+    "frames": {
+        "f239_e052_dressingroom_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 303,
+                "h": 634
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 303,
+                "h": 634
+            },
+            "sourceSize": {
+                "w": 303,
+                "h": 634
+            }
+        },
+        "f239_e052_dressingroom_B.png": {
+            "frame": {
+                "x": 959,
+                "y": 639,
+                "w": 130,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 130,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 130,
+                "h": 400
+            }
+        },
+        "f239_e052_dressingroom_C_1.png": {
+            "frame": {
+                "x": 577,
+                "y": 639,
+                "w": 186,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 186,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 186,
+                "h": 480
+            }
+        },
+        "f239_e052_dressingroom_C_10.png": {
+            "frame": {
+                "x": 193,
+                "y": 639,
+                "w": 188,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 188,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 188,
+                "h": 480
+            }
+        },
+        "f239_e052_dressingroom_C_2.png": {
+            "frame": {
+                "x": 386,
+                "y": 639,
+                "w": 186,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 186,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 186,
+                "h": 480
+            }
+        },
+        "f239_e052_dressingroom_C_3.png": {
+            "frame": {
+                "x": 509,
+                "y": 0,
+                "w": 190,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 190,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 190,
+                "h": 480
+            }
+        },
+        "f239_e052_dressingroom_C_4.png": {
+            "frame": {
+                "x": 1092,
+                "y": 0,
+                "w": 188,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 188,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 188,
+                "h": 480
+            }
+        },
+        "f239_e052_dressingroom_C_5.png": {
+            "frame": {
+                "x": 704,
+                "y": 0,
+                "w": 190,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 190,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 190,
+                "h": 480
+            }
+        },
+        "f239_e052_dressingroom_C_6.png": {
+            "frame": {
+                "x": 308,
+                "y": 0,
+                "w": 196,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 196,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 196,
+                "h": 480
+            }
+        },
+        "f239_e052_dressingroom_C_7.png": {
+            "frame": {
+                "x": 899,
+                "y": 0,
+                "w": 188,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 188,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 188,
+                "h": 480
+            }
+        },
+        "f239_e052_dressingroom_C_8.png": {
+            "frame": {
+                "x": 0,
+                "y": 639,
+                "w": 188,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 188,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 188,
+                "h": 480
+            }
+        },
+        "f239_e052_dressingroom_C_9.png": {
+            "frame": {
+                "x": 768,
+                "y": 639,
+                "w": 186,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 186,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 186,
+                "h": 480
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "239_9616.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1280,
+            "h": 1119
+        },
+        "scale": 1
+    }
+}

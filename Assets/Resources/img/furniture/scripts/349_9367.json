@@ -1,0 +1,49 @@
+﻿{
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f349_d090_JPNscroll_42_A.png" }
+			], [
+				{ "filename": "f349_d090_JPNscroll_42_B1.png", "offset":[0,205] }
+			]
+		],
+		"hitarea":{"filename": "f349_d090_JPNscroll_42_C.png", "offset":[188,231], "state":"action1"}
+	},
+	"action1": {
+		"data":[
+			[
+				{ "filename": "f349_d090_JPNscroll_42_A.png" }
+			], [
+				{ "filename": "f349_d090_JPNscroll_42_B1.png", "frame": 28, "offset":[0,205], "se": "315" },
+				{ "filename": "f349_d090_JPNscroll_42_B2.png", "frame": 82 },
+				{ "filename": "f349_d090_JPNscroll_42_B3.png", "frame": 12, "se": "318" },
+				{ "filename": "f349_d090_JPNscroll_42_B4.png", "frame": 10 },
+				{ "filename": "f349_d090_JPNscroll_42_B3.png", "frame": 8 },
+				{ "filename": "f349_d090_JPNscroll_42_B4.png", "frame": 8 },
+				{ "filename": "f349_d090_JPNscroll_42_B3.png", "frame": 4 },
+				{ "filename": "f349_d090_JPNscroll_42_B4.png", "frame": 4 },
+				{ "filename": "f349_d090_JPNscroll_42_B3.png", "frame": 2 },
+				{ "filename": "f349_d090_JPNscroll_42_B4.png", "frame": 2 },
+				{ "filename": "f349_d090_JPNscroll_42_B3.png", "frame": 2 },
+				{ "filename": "f349_d090_JPNscroll_42_B4.png", "frame": 2 },
+				{ "filename": "f349_d090_JPNscroll_42_B3.png", "frame": 2 },
+				{ "filename": "f349_d090_JPNscroll_42_B4.png", "frame": 2 },
+				{ "filename": "f349_d090_JPNscroll_42_B3.png", "frame": 2 },
+				{ "filename": "f349_d090_JPNscroll_42_B4.png", "frame": 2 },
+				{ "filename": "f349_d090_JPNscroll_42_B3.png", "frame": 2 },
+				{ "filename": "f349_d090_JPNscroll_42_B5.png", "frame": 6 },
+				{ "filename": "f349_d090_JPNscroll_42_B6.png", "frame": 6 },
+				{ "filename": "f349_d090_JPNscroll_42_B7.png", "frame": 6 },
+				{ "filename": "f349_d090_JPNscroll_42_B8.png", "frame": 6 },
+				{ "filename": "f349_d090_JPNscroll_42_B9.png", "frame": 6 },
+				{ "filename": "f349_d090_JPNscroll_42_B10.png", "frame": 118 },
+				{ "filename": "f349_d090_JPNscroll_42_B11.png", "frame": 12 },
+				{ "filename": "f349_d090_JPNscroll_42_B12.png", "frame": 12 },
+				{ "filename": "f349_d090_JPNscroll_42_B13.png", "frame": 12 },
+				{ "filename": "f349_d090_JPNscroll_42_B14.png", "frame": 68 },
+				{ "filename": "f349_d090_JPNscroll_42_B1.png", "frame": 1 }
+			]
+		]
+	},
+	"reloadflag": false
+}

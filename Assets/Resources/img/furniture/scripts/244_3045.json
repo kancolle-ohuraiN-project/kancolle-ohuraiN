@@ -1,0 +1,50 @@
+﻿{
+	"standard": {
+		"data":[
+			[
+				{ "filename": "f244_c054_teruteru_2_B.png" }
+			], [
+				{ "filename": "f244_c054_teruteru_2_C3.png", "offset":[153,0] }
+			], [
+				{ "filename": "f244_c054_teruteru_2_A.png" }
+			]
+		],
+		"hitarea":{"filename": "f244_c054_teruteru_2_clickable.png", "offset":[180,108], "state":"action1"}
+	},
+	"action1":{
+		"data":[
+			[
+				{ "filename": "f244_c054_teruteru_2_B.png" }
+			], [
+				{ "filename": "f244_c054_teruteru_2_C3.png", "frame": 6, "offset":[153,0] },
+				{ "filename": "f244_c054_teruteru_2_fl05.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C2.png", "frame": 10 },
+				{ "filename": "f244_c054_teruteru_2_fl11.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C1.png", "frame": 16 },
+				{ "filename": "f244_c054_teruteru_2_fl20.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C2.png", "frame": 10 },
+				{ "filename": "f244_c054_teruteru_2_fl26.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C3.png", "frame": 6 },
+				{ "filename": "f244_c054_teruteru_2_fl30.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C4.png", "frame": 10 },
+				{ "filename": "f244_c054_teruteru_2_fl36.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C5.png", "frame": 12 },
+				{ "filename": "f244_c054_teruteru_2_fl43.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C4.png", "frame": 8 },
+				{ "filename": "f244_c054_teruteru_2_fl48.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C3.png", "frame": 6 },
+				{ "filename": "f244_c054_teruteru_2_fl05.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C2.png", "frame": 18 },
+				{ "filename": "f244_c054_teruteru_2_fl26.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C3.png", "frame": 6 },
+				{ "filename": "f244_c054_teruteru_2_fl30.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C4.png", "frame": 16 },
+				{ "filename": "f244_c054_teruteru_2_fl48.png", "frame": 2 },
+				{ "filename": "f244_c054_teruteru_2_C3.png" }
+			], [
+				{ "filename": "f244_c054_teruteru_2_A.png" }
+			]
+		]
+	},
+	"reloadflag": true
+}

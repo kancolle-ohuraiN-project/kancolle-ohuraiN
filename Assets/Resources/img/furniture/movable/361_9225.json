@@ -1,0 +1,194 @@
+{
+    "frames": {
+        "f361_d093_bigcatchFlag3_1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 400
+            }
+        },
+        "f361_d093_bigcatchFlag3_2.png": {
+            "frame": {
+                "x": 275,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 400
+            }
+        },
+        "f361_d093_bigcatchFlag3_3.png": {
+            "frame": {
+                "x": 550,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 400
+            }
+        },
+        "f361_d093_bigcatchFlag3_4.png": {
+            "frame": {
+                "x": 0,
+                "y": 405,
+                "w": 270,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 400
+            }
+        },
+        "f361_d093_bigcatchFlag3_5.png": {
+            "frame": {
+                "x": 275,
+                "y": 405,
+                "w": 270,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 400
+            }
+        },
+        "f361_d093_bigcatchFlag3_6.png": {
+            "frame": {
+                "x": 550,
+                "y": 405,
+                "w": 270,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 400
+            }
+        },
+        "f361_d093_bigcatchFlag3_7.png": {
+            "frame": {
+                "x": 825,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 400
+            }
+        },
+        "f361_d093_bigcatchFlag3_8.png": {
+            "frame": {
+                "x": 825,
+                "y": 405,
+                "w": 270,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 400
+            }
+        },
+        "f361_d093_bigcatchFlag3_c.png": {
+            "frame": {
+                "x": 1100,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 270,
+                "h": 400
+            },
+            "sourceSize": {
+                "w": 270,
+                "h": 400
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "361_9225.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1370,
+            "h": 805
+        },
+        "scale": 1
+    }
+}

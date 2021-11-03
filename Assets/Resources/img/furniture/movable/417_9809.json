@@ -1,0 +1,174 @@
+{
+    "frames": {
+        "f417_c077_candle_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f417_c077_candle_B1.png": {
+            "frame": {
+                "x": 662,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f417_c077_candle_B2.png": {
+            "frame": {
+                "x": 0,
+                "y": 545,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f417_c077_candle_B3.png": {
+            "frame": {
+                "x": 662,
+                "y": 545,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f417_c077_candle_B4.png": {
+            "frame": {
+                "x": 1324,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f417_c077_candle_B5.png": {
+            "frame": {
+                "x": 1324,
+                "y": 545,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f417_c077_candle_B6.png": {
+            "frame": {
+                "x": 0,
+                "y": 1090,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f417_c077_candle_B7.png": {
+            "frame": {
+                "x": 662,
+                "y": 1090,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "417_9809.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1981,
+            "h": 1630
+        },
+        "scale": 1
+    }
+}

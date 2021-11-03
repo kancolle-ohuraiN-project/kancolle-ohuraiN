@@ -1,0 +1,294 @@
+{
+    "frames": {
+        "f553_c096_halloween_A.png": {
+            "frame": {
+                "x": 699,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B1.png": {
+            "frame": {
+                "x": 699,
+                "y": 1090,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B10.png": {
+            "frame": {
+                "x": 0,
+                "y": 545,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B11.png": {
+            "frame": {
+                "x": 699,
+                "y": 545,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B12.png": {
+            "frame": {
+                "x": 1398,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B2.png": {
+            "frame": {
+                "x": 1398,
+                "y": 545,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B3.png": {
+            "frame": {
+                "x": 0,
+                "y": 1090,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B4.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B5.png": {
+            "frame": {
+                "x": 1398,
+                "y": 1090,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B6.png": {
+            "frame": {
+                "x": 2097,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B7.png": {
+            "frame": {
+                "x": 2097,
+                "y": 545,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B8.png": {
+            "frame": {
+                "x": 2097,
+                "y": 1090,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_B9.png": {
+            "frame": {
+                "x": 0,
+                "y": 1635,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        },
+        "f553_c096_halloween_C.png": {
+            "frame": {
+                "x": 699,
+                "y": 1635,
+                "w": 694,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 694,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 694,
+                "h": 540
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "553_9883.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 2791,
+            "h": 2175
+        },
+        "scale": 1
+    }
+}

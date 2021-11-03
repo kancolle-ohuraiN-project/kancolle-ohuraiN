@@ -1,0 +1,52 @@
+{
+	"standard": {
+		"data":[
+			[
+				{ "filename": "f484_c069_curtain_A.png" }
+			], [
+				{ "filename": "f484_c069_curtain_B01.png" }
+			]
+		],
+		"hitarea":{"filename": "f484_c069_curtain_C.png", "state":"click1"}
+	},
+	"standard2": {
+		"data":[
+			[
+				{ "filename": "f484_c069_curtain_A.png" }
+			], [
+				{ "filename": "f484_c069_curtain_B06.png" }
+			]
+		],
+		"hitarea":{"filename": "f484_c069_curtain_C.png", "state":"click2"}
+	},
+	"click1": {
+		"data":[
+			[
+				{ "filename": "f484_c069_curtain_A.png" }
+			], [
+				{ "filename": "f484_c069_curtain_B02.png", "frame": 12 },
+				{ "filename": "f484_c069_curtain_B03.png", "frame": 12 },
+				{ "filename": "f484_c069_curtain_B04.png", "frame": 12 },
+				{ "filename": "f484_c069_curtain_B05.png", "frame": 12 },
+				{ "filename": "f484_c069_curtain_B06.png", "frame": 12 },
+				{ "filename": "", "state": "standard2" }
+			]
+		]
+	},
+	"click2": {
+		"data":[
+			[
+				{ "filename": "f484_c069_curtain_A.png" }
+			], [
+				{ "filename": "f484_c069_curtain_B06.png", "frame": 12 },
+				{ "filename": "f484_c069_curtain_B05.png", "frame": 12 },
+				{ "filename": "f484_c069_curtain_B04.png", "frame": 12 },
+				{ "filename": "f484_c069_curtain_B03.png", "frame": 12 },
+				{ "filename": "f484_c069_curtain_B02.png", "frame": 12 },
+				{ "filename": "f484_c069_curtain_B01.png", "frame": 12 },
+				{ "filename": "", "state": "standard" }
+			]
+		]
+	},
+	"reloadflag": true
+}

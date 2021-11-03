@@ -1,0 +1,174 @@
+{
+    "frames": {
+        "f484_c069_curtain_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f484_c069_curtain_B01.png": {
+            "frame": {
+                "x": 662,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f484_c069_curtain_B02.png": {
+            "frame": {
+                "x": 0,
+                "y": 545,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f484_c069_curtain_B03.png": {
+            "frame": {
+                "x": 662,
+                "y": 545,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f484_c069_curtain_B04.png": {
+            "frame": {
+                "x": 1324,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f484_c069_curtain_B05.png": {
+            "frame": {
+                "x": 1324,
+                "y": 545,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f484_c069_curtain_B06.png": {
+            "frame": {
+                "x": 0,
+                "y": 1090,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f484_c069_curtain_C.png": {
+            "frame": {
+                "x": 662,
+                "y": 1090,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "484_8096.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1981,
+            "h": 1630
+        },
+        "scale": 1
+    }
+}

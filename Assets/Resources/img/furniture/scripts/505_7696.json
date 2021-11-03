@@ -1,0 +1,48 @@
+{
+	"standard": {
+		"setting": {
+			"loop": [
+				0,
+				-1
+			]
+		},
+		"data": [
+			[
+				{
+					"filename": "f505_e089_britishxmas_A.png"
+				}
+			],
+			[
+				{
+					"filename": "f505_e089_britishxmas_B01.png",
+					"frame": 14
+				},
+				{
+					"filename": "f505_e089_britishxmas_B02.png",
+					"frame": 14
+				},
+				{
+					"filename": "f505_e089_britishxmas_B03.png",
+					"frame": 14
+				},
+				{
+					"filename": "f505_e089_britishxmas_B04.png",
+					"frame": 14
+				},
+				{
+					"filename": "f505_e089_britishxmas_B05.png",
+					"frame": 14
+				},
+				{
+					"filename": "f505_e089_britishxmas_B06.png",
+					"frame": 14
+				},
+				{
+					"filename": "f505_e089_britishxmas_B07.png",
+					"frame": 14
+				}
+			]
+		]
+	},
+	"reloadflag": false
+}

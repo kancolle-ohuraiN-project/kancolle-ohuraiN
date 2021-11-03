@@ -1,7 +1,103 @@
 fileFormatVersion: 2
 guid: 40af9918cc56ce64fb1d05d2b3891d95
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -928966195835390454
+    second: port_ringmenu_0
+  - first:
+      213: 5299408141127228975
+    second: port_ringmenu_1
+  - first:
+      213: 4541166566844907788
+    second: port_ringmenu_2
+  - first:
+      213: -554171781979847293
+    second: port_ringmenu_3
+  - first:
+      213: -6007012748738177273
+    second: port_ringmenu_4
+  - first:
+      213: 2130637631242870219
+    second: port_ringmenu_5
+  - first:
+      213: -5309401349945560396
+    second: port_ringmenu_6
+  - first:
+      213: 3935885515531420658
+    second: port_ringmenu_7
+  - first:
+      213: 2700931517946540445
+    second: port_ringmenu_8
+  - first:
+      213: 2335470841420678945
+    second: port_ringmenu_9
+  - first:
+      213: 2181209322060317252
+    second: port_ringmenu_10
+  - first:
+      213: 7289037993069724030
+    second: port_ringmenu_11
+  - first:
+      213: -1062046230561537171
+    second: port_ringmenu_12
+  - first:
+      213: -4624384865246247708
+    second: port_ringmenu_13
+  - first:
+      213: -2204325832242582710
+    second: port_ringmenu_14
+  - first:
+      213: 2364153693070417351
+    second: port_ringmenu_15
+  - first:
+      213: 8522249210438811058
+    second: port_ringmenu_16
+  - first:
+      213: -8610314126355278355
+    second: port_ringmenu_17
+  - first:
+      213: 1438497681847060369
+    second: port_ringmenu_18
+  - first:
+      213: -6226305445302861700
+    second: port_ringmenu_19
+  - first:
+      213: -7487609287288307513
+    second: port_ringmenu_20
+  - first:
+      213: 9054233252658001409
+    second: port_ringmenu_21
+  - first:
+      213: 7965931194375067868
+    second: port_ringmenu_22
+  - first:
+      213: -7041187868668409104
+    second: port_ringmenu_23
+  - first:
+      213: -7001128927895982957
+    second: port_ringmenu_24
+  - first:
+      213: 5099571894416386733
+    second: port_ringmenu_25
+  - first:
+      213: 7504742654803269464
+    second: port_ringmenu_26
+  - first:
+      213: 9222569462497229786
+    second: port_ringmenu_27
+  - first:
+      213: -417208012747384552
+    second: port_ringmenu_28
+  - first:
+      213: -4243433878895466769
+    second: port_ringmenu_29
+  - first:
+      213: 801957881010303500
+    second: port_ringmenu_30
+  - first:
+      213: -5345232796727580765
+    second: port_ringmenu_31
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +137,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +171,705 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: port_ringmenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 258
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06b2e0ba26ab13f0800000000000000
+      internalID: -928966195835390454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 879
+        width: 328
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e93bb70a74b8940800000000000000
+      internalID: 5299408141127228975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 879
+        width: 313
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01cba2bee6750f30800000000000000
+      internalID: 4541166566844907788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_3
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 894
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385cb8e43bf2f48f0800000000000000
+      internalID: -554171781979847293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 951
+        width: 174
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707d7364bbdc2aca0800000000000000
+      internalID: -6007012748738177273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 328
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd9f4313ab819d10800000000000000
+      internalID: 2130637631242870219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 686
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2f3864a973156b0800000000000000
+      internalID: -5309401349945560396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 718
+        width: 313
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f30bdde5031f9630800000000000000
+      internalID: 3935885515531420658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_8
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 746
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d913cd9c7e2ab7520800000000000000
+      internalID: 2700931517946540445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_9
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 808
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127892e3b52496020800000000000000
+      internalID: 2335470841420678945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 313
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4420d266256354e10800000000000000
+      internalID: 2181209322060317252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 576
+        width: 214
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e714f3b8f6dd72560800000000000000
+      internalID: 7289037993069724030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_12
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 557
+        width: 313
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63465c849ad241f0800000000000000
+      internalID: -1062046230561537171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_13
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 600
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e40e425772e2dfb0800000000000000
+      internalID: -4624384865246247708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 313
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ba6f7a559a861e0800000000000000
+      internalID: -2204325832242582710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 415
+        width: 214
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdd3ed02492fc020800000000000000
+      internalID: 2364153693070417351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_16
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 425
+        width: 174
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdfe8b018c154670800000000000000
+      internalID: 8522249210438811058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_17
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 425
+        width: 174
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d016ebe4028880800000000000000
+      internalID: -8610314126355278355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_18
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 452
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19787b8250296f310800000000000000
+      internalID: 1438497681847060369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7084a59f28b799a0800000000000000
+      internalID: -6226305445302861700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 146
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0c346360ba61890800000000000000
+      internalID: -7487609287288307513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 161
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106b5320c2917ad70800000000000000
+      internalID: 9054233252658001409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_22
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 207
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8dde9473cac8e60800000000000000
+      internalID: 7965931194375067868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_23
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 216
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faca3370fca84e90800000000000000
+      internalID: -7041187868668409104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_24
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 324
+        width: 104
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6c0a655ef6de90800000000000000
+      internalID: -7001128927895982957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_25
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 170
+        width: 104
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa21498e9155c640800000000000000
+      internalID: 5099571894416386733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575546cea3362860800000000000000
+      internalID: 7504742654803269464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb338810162dff70800000000000000
+      internalID: 9222569462497229786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_28
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 11
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819debad587c53af0800000000000000
+      internalID: -417208012747384552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_29
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 23
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e39cae5b4c15c0800000000000000
+      internalID: -4243433878895466769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_30
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 26
+        width: 136
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02b17e9170212b00800000000000000
+      internalID: 801957881010303500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: port_ringmenu_31
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 57
+        width: 174
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7e845771be1d5b0800000000000000
+      internalID: -5345232796727580765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

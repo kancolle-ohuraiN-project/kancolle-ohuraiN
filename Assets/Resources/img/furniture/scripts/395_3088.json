@@ -1,0 +1,31 @@
+{
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f395_d105_bigcatchFlag4_1.png" }
+			]
+		],
+		"hitarea":{"filename": "f395_d105_bigcatchFlag4_c.png", "state":"action1"}
+	},
+	"action1": {
+		"data":[
+			[
+				{ "filename": "f395_d105_bigcatchFlag4_1.png", "frame": 4 },
+				{ "filename": "f395_d105_bigcatchFlag4_2.png", "frame": 6, "se": "313" },
+				{ "filename": "f395_d105_bigcatchFlag4_1.png", "frame": 6 },
+				{ "filename": "f395_d105_bigcatchFlag4_3.png", "frame": 4 },
+				{ "filename": "f395_d105_bigcatchFlag4_1.png", "frame": 6 },
+				{ "filename": "f395_d105_bigcatchFlag4_2.png", "frame": 6 },
+				{ "filename": "f395_d105_bigcatchFlag4_1.png", "frame": 6 },
+				{ "filename": "f395_d105_bigcatchFlag4_4.png", "frame": 26, "se": "312" },
+				{ "filename": "f395_d105_bigcatchFlag4_4.png", "frame": 176, "se": "326" },
+				{ "filename": "f395_d105_bigcatchFlag4_1.png", "frame": 2 },
+				{ "filename": "f395_d105_bigcatchFlag4_5.png", "frame": 2 },
+				{ "filename": "f395_d105_bigcatchFlag4_6.png", "frame": 24 },
+				{ "filename": "f395_d105_bigcatchFlag4_7.png", "frame": 8 },
+				{ "filename": "f395_d105_bigcatchFlag4_1.png", "frame": 2, "popup": {"src":"395", "offset_x":-1, "offset_y":34 } }
+			]
+		]
+	},
+	"reloadflag": false
+}

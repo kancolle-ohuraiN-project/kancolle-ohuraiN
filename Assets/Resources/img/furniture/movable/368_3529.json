@@ -1,0 +1,274 @@
+{
+    "frames": {
+        "f368_c073_blind_1_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 353,
+                "w": 589,
+                "h": 372
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 589,
+                "h": 372
+            },
+            "sourceSize": {
+                "w": 589,
+                "h": 372
+            }
+        },
+        "f368_c073_blind_1_B1.png": {
+            "frame": {
+                "x": 605,
+                "y": 1075,
+                "w": 600,
+                "h": 322
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 322
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 322
+            }
+        },
+        "f368_c073_blind_1_B10.png": {
+            "frame": {
+                "x": 662,
+                "y": 0,
+                "w": 600,
+                "h": 351
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 351
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 351
+            }
+        },
+        "f368_c073_blind_1_B2.png": {
+            "frame": {
+                "x": 605,
+                "y": 1405,
+                "w": 600,
+                "h": 322
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 322
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 322
+            }
+        },
+        "f368_c073_blind_1_B3.png": {
+            "frame": {
+                "x": 0,
+                "y": 1405,
+                "w": 600,
+                "h": 322
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 322
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 322
+            }
+        },
+        "f368_c073_blind_1_B4.png": {
+            "frame": {
+                "x": 1210,
+                "y": 1075,
+                "w": 600,
+                "h": 322
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 322
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 322
+            }
+        },
+        "f368_c073_blind_1_B5.png": {
+            "frame": {
+                "x": 0,
+                "y": 1075,
+                "w": 600,
+                "h": 325
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 325
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 325
+            }
+        },
+        "f368_c073_blind_1_B6.png": {
+            "frame": {
+                "x": 605,
+                "y": 730,
+                "w": 600,
+                "h": 333
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 333
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 333
+            }
+        },
+        "f368_c073_blind_1_B7.png": {
+            "frame": {
+                "x": 0,
+                "y": 730,
+                "w": 600,
+                "h": 340
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 340
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 340
+            }
+        },
+        "f368_c073_blind_1_B8.png": {
+            "frame": {
+                "x": 662,
+                "y": 356,
+                "w": 600,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 348
+            }
+        },
+        "f368_c073_blind_1_B9.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 348
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 348
+            }
+        },
+        "f368_c073_blind_1_C1.png": {
+            "frame": {
+                "x": 1267,
+                "y": 354,
+                "w": 159,
+                "h": 327
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 159,
+                "h": 327
+            },
+            "sourceSize": {
+                "w": 159,
+                "h": 327
+            }
+        },
+        "f368_c073_blind_1_C2.png": {
+            "frame": {
+                "x": 1267,
+                "y": 0,
+                "w": 567,
+                "h": 349
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 567,
+                "h": 349
+            },
+            "sourceSize": {
+                "w": 567,
+                "h": 349
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "368_3529.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1834,
+            "h": 1727
+        },
+        "scale": 1
+    }
+}

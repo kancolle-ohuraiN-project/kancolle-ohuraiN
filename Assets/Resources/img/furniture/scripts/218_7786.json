@@ -1,0 +1,12 @@
+﻿{
+	"category":["jukebox"],
+	"standard": {
+		"data":[
+			[
+				{ "filename": "f218_f060_jukebox.png", "offset":[0,-84] }
+			]
+		],
+		"hitarea":{"filename": "f218_f060_jukebox_c.png", "offset":[0,-84]}
+	},
+	"reloadflag": false
+}

@@ -1,0 +1,47 @@
+﻿{
+	"category":["umbrellarack"],
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f385_e07x_umbrellarack_A_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B1_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B2_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B3_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B4_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B5_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B6_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B7_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B8_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B9_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B10_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B11_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B12_dummy.png" }
+			], [
+				{ "filename": "f385_e07x_umbrellarack_B13_dummy.png" }
+			]
+		]
+	},
+	"standtype": [
+		{ "fileno": 1, "shiptype": [ 1 ], "shipyomi": ["そうや"] },
+		{ "fileno": 2, "shiptype": [ 2 ] }
+	],
+	"umbrellara": [
+		{ "fileno": 1, "shipyomi": [ "ふかえ", "えとろふ", "そうや" ] },
+		{ "fileno": 2, "shipyomi": [ "たかなみ", "むらさめ", "さぎり", "はまなみ", "ふじなみ", "はやしも", "きよしも", "さざなみ", "あけぼの", "はやなみ", "みなづき", "シロッコ", "リベッチオ" ] },
+		{ "fileno": 3, "shipyomi": [ "しょうほう", "かもい", "ちよだ", "ちとせ", "ゆうばり", "みずほ", "ふそう", "ガンビア・ベイ", "おおい", "はるな", "い203", "かこ" ] }
+	],
+	"AnimationFlag": false,
+	"reloadflag": true
+}

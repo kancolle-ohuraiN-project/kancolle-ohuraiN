@@ -1,0 +1,74 @@
+{
+    "frames": {
+        "f265_d068_JPNscroll_29_1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 255,
+                "h": 379
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 255,
+                "h": 379
+            },
+            "sourceSize": {
+                "w": 255,
+                "h": 379
+            }
+        },
+        "f265_d068_JPNscroll_29_2.png": {
+            "frame": {
+                "x": 260,
+                "y": 0,
+                "w": 255,
+                "h": 379
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 255,
+                "h": 379
+            },
+            "sourceSize": {
+                "w": 255,
+                "h": 379
+            }
+        },
+        "f265_touch_Area.png": {
+            "frame": {
+                "x": 0,
+                "y": 384,
+                "w": 54,
+                "h": 64
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 54,
+                "h": 64
+            },
+            "sourceSize": {
+                "w": 54,
+                "h": 64
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "265_1023.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 515,
+            "h": 448
+        },
+        "scale": 1
+    }
+}

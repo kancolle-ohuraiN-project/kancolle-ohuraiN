@@ -1,0 +1,174 @@
+{
+    "frames": {
+        "f453_d117_bigcatchFlag5_1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "sourceSize": {
+                "w": 271,
+                "h": 432
+            }
+        },
+        "f453_d117_bigcatchFlag5_2.png": {
+            "frame": {
+                "x": 276,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "sourceSize": {
+                "w": 271,
+                "h": 432
+            }
+        },
+        "f453_d117_bigcatchFlag5_3.png": {
+            "frame": {
+                "x": 552,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "sourceSize": {
+                "w": 271,
+                "h": 432
+            }
+        },
+        "f453_d117_bigcatchFlag5_4.png": {
+            "frame": {
+                "x": 828,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "sourceSize": {
+                "w": 271,
+                "h": 432
+            }
+        },
+        "f453_d117_bigcatchFlag5_5.png": {
+            "frame": {
+                "x": 0,
+                "y": 437,
+                "w": 271,
+                "h": 432
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "sourceSize": {
+                "w": 271,
+                "h": 432
+            }
+        },
+        "f453_d117_bigcatchFlag5_6.png": {
+            "frame": {
+                "x": 276,
+                "y": 437,
+                "w": 271,
+                "h": 432
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "sourceSize": {
+                "w": 271,
+                "h": 432
+            }
+        },
+        "f453_d117_bigcatchFlag5_7.png": {
+            "frame": {
+                "x": 552,
+                "y": 437,
+                "w": 271,
+                "h": 432
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "sourceSize": {
+                "w": 271,
+                "h": 432
+            }
+        },
+        "f453_d117_bigcatchFlag5_c.png": {
+            "frame": {
+                "x": 828,
+                "y": 437,
+                "w": 271,
+                "h": 432
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 271,
+                "h": 432
+            },
+            "sourceSize": {
+                "w": 271,
+                "h": 432
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "453_1567.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1099,
+            "h": 869
+        },
+        "scale": 1
+    }
+}

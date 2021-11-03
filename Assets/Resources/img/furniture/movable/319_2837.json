@@ -1,0 +1,114 @@
+{
+    "frames": {
+        "f319_c064_radio1_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 384
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 600,
+                "h": 384
+            },
+            "sourceSize": {
+                "w": 600,
+                "h": 384
+            }
+        },
+        "f319_c064_radio1_B1.png": {
+            "frame": {
+                "x": 235,
+                "y": 389,
+                "w": 112,
+                "h": 127
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 112,
+                "h": 127
+            },
+            "sourceSize": {
+                "w": 112,
+                "h": 127
+            }
+        },
+        "f319_c064_radio1_B2.png": {
+            "frame": {
+                "x": 117,
+                "y": 389,
+                "w": 113,
+                "h": 127
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 113,
+                "h": 127
+            },
+            "sourceSize": {
+                "w": 113,
+                "h": 127
+            }
+        },
+        "f319_c064_radio1_B3.png": {
+            "frame": {
+                "x": 352,
+                "y": 389,
+                "w": 111,
+                "h": 127
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 111,
+                "h": 127
+            },
+            "sourceSize": {
+                "w": 111,
+                "h": 127
+            }
+        },
+        "f319_c064_radio1_C.png": {
+            "frame": {
+                "x": 0,
+                "y": 389,
+                "w": 112,
+                "h": 130
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 112,
+                "h": 130
+            },
+            "sourceSize": {
+                "w": 112,
+                "h": 130
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "319_2837.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 600,
+            "h": 519
+        },
+        "scale": 1
+    }
+}

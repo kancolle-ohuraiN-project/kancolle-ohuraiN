@@ -1,0 +1,17 @@
+﻿{
+	"standard": {
+		"setting": {
+			"loop": [ 0, -1]
+		},
+		"data":[
+			[
+				{ "filename": "f217_f059_JPNtable_2_A.png" }
+			], [
+				{ "filename": "f217_f059_JPNtable_2_smoke1.png", "frame": 34 },
+				{ "filename": "f217_f059_JPNtable_2_smoke2.png", "frame": 36 },
+				{ "filename": "f217_f059_JPNtable_2_smoke3.png", "frame": 38 }
+			]
+		]
+	},
+	"reloadflag": false
+}

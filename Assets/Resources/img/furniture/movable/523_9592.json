@@ -1,0 +1,174 @@
+{
+    "frames": {
+        "f523_e092_choco_chest_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "sourceSize": {
+                "w": 330,
+                "h": 660
+            }
+        },
+        "f523_e092_choco_chest_B1.png": {
+            "frame": {
+                "x": 335,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "sourceSize": {
+                "w": 330,
+                "h": 660
+            }
+        },
+        "f523_e092_choco_chest_B2.png": {
+            "frame": {
+                "x": 670,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "sourceSize": {
+                "w": 330,
+                "h": 660
+            }
+        },
+        "f523_e092_choco_chest_B3.png": {
+            "frame": {
+                "x": 1005,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "sourceSize": {
+                "w": 330,
+                "h": 660
+            }
+        },
+        "f523_e092_choco_chest_B4.png": {
+            "frame": {
+                "x": 0,
+                "y": 665,
+                "w": 330,
+                "h": 660
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "sourceSize": {
+                "w": 330,
+                "h": 660
+            }
+        },
+        "f523_e092_choco_chest_B5.png": {
+            "frame": {
+                "x": 335,
+                "y": 665,
+                "w": 330,
+                "h": 660
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "sourceSize": {
+                "w": 330,
+                "h": 660
+            }
+        },
+        "f523_e092_choco_chest_B6.png": {
+            "frame": {
+                "x": 670,
+                "y": 665,
+                "w": 330,
+                "h": 660
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "sourceSize": {
+                "w": 330,
+                "h": 660
+            }
+        },
+        "f523_e092_choco_chest_B7.png": {
+            "frame": {
+                "x": 1005,
+                "y": 665,
+                "w": 330,
+                "h": 660
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 330,
+                "h": 660
+            },
+            "sourceSize": {
+                "w": 330,
+                "h": 660
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "523_9592.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1335,
+            "h": 1325
+        },
+        "scale": 1
+    }
+}

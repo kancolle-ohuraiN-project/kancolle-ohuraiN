@@ -1,0 +1,17 @@
+﻿{
+	"standard": {
+		"setting": {
+		  "loop": [ 0, -1]
+		},
+		"data":[
+			[
+				{ "filename": "f262_f075_autumnStall_A.png" }
+			], [
+				{ "filename": "f262_f075_autumnStall_smoke1.png", "frame": 34, "offset":[0,-242] },
+				{ "filename": "f262_f075_autumnStall_smoke2.png", "frame": 36 },
+				{ "filename": "f262_f075_autumnStall_smoke3.png", "frame": 36 }
+			]
+		]
+	},
+	"reloadflag": false
+}

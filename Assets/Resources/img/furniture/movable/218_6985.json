@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "f218_f060_jukebox.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 480
+            }
+        },
+        "f218_f060_jukebox_c.png": {
+            "frame": {
+                "x": 245,
+                "y": 0,
+                "w": 210,
+                "h": 480
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 480
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 480
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "218_6985.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 455,
+            "h": 480
+        },
+        "scale": 1
+    }
+}

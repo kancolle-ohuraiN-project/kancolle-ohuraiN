@@ -1,0 +1,28 @@
+﻿{
+	"standard": {
+		"data":[
+			[
+				{ "filename": "f328_f097_manuscript2_A.png" }
+			]
+		],
+		"hitarea":{"filename": "f328_f097_manuscript2_C.png", "offset":[0,-260], "state":"action1"}
+	},
+	"action1":{
+		"data":[
+			[
+				{ "filename": "f328_f097_manuscript2_A.png" }
+			], [
+				{ "filename": "f328_f097_manuscript2_B1.png", "frame": 332, "offset":[0,-260] },
+				{ "filename": "f328_f097_manuscript2_B2.png", "frame": 4 },
+				{ "filename": "", "frame": 14 },
+				{ "filename": "f328_f097_manuscript2_B2.png", "frame": 6 },
+				{ "filename": "", "frame": 20 },
+				{ "filename": "f328_f097_manuscript2_B2.png", "frame": 6 },
+				{ "filename": "", "frame": 34 },
+				{ "filename": "f328_f097_manuscript2_B2.png", "frame": 14 },
+				{ "filename": "" }
+			]
+		]
+	},
+	"reloadflag": false
+}

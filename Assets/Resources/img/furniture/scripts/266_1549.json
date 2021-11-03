@@ -1,0 +1,30 @@
+﻿{
+	"standard": {
+		"data":[
+			[
+				{ "filename": "f266_d069_JPNscroll_30_A.png" }
+			], [
+				{ "filename": "f266_d069_JPNscroll_30_B3.png", "offset":[153,73] }
+			]
+		],
+		"hitarea":{"filename": "f266_touch_area.png", "offset":[174,93], "state":"action1"}
+	},
+	"action1":{
+		"data":[
+			[
+				{ "filename": "f266_d069_JPNscroll_30_A.png" }
+			], [
+				{ "filename": "f266_d069_JPNscroll_30_B3.png", "frame": 2, "offset":[153,73], "se": "310" },
+				{ "filename": "f266_d069_JPNscroll_30_B4.png", "frame": 8 },
+				{ "filename": "f266_d069_JPNscroll_30_B5.png", "frame": 6 },
+				{ "filename": "f266_d069_JPNscroll_30_B4.png", "frame": 8 },
+				{ "filename": "f266_d069_JPNscroll_30_B3.png", "frame": 10 },
+				{ "filename": "f266_d069_JPNscroll_30_B2.png", "frame": 8 },
+				{ "filename": "f266_d069_JPNscroll_30_B1.png", "frame": 6 },
+				{ "filename": "f266_d069_JPNscroll_30_B2.png", "frame": 8 },
+				{ "filename": "f266_d069_JPNscroll_30_B3.png" }
+			]
+		]
+	},
+	"reloadflag": false
+}

@@ -1,0 +1,21 @@
+{
+	"standard": {
+		"setting": {
+			"loop": [ 0, -1]
+		},
+		"data":[
+			[
+				{ "filename": "f417_c077_candle_A.png" }
+			], [
+				{ "filename": "f417_c077_candle_B1.png", "frame": 10 },
+				{ "filename": "f417_c077_candle_B2.png", "frame": 10 },
+				{ "filename": "f417_c077_candle_B3.png", "frame": 10 },
+				{ "filename": "f417_c077_candle_B4.png", "frame": 10 },
+				{ "filename": "f417_c077_candle_B5.png", "frame": 10 },
+				{ "filename": "f417_c077_candle_B6.png", "frame": 10 },
+				{ "filename": "f417_c077_candle_B7.png", "frame": 10 }
+			]
+		]
+	},
+	"reloadflag": false
+}

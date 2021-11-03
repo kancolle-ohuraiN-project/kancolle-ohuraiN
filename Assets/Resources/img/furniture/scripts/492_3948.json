@@ -1,0 +1,64 @@
+{
+    "category": [
+        "gramo"
+    ],
+    "standard": {
+        "data": [
+            [
+                {
+                    "filename": "f492_f118_wanashi_radio.png"
+                }
+            ]
+        ],
+        "hitarea": {
+            "filename": "f492_f118_wanashi_radio_click.png",
+            "state": "click1"
+        }
+    },
+    "click1": {
+        "data": [
+            [
+                {
+                    "bgm": "start"
+                }
+            ],
+            [
+                {
+                    "filename": "f492_f118_wanashi_radio.png"
+                },
+                {
+                    "filename": "",
+                    "state": "standard2"
+                }
+            ]
+        ]
+    },
+    "standard2": {
+        "data": [
+            [
+                {
+                    "filename": "f492_f118_wanashi_radio.png"
+                }
+            ]
+        ],
+        "hitarea": {
+            "filename": "f492_f118_wanashi_radio_click.png",
+            "state": "click2"
+        }
+    },
+    "click2": {
+        "data": [
+            [
+                {
+                    "filename": "f492_f118_wanashi_radio.png"
+                },
+                {
+                    "filename": "",
+                    "state": "standard",
+                    "bgm": "play"
+                }
+            ]
+        ]
+    },
+    "reloadflag": true
+}

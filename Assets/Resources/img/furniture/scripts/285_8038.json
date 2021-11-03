@@ -1,0 +1,18 @@
+﻿{
+	"standard": {
+		"data":[
+			[
+				{ "filename": "f285_f083_uzuki1.png" }
+			]
+		],
+		"hitarea":{"filename": "f285_f083_uzuki_clickable.png", "offset":[324,-347], "state":"action1"}
+	},
+	"action1":{
+		"data":[
+			[
+				{ "filename": "f285_f083_uzuki1.png", "frame": 151, "se": "307" }
+			]
+		]
+	},
+	"reloadflag": false
+}

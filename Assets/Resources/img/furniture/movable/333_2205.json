@@ -1,0 +1,134 @@
+{
+    "frames": {
+        "f333_c066_kisaragi2_A.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 554,
+                "h": 290
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 554,
+                "h": 290
+            },
+            "sourceSize": {
+                "w": 554,
+                "h": 290
+            }
+        },
+        "f333_c066_kisaragi2_B1.png": {
+            "frame": {
+                "x": 0,
+                "y": 295,
+                "w": 516,
+                "h": 214
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 516,
+                "h": 214
+            },
+            "sourceSize": {
+                "w": 516,
+                "h": 214
+            }
+        },
+        "f333_c066_kisaragi2_B2.png": {
+            "frame": {
+                "x": 559,
+                "y": 219,
+                "w": 516,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 516,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 516,
+                "h": 210
+            }
+        },
+        "f333_c066_kisaragi2_B3.png": {
+            "frame": {
+                "x": 0,
+                "y": 514,
+                "w": 516,
+                "h": 204
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 516,
+                "h": 204
+            },
+            "sourceSize": {
+                "w": 516,
+                "h": 204
+            }
+        },
+        "f333_c066_kisaragi2_B4.png": {
+            "frame": {
+                "x": 521,
+                "y": 514,
+                "w": 516,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 516,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 516,
+                "h": 200
+            }
+        },
+        "f333_c066_kisaragi2_B5.png": {
+            "frame": {
+                "x": 559,
+                "y": 0,
+                "w": 516,
+                "h": 214
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 516,
+                "h": 214
+            },
+            "sourceSize": {
+                "w": 516,
+                "h": 214
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "333_2205.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1075,
+            "h": 718
+        },
+        "scale": 1
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "f479_d106_JPNscroll_7.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 435
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 435
+            },
+            "sourceSize": {
+                "w": 253,
+                "h": 435
+            }
+        },
+        "f479_d106_JPNscroll_7_c.png": {
+            "frame": {
+                "x": 258,
+                "y": 0,
+                "w": 253,
+                "h": 435
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 253,
+                "h": 435
+            },
+            "sourceSize": {
+                "w": 253,
+                "h": 435
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "479_7156.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 511,
+            "h": 435
+        },
+        "scale": 1
+    }
+}

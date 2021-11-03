@@ -1,0 +1,67 @@
+{
+	"standard": {
+		"setting": {
+			"loop": [ 0, -1,0]
+		},
+		"data":[
+			[
+				{ "filename": "f445_f111_somen_A.png" }
+			], [
+				{ "filename": "", "frame": 2 },
+				{ "filename": "f445_f111_somen_B1.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_B2.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_B3.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_B4.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_B5.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_B6.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_B7.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C1.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C2.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C3.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C4.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C5.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C6.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C7.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C8.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C9.png", "frame": 6 }
+			],
+			[
+				{ "filename": "", "frame": 2 }
+			]
+		],
+		"hitarea":{"filename": "f445_f111_somen_Z.png", "state":"click"}
+	},
+	"click":{
+		"data":[
+			[
+				{ "filename": "f445_f111_somen_A.png" }
+			], [
+				{ "filename": "f445_f111_somen_B5.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_B6.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_B7.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_D1.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_D2.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_D3.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_D4.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_D5.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_D6.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_D7.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_D8.png", "frame": 6 },
+				{ "filename": "", "state": "standard" }
+			],
+			[
+				{ "filename": "", "frame": 18 },
+				{ "filename": "f445_f111_somen_C1.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C2.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C3.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C4.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C5.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C6.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C7.png", "frame": 6 },
+				{ "filename": "f445_f111_somen_C8.png", "frame": 6 }
+			]
+		],
+		"hitarea":{"filename": "f445_f111_somen_Z.png", "state":"click"}
+	},
+	"reloadflag": true
+}

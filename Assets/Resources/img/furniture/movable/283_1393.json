@@ -1,0 +1,114 @@
+{
+    "frames": {
+        "f283_c058_uzuki2.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 540
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 540
+            }
+        },
+        "f283_c058_uzuki2_pe1.png": {
+            "frame": {
+                "x": 662,
+                "y": 0,
+                "w": 657,
+                "h": 288
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 288
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 288
+            }
+        },
+        "f283_c058_uzuki2_pe2.png": {
+            "frame": {
+                "x": 0,
+                "y": 545,
+                "w": 657,
+                "h": 288
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 288
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 288
+            }
+        },
+        "f283_c058_uzuki2_pe3.png": {
+            "frame": {
+                "x": 662,
+                "y": 545,
+                "w": 657,
+                "h": 288
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 288
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 288
+            }
+        },
+        "f283_c058_uzuki2_pe4.png": {
+            "frame": {
+                "x": 0,
+                "y": 838,
+                "w": 657,
+                "h": 288
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 657,
+                "h": 288
+            },
+            "sourceSize": {
+                "w": 657,
+                "h": 288
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "283_1393.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1319,
+            "h": 1126
+        },
+        "scale": 1
+    }
+}

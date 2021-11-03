@@ -1,0 +1,68 @@
+﻿{
+	"standard":{
+		"data":[
+			[
+				{ "filename": "f279_f082_adtable1_base.png" }
+			]
+		]
+	},
+	"standard_a": {
+		"setting": {
+			"loop": [ 0, 0, -1]
+		},
+		"data":[
+			[
+				{ "filename": "f279_f082_adtable1_base.png" }
+			], [
+				{ "filename": "f279_f082_adtable1_A.png", "offset":[47,-234] }
+			], [
+				{ "filename": "f279_f082_adtable1_Asmoke_1.png", "frame": 20, "offset":[47,-234] },
+				{ "filename": "f279_f082_adtable1_Asmoke_2.png", "frame": 20 },
+				{ "filename": "f279_f082_adtable1_Asmoke_3.png", "frame": 20 }
+			]
+		]
+	},
+	"standard_b": {
+		"setting": {
+			"loop": [ 0, 0, -1]
+		},
+		"data":[
+			[
+				{ "filename": "f279_f082_adtable1_base.png" }
+			], [
+				{ "filename": "f279_f082_adtable1_B.png", "offset":[47,-234] }
+			], [
+				{ "filename": "f279_f082_adtable1_Bsmoke_1.png", "frame": 20, "offset":[47,-234] },
+				{ "filename": "f279_f082_adtable1_Bsmoke_2.png", "frame": 20 },
+				{ "filename": "f279_f082_adtable1_Bsmoke_3.png", "frame": 20 }
+			]
+		]
+	},
+	"standard_c": {
+		"setting": {
+			"loop": [ 0, 0, -1]
+		},
+		"data":[
+			[
+				{ "filename": "f279_f082_adtable1_base.png" }
+			], [
+				{ "filename": "f279_f082_adtable1_C.png", "offset":[47,-234] }
+			], [
+				{ "filename": "f279_f082_adtable1_Csmoke_1.png", "frame": 20, "offset":[47,-234] },
+				{ "filename": "f279_f082_adtable1_Csmoke_2.png", "frame": 20 },
+				{ "filename": "f279_f082_adtable1_Csmoke_3.png", "frame": 20 }
+			]
+		]
+	},
+	"case": {
+		"time":[
+			{ "time": "050000", "state": "standard_a" },
+			{ "time": "083000", "state": "standard" },
+			{ "time": "113000", "state": "standard_b" },
+			{ "time": "133000", "state": "standard" },
+			{ "time": "173000", "state": "standard_c" },
+			{ "time": "213000", "state": "standard" }
+		]
+	},
+	"reloadflag": true
+}

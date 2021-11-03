@@ -1,0 +1,34 @@
+{
+    "frames": {
+        "f373_f100mamemaki215.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 547,
+                "h": 720
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 547,
+                "h": 720
+            },
+            "sourceSize": {
+                "w": 547,
+                "h": 720
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/Ensighten/spritesmith",
+        "image": "373_9663.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 547,
+            "h": 720
+        },
+        "scale": 1
+    }
+}
