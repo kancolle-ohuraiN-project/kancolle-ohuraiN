@@ -9,14 +9,8 @@ public class TimeSwitchLocation : MonoBehaviour
     private int hour;
     private int TimeKey;
     public Sprite[] TextureList;
-
-[SerializeField]
-Image myImage;
-    // Start is called before the first frame update
-    void Start()
-    {
-    }
-
+    [SerializeField]
+    Image myImage;
     // Update is called once per frame
     void Update()
     {
