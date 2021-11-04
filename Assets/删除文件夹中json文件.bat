@@ -1,0 +1,1 @@
+del /a /f /s /q "*.json"
