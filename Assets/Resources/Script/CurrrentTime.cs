@@ -11,6 +11,9 @@ public class CurrrentTime : MonoBehaviour
     private int minute;
     private int month;
     private int day;
+
+    [Header("是否是显示月/日")]
+    public bool isday;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,7 +27,11 @@ public class CurrrentTime : MonoBehaviour
         minute = DateTime.Now.Minute;
         month = DateTime.Now.Month;
         day = DateTime.Now.Day;
-
-        CurrrentTimeText.text = string.Format("{0:D2}/{1:D2}\n{2:D2}:{3:D2}",month,day,hour,minute);
+        if(isday == true){
+          CurrrentTimeText.text = string.Format("{0:D2}/{1:D2}",month,day);
+        }else{
+          CurrrentTimeText.text = string.Format("{0:D2}:{1:D2}",hour,minute);
+        }
+        
     }
 }

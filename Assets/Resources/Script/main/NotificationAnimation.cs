@@ -17,7 +17,7 @@ public class NotificationAnimation : MonoBehaviour
         isopen = 1;
       }else{
         Debug.Log("isClick");
-        gaminitor.GetComponent<Animator>().enabled = true;// 激活动画组件
+        gaminitor.GetComponent<Animator>().enabled = false;// 激活动画组件
       }
         
     }
