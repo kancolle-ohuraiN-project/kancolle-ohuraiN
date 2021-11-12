@@ -8,7 +8,7 @@ Logs/
 log/
 logs/
 Assets/AssetStoreTools*
-
+.plastic/
 # Visual Studio cache directory
 .vs/
 
