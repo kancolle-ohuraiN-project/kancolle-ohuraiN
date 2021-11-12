@@ -23,7 +23,7 @@ public class SetVolume : MonoBehaviour
         // BGMVolume为我们暴露出来的BGM的参数
     }
 
-    public void SetVoiceVolume(float volume)    // 控制音效音量的函数
+    public void SetVoiceVolume(float volume)    // 控制舰娘语音音量的函数
     {
         if(volume == -40f){
           volume = -80f;
@@ -39,5 +39,13 @@ public class SetVolume : MonoBehaviour
         }
         audioMixer.SetFloat("SoundEffectVolume", volume);
         // SoundEffectVolume为我们暴露出来的SoundEffect的参数
+    }
+    public void SetKCListVolume(float volume)    // 控制任务娘的函数（暂定，可能以后会直接控制开关）
+    {
+        if(volume == -40f){
+          volume = -80f;
+        }
+        audioMixer.SetFloat("SetKCListVolume", volume);
+        // SetKCListVolume为我们暴露出来的KCList的参数
     }
 }
