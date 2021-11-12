@@ -1,4 +1,0 @@
-repository "kancolle@ssl://offline-colle@sh03-plasticscm.unity.cn:8787"
-  path "/"
-    smartbranch "/main/misaka10843" 
-     
