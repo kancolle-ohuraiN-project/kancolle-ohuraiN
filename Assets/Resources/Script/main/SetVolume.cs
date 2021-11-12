@@ -25,12 +25,18 @@ public class SetVolume : MonoBehaviour
 
     public void SetVoiceVolume(float volume)    // 控制音效音量的函数
     {
+        if(volume == -40f){
+          volume = -80f;
+        }
         audioMixer.SetFloat("VoiceVolume", volume);
         // VoiceVolume为我们暴露出来的Voice的参数
     }
 
     public void SetSoundEffectVolume(float volume)    // 控制音效音量的函数
     {
+        if(volume == -40f){
+          volume = -80f;
+        }
         audioMixer.SetFloat("SoundEffectVolume", volume);
         // SoundEffectVolume为我们暴露出来的SoundEffect的参数
     }
