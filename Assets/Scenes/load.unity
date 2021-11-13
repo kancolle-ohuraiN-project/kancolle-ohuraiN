@@ -571,7 +571,7 @@ GameObject:
   - component: {fileID: 1410896245}
   - component: {fileID: 1410896244}
   m_Layer: 0
-  m_Name: toerror
+  m_Name: "\u5F69\u86CB-toerror"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -586,12 +586,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1410896243}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1fe650cbfea5a2b43bca72deb7c422f2, type: 3}
+  m_Script: {fileID: 11500000, guid: 07f171423ce4253419c4521edf15166a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seconds: 5
-  SceneName: main
-  onStart: 1
 --- !u!4 &1410896245
 Transform:
   m_ObjectHideFlags: 0
@@ -916,7 +913,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2019120019}
   - component: {fileID: 2019120020}
-  - component: {fileID: 2019120021}
   m_Layer: 5
   m_Name: boat
   m_TagString: Untagged
@@ -989,42 +985,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2019120021
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2019120018}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 02057311639881b44bc6eba0eb57141d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  anim:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    - serializedVersion: 3
-      time: 1
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &2045304023
 GameObject:
   m_ObjectHideFlags: 0
