@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class nico : MonoBehaviour
+public class bangdream : MonoBehaviour
 {
     public GameObject nicovideo;
     public GameObject BGM;  
@@ -15,11 +15,11 @@ public class nico : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-      if(Input.GetKeyDown(KeyCode.N)){
-        Debug.Log("N");
+      if(Input.GetKeyDown(KeyCode.B)){
+        Debug.Log("B");
       }
       
-        if(Input.GetKeyDown(KeyCode.N)){
+        if(Input.GetKeyDown(KeyCode.B)){
             nicovideo.SetActive(true);
             BGM.SetActive(false);
         }
