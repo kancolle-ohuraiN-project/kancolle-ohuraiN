@@ -9,6 +9,10 @@
   舰队收藏非官方离线版(使用网页版资源以及逻辑，不触及PSV版)
 </p>
 
+---
+
+[English](./README-EN.md) | **简体中文** | [projects查看](https://github.com/orgs/offline-colle/projects/1)
+
 ## 这是什么？🤔
 
 这个项目是为了防止舰队收藏突然**停服**导致的所有老婆都没了而制作的**开源离线版**
