@@ -23,14 +23,10 @@ public class CurrrentTime : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        hour = DateTime.Now.Hour;
-        minute = DateTime.Now.Minute;
-        month = DateTime.Now.Month;
-        day = DateTime.Now.Day;
         if(isday == true){
-          CurrrentTimeText.text = string.Format("{0:D2}/{1:D2}",month,day);
+          CurrrentTimeText.text = string.Format("{0}",DateTime.Now.ToString("MM/dd"));
         }else{
-          CurrrentTimeText.text = string.Format("{0:D2}:{1:D2}",hour,minute);
+          CurrrentTimeText.text = string.Format("{0}",DateTime.Now.ToString("HH:mm"));
         }
         
     }
