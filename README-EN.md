@@ -40,7 +40,7 @@ It's hard to say for the following reasons:
 
 1. Attack of DMM: we were ordered to shut down by DMM because we couldn't survive the Kantai collection and customs service
 2. Abandonment of developers: if there is no more maintenance, the project may not go far
-**3. Attack of "just people": I am very disgusted with some "just people". I think I am self righteous. I don't know what this is. I start to spray it as soon as I see what games / other resources are like (although this project is modeled on the Kantai Collection). You can talk about it, but please don't release words such as "this is the pirated Kantai collection" and "what qualifications do you have to imitate the Kantai collection", If you find it, delete the library immediately and do not cue**
+**3. Attack of "troll": I am very disgusted with some "troll". I think I am self righteous. I don't know what this is. I start to spray it as soon as I see what games / other resources are like (although this project is modeled on the Kantai Collection). You can talk about it, but please don't release words such as "this is the pirated Kantai collection" and "what qualifications do you have to imitate the Kantai collection", If you find it, delete the library immediately and do not cue**
 
 ## I want to participate in the production of this project ⚒️
 
@@ -61,13 +61,13 @@ But after all, it's made for love, so we will still make it under pressure (but 
 
 ## Phase I development plan of the project 🗒️
 
-*[x] login screen restore
-*[x] load interface restore
-*[x] home port interface restoration (no interactive function)
-*[] compile interface restore
-*[] resupply interface restore
-*[] build interface restore
-*[] refit interface restore
+* [x] login screen restore
+* [x] load interface restore
+* [x] home port interface restoration (no interactive function)
+* [ ] compile interface restore
+* [ ] resupply interface restore
+* [ ] build interface restore
+* [ ] refit interface restore
 
 ## Egg list 🎈
 1. Pressing n in the main interface may cause unexpected things to happen qwq
