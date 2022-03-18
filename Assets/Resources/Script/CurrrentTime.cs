@@ -7,10 +7,6 @@ using System;
 public class CurrrentTime : MonoBehaviour
 {
     private Text CurrrentTimeText;
-    private int hour;
-    private int minute;
-    private int month;
-    private int day;
 
     [Header("是否是显示月/日")]
     public bool isday;
