@@ -24,6 +24,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -835,6 +836,42 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      port_option_79: -6318342459943640209
+      port_option_94: 7921636235796877328
+      port_option_92: 1552372780900809895
+      port_option_11: -5138553095739878161
+      port_option_5: -3863888771742527032
+      port_option_2: -7267563389523001346
+      port_option_54: -7091929726630599
+      port_option_88: -2483721399279337276
+      port_option_23: -2207011982864891717
+      port_option_3: 4353016993068525708
+      port_option_43: 3128200651578057606
+      port_option_4: -5447366584098268671
+      port_option_8: 3428021524562830918
+      port_option_90: -5882730275620554671
+      port_option_20: 5112254401080005595
+      port_option_1: 5875457617111111565
+      port_option_50: -3896507261033262007
+      port_option_24: -8531292853172587109
+      port_option_22: 5136897245924517803
+      port_option_29: -3797823976698375903
+      port_option_61: 5291432416237141481
+      port_option_67: -6036912645571152450
+      port_option_81: 1555287721474052214
+      port_option_44: -7660515331292223638
+      port_option_66: 6240750735918517629
+      port_option_21: 7830078584185688280
+      port_option_45: -7656037730615677391
+      port_option_96: 4963022372059817542
+      port_option_46: -2972744164840843226
+      port_option_97: 6501608688844145080
+      port_option_0: -282915907946671158
+      port_option_73: -5324669573945416143
+      port_option_95: -5047754669958750156
+      port_option_35: -3351686750892844911
+      port_option_100: -6402373792902447334
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

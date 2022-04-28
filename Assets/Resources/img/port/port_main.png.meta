@@ -90,6 +90,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -640,6 +641,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      port_main_13: -4547094083025921981
+      port_main_19: 5973294378035900183
+      port_main_10: -5597587297526059288
+      port_main_11: 7434311275709111677
+      port_main_3: 3179307901273308695
+      port_main_14: -6872207302552414870
+      port_main_5: 6627325867671006280
+      port_main_9: 4379705412014193111
+      port_main_2: -6638876041299933798
+      port_main_15: 6575811659328874908
+      port_main_17: 732034665910459572
+      port_main_0: -1107311868893697360
+      port_main_21: -8784332920444140404
+      port_main_8: 2733731509967833534
+      port_main_7: -6889574474042092241
+      port_main_4: 409442903267439168
+      port_main_18: -8681876939677680554
+      port_main_16: 8207182832354936960
+      port_main_12: 4096344157896630106
+      port_main_20: -120403090417457645
+      port_main_1: 5553171943014015703
+      port_main_6: 1740128604620012106
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

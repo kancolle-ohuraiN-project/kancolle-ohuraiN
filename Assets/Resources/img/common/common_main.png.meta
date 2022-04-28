@@ -243,6 +243,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1864,6 +1865,80 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      common_main_59: -6253667424697085235
+      common_main_10: -1095092116681680237
+      common_main_67: 3376258927958575366
+      common_main_31: -8214520736168868278
+      common_main_55: -6324427757074136534
+      common_main_36: -2504335429412826505
+      common_main_24: -8182645476903420801
+      common_main_69: 13704824464286219
+      common_main_3: -1907612653288928031
+      common_main_17: -9045791745548095794
+      common_main_16: -7076529822972038577
+      common_main_37: 9003324861388459635
+      common_main_9: 947680426574864437
+      common_main_12: -2727431966725192626
+      common_main_13: 8340511454967155537
+      common_main_56: 2812079444023452251
+      common_main_61: -6497493688111342388
+      common_main_5: 2804853949995370200
+      common_main_50: 6231504813747796079
+      common_main_39: 6891106121700598494
+      common_main_40: -5370676476209395825
+      common_main_34: 4935752933719655827
+      common_main_35: 1580917583954965575
+      common_main_66: -2270954414390111226
+      common_main_33: -475465758794908880
+      common_main_19: -5421560573208863743
+      common_main_6: -7200546144750459001
+      common_main_22: -6606763537076432798
+      common_main_23: 2515736438548068301
+      common_main_38: 2828669267643934793
+      common_main_64: -7780463723196419800
+      common_main_20: 5677906671032520178
+      common_main_53: 4060296972629943089
+      common_main_30: 8892699790735392184
+      common_main_73: 2083197333059557433
+      common_main_45: -1643733184302554138
+      common_main_54: 1885239761295887594
+      common_main_63: 2021154487417178641
+      common_main_52: 8671014220150683739
+      common_main_25: -3789349061449534847
+      common_main_72: -8729514094704475889
+      common_main_42: -5090546183502458301
+      common_main_68: 2336564527195748798
+      common_main_46: 4061758177436812882
+      common_main_48: 8455606522807056030
+      common_main_28: -5257013976311435169
+      common_main_41: -5892925464309216252
+      common_main_4: -8099767035218748417
+      common_main_2: 1264993633766047900
+      common_main_27: -3138404817495179982
+      common_main_60: 8515575805119073546
+      common_main_29: -1873374916652902955
+      common_main_71: -3148026010035910838
+      common_main_43: 3490964465036692283
+      common_main_51: -3890745935057676265
+      common_main_14: -7941818965909120786
+      common_main_58: -7145492433676019050
+      common_main_18: 8089925777704649400
+      common_main_7: -7609148572550241967
+      common_main_8: -5103371306059615479
+      common_main_44: -2657783953311161431
+      common_main_32: 3873450313269857489
+      common_main_1: 8448236274594986175
+      common_main_21: -8924268744434630964
+      common_main_62: 6617846501300709849
+      common_main_47: 6778587295531988023
+      common_main_11: -1879444816629497226
+      common_main_49: 6179870094137856933
+      common_main_15: 2868877578486184462
+      common_main_26: 6466493638196914285
+      common_main_65: -2821217179051350837
+      common_main_57: 2903874546856081749
+      common_main_70: 4283310974985819104
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

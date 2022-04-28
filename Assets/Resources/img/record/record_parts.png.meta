@@ -252,6 +252,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1285,6 +1286,52 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      record_parts_50: 3429861483017826042
+      record_parts_53: -6549850761245666807
+      record_parts_54: -7560665470697050616
+      record_parts_74: -3399512163721364693
+      record_parts_69: -8730668642520509773
+      record_parts_56: -6304189785794296927
+      record_parts_75: 2464309754018520347
+      record_parts_82: 987974463422622576
+      record_parts_81: -6207501653299605710
+      record_parts_67: 3882510971046005165
+      record_parts_2: -4270059468815185602
+      record_parts_0: -427098196125345493
+      record_parts_84: -6727069504829267154
+      record_parts_85: 1074465539381712231
+      record_parts_49: -5338519012168410802
+      record_parts_48: 4781498681422516121
+      record_parts_71: -8230791697759624993
+      record_parts_63: 9207289987814080366
+      record_parts_61: -4735370428296071807
+      record_parts_86: 8461637221365600436
+      record_parts_76: -5073371488760394025
+      record_parts_57: 4154965381839703846
+      record_parts_77: 608688209261052388
+      record_parts_52: -281292824997848893
+      record_parts_80: -1136426871555435122
+      record_parts_14: 7608663410754044442
+      record_parts_70: -2683522474932800225
+      record_parts_60: -5436495861097360396
+      record_parts_47: 2156107298570385717
+      record_parts_36: 1219893037248050429
+      record_parts_59: 651737041716178211
+      record_parts_62: -1340652511604753498
+      record_parts_64: 2948039482250176672
+      record_parts_44: -7548108255585529743
+      record_parts_79: -5380806040528510071
+      record_parts_83: -7769510803525984869
+      record_parts_73: 1263641112257945879
+      record_parts_72: -5825381481255973085
+      record_parts_66: -1443650481642277066
+      record_parts_78: 8609343139776108155
+      record_parts_58: -4967546029755421654
+      record_parts_1: 9155573292903185678
+      record_parts_3: 6806775896219405780
+      record_parts_55: -4405277591819979373
+      record_parts_51: 545455241402264955
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

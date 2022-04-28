@@ -24,6 +24,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -364,6 +365,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      record_airbase_maint_9: 8469220645467960988
+      record_airbase_maint_10: 6284474272583586438
+      record_airbase_maint_3: 7149894233688091230
+      record_airbase_maint_8: -5410102303289655026
+      record_airbase_maint_15: -6031403374154543363
+      record_airbase_maint_4: -4848155569274163469
+      record_airbase_maint_0: 8557562959324549920
+      record_airbase_maint_2: 4960889100337466685
+      record_airbase_maint_13: 8209897448688231556
+      record_airbase_maint_11: 5095752080585418666
+      record_airbase_maint_5: -3695898837216814602
+      record_airbase_maint_1: -2294935355148919611
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

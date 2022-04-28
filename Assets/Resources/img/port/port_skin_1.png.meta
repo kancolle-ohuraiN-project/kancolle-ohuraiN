@@ -168,6 +168,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1222,6 +1223,53 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      port_skin_1_47: 7831022228861584908
+      port_skin_1_8: -6850606705937011467
+      port_skin_1_0: 2204838454371517437
+      port_skin_1_59: 5475203901954792250
+      port_skin_1_2: -8313433063812889912
+      port_skin_1_10: 4576780328185953757
+      port_skin_1_44: 136937252354653300
+      port_skin_1_9: 5191514636555631686
+      port_skin_1_49: -5270078076778576814
+      port_skin_1_43: 3615889688056269502
+      port_skin_1_27: -3540939633255093931
+      port_skin_1_42: -9057165112567932810
+      port_skin_1_35: -983539639252133075
+      port_skin_1_38: 4128327039483405287
+      port_skin_1_3: -8229320338081843113
+      port_skin_1_6: -3977026232100939781
+      port_skin_1_45: 6022373684180899607
+      port_skin_1_40: 1963765110539489721
+      port_skin_1_34: -6401244313348813960
+      port_skin_1_46: -5280582806628431571
+      port_skin_1_58: -7449141075187907728
+      port_skin_1_41: -1574788009988224559
+      port_skin_1_12: -9221254101156774863
+      port_skin_1_55: 467507339178872019
+      port_skin_1_53: 5119234639701534127
+      port_skin_1_5: -4828655579732665192
+      port_skin_1_20: 7203751071857311590
+      port_skin_1_51: 8290024678912208752
+      port_skin_1_4: 8929335084427720498
+      port_skin_1_56: -3022119101517776136
+      port_skin_1_48: 1349974930670237714
+      port_skin_1_26: -7876017849487325327
+      port_skin_1_61: 175341953253106341
+      port_skin_1_11: 681693936954434972
+      port_skin_1_36: 1418474098669955141
+      port_skin_1_54: 3939171571478176233
+      port_skin_1_60: -8237748372621115742
+      port_skin_1_39: 2238474109158283926
+      port_skin_1_57: -624150720758190120
+      port_skin_1_52: -3240814706478765857
+      port_skin_1_50: -6118935453159967347
+      port_skin_1_62: -7055982499537536516
+      port_skin_1_1: 1185052105058528779
+      port_skin_1_37: -5965791508237761190
+      port_skin_1_7: 5001831441835160951
+      port_skin_1_30: 4763434315223572614
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

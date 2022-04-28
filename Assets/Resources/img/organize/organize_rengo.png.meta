@@ -24,6 +24,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -625,6 +626,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      organize_rengo_170: 5066422059177381818
+      organize_rengo_95: 1214823877584501626
+      organize_rengo_67: 636271794143815077
+      organize_rengo_171: 6728412814172666463
+      organize_rengo_13: 5588392086561486693
+      organize_rengo_173: -4733557273682233442
+      organize_rengo_3: -4168827469766941086
+      organize_rengo_166: 8694870698674288035
+      organize_rengo_5: 2846939643947718629
+      organize_rengo_44: 9205972879514089185
+      organize_rengo_1: -5092412052510521034
+      organize_rengo_172: -7293621694060490817
+      organize_rengo_47: 3782306016071238547
+      organize_rengo_168: -2920228129708135540
+      organize_rengo_123: 5336312421587462909
+      organize_rengo_4: 8942367775062831962
+      organize_rengo_2: 4871413958060395557
+      organize_rengo_46: 8459458263639718584
+      organize_rengo_0: 1597503812731221112
+      organize_rengo_7: 4620792733841516009
+      organize_rengo_167: 9119257260099481833
+      organize_rengo_45: -7586710891331361637
+      organize_rengo_6: 2555859759954871214
+      organize_rengo_169: -5081081423374005088
+      organize_rengo_10: -4589950748863954648
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
