@@ -12,6 +12,8 @@ Kantai collection unofficial offline version (using web resources and logic, not
 
 **Because the English of the main developer is not very good (native language is Chinese), there may be translation / syntax errors in many places in this readme. Please forgive me!**
 
+You can discuss and view development announcements and other information at [here](https://github.com/offline-colle/kancolle-offline/discussions)
+
 ## What is this? 🤔
 
 This project is an **open source offline version** made to prevent the Kantai collection from being unable to play due to the sudden **suspension of service**
