@@ -2,6 +2,8 @@
 
 **并且！请您不要破坏游戏内代码，如制作破解版并分发（就算自己没改，然后自行构建分发）我们并不支持，如果出现此类事情后我们会立即关闭此仓库！**
 
+您可以在[此处](https://github.com/offline-colle/kancolle-offline/discussions)讨论与浏览开发公告等信息
+
 # kancolle-offline
 
 
