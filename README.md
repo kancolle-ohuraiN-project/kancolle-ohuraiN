@@ -4,6 +4,14 @@
 
 您可以在[此处](https://github.com/offline-colle/kancolle-offline/discussions)讨论与浏览开发公告等信息
 
+因为开发重心不在这边，所以开发周期会非常的长，主要是要做[这款同人游戏](https://github.com/sakura-society/houbun-fantasia)www
+
+联系方式：
+
+<p align="center">
+  <a href="https://discord.gg/D3yk8VGGck" target="_blank"><img src="https://img.shields.io/badge/Discord-5c6aff.svg?&style=flat-square&logo=Discord&logoColor=white" alt="Outlook"></a>
+</p>
+
 # kancolle-offline
 
 
