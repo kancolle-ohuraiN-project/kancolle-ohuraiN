@@ -6,33 +6,62 @@ using UnityEngine.SceneManagement;
 
 public class VerCheck : MonoBehaviour
 {
-    [Header("版本文件链接")]
-    public string VerUrl;
+  [Header("版本文件链接")]
+  public string VerUrl;
 
-    [Header("跳转到的场景名称")]
-    public string ToSence;
+  [Header("跳转到的场景名称")]
+  public string ToSence;
 
-    void Start()
+  [Header("获取错误后跳转到的场景名称")]
+  public string errorToSence;
+
+  void Start()
+  {
+    Debug.Log("Start to get Ver info");
+    StartCoroutine(Get());
+  }
+
+  IEnumerator Get()
+  {
+    UnityWebRequest webRequest = UnityWebRequest.Get(VerUrl);
+
+    yield return webRequest.SendWebRequest();
+    //异常处理
+    if (webRequest.result == UnityWebRequest.Result.Success)
     {
-        StartCoroutine(Get());
-    }
-
-    IEnumerator Get()
-    {
-        UnityWebRequest webRequest = UnityWebRequest.Get(VerUrl);
-
-        yield return webRequest.SendWebRequest();
-        //异常处理
-        if (webRequest.result == UnityWebRequest.Result.ConnectionError)
+      if (webRequest.error == null)
+      {
+        string serverVer = webRequest.downloadHandler.text;
+        string clientVer = Application.version;
+        Debug.Log("Version of the runtime: " + serverVer);
+        Debug.Log("Server Get version: " + clientVer);
+        if (serverVer == clientVer)
         {
-            Debug.Log(webRequest.error);
-            SceneManager.LoadScene("error");
+          //防止获取过快导致语音没播放完毕就直接跳转
+          Invoke("toscene", 5);
         }
         else
         {
-            SceneManager.LoadScene(ToSence);
+          Debug.LogError("Version mismatch: server:" + serverVer + "|client:" + clientVer);
+          SceneManager.LoadScene(errorToSence);
         }
+      }
+      else
+      {
+        Debug.LogWarning("Success to get but have some problem: " + webRequest.error);
+        Invoke("toscene", 5);
+      }
     }
-    // Update is called once per frame
-    //void Update() { }
+    else
+    {
+      Debug.LogError("Get ver fail: " + webRequest.error);
+      SceneManager.LoadScene(errorToSence);
+    }
+  }
+  public void toscene()
+  {
+    SceneManager.LoadScene(ToSence);
+  }
+  // Update is called once per frame
+  //void Update() { }
 }
