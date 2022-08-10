@@ -8,7 +8,7 @@ public class settingAnimation : MonoBehaviour
   public GameObject BG;
   public Animator B_Animator;
 	[Header("是否已经打开")]
-	public int isopen = 0;
+	public bool isOpen;
 	Animator m_Animator;
 	void Start() 
 	{
@@ -19,18 +19,18 @@ public class settingAnimation : MonoBehaviour
 	}
 	public void OnClick()
 	{
-		if(isopen == 0) 
+		if(isOpen == false) 
 		{
       m_Animator.SetBool("isclose", false);
       B_Animator.SetBool("isclose", false);
 			gaminitor.GetComponent<Animator>().enabled = true;
       BG.GetComponent<Animator>().enabled = true;
-			isopen = 1;
+			isOpen = true;
 		} else 
 		{
       m_Animator.SetBool("isclose", true);
       B_Animator.SetBool("isclose", true);
-			isopen = 0;
+			isOpen = false;
 		}
 	}
 }

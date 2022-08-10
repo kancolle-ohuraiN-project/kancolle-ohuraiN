@@ -4,6 +4,15 @@ using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
 
+//证书验证问题修复
+public class CertHandler : CertificateHandler
+{
+    protected override bool ValidateCertificate(byte[] certificateData)
+    {
+        return true;
+    }
+}
+
 public class VerCheck : MonoBehaviour
 {
   [Header("版本文件链接")]
@@ -24,6 +33,7 @@ public class VerCheck : MonoBehaviour
   IEnumerator Get()
   {
     UnityWebRequest webRequest = UnityWebRequest.Get(VerUrl);
+    webRequest.certificateHandler = new CertHandler();
 
     yield return webRequest.SendWebRequest();
     //异常处理
@@ -33,6 +43,7 @@ public class VerCheck : MonoBehaviour
       {
         string serverVer = webRequest.downloadHandler.text;
         string clientVer = Application.version;
+        serverVer = serverVer.Replace("\n","");
         Debug.Log("Version of the runtime: " + serverVer);
         Debug.Log("Server Get version: " + clientVer);
         if (serverVer == clientVer)
