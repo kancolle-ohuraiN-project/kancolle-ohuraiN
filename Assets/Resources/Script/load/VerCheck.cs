@@ -53,18 +53,21 @@ public class VerCheck : MonoBehaviour
         }
         else
         {
+          //因为客户端与服务端(github)中的版本信息不同，以确保bug修复所跳猫
           Debug.LogError("Version mismatch: server:" + serverVer + "|client:" + clientVer);
           SceneManager.LoadScene(errorToSence);
         }
       }
       else
       {
+        //因为服务端无法进行通讯所以只进行警告，不跳猫
         Debug.LogWarning("Success to get but have some problem: " + webRequest.error);
         Invoke("toscene", 5);
       }
     }
     else
     {
+      //获取版本信息失败，直接跳猫
       Debug.LogError("Get ver fail: " + webRequest.error);
       SceneManager.LoadScene(errorToSence);
     }
