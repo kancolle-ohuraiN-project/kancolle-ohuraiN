@@ -40,3 +40,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+UpgradeLog.htm

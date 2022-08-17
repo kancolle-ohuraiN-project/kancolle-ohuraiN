@@ -18,7 +18,7 @@ public class Transition_control : MonoBehaviour
   {
     startUI.SetActive(false);
     endUI.SetActive(true);
-    Invoke("TransitionControl2", 0.5f);
+    Invoke("TransitionControl2", 1f);
   }
   public void TransitionControl2()
   {
