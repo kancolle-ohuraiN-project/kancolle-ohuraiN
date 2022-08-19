@@ -12,7 +12,7 @@
   <a href="https://discord.gg/D3yk8VGGck" target="_blank"><img src="https://img.shields.io/badge/Discord-5c6aff.svg?&style=flat-square&logo=Discord&logoColor=white" alt="Outlook"></a>
 </p>
 
-# kancolle-offline
+# kancolle-ohuraiN
 
 
 
@@ -26,6 +26,10 @@
 ---
 
 [English](./README-EN.md) | **简体中文** | [projects查看](https://github.com/orgs/offline-colle/projects/1)
+
+## 注意❗
+
+此仓库原名为**kancolle-offline**,但是因为logo已经换成了"离"所以将后面的offline换成了**ohuraiN（罗马音中的离线）**
 
 ## 这是什么？🤔
 
