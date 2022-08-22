@@ -12,6 +12,8 @@
   <a href="https://discord.gg/D3yk8VGGck" target="_blank"><img src="https://img.shields.io/badge/Discord-5c6aff.svg?&style=flat-square&logo=Discord&logoColor=white" alt="Outlook"></a>
 </p>
 
+**注意！此仓库已经暂停开发！**
+
 # kancolle-ohuraiN
 
 
