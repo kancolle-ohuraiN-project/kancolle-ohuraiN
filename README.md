@@ -12,7 +12,7 @@
   <a href="https://discord.gg/D3yk8VGGck" target="_blank"><img src="https://img.shields.io/badge/Discord-5c6aff.svg?&style=flat-square&logo=Discord&logoColor=white" alt="Outlook"></a>
 </p>
 
-**注意！此仓库已经暂停开发！**
+**注意！此仓库已经暂停GitHub开发！我们可能会在明年初进行内部仓库与GitHub仓库合并！**
 
 # kancolle-ohuraiN
 
