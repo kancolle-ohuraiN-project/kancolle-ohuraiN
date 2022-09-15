@@ -6,12 +6,6 @@
 
 因为开发重心不在这边，所以开发周期会非常的长，主要是要做[这款同人游戏](https://github.com/sakura-society/houbun-fantasia)www
 
-联系方式：
-
-<p align="center">
-  <a href="https://discord.gg/D3yk8VGGck" target="_blank"><img src="https://img.shields.io/badge/Discord-5c6aff.svg?&style=flat-square&logo=Discord&logoColor=white" alt="Outlook"></a>
-</p>
-
 **注意！此仓库已经暂停GitHub开发！我们可能会在明年初进行内部仓库与GitHub仓库合并！**
 
 # kancolle-ohuraiN
