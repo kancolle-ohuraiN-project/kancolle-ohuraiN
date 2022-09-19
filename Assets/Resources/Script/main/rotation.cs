@@ -1,9 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class rotation : MonoBehaviour
 {
+    //Todo：根据场景进行替换图片
     [Header("每次旋转角度")]
     public int rotation_angle = 0;
 
@@ -13,10 +12,10 @@ public class rotation : MonoBehaviour
     public float i = 0;
 
     // Start is called before the first frame update
-    void Start() { }
+    //void Start() { }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
         if (i >= 1)
         {

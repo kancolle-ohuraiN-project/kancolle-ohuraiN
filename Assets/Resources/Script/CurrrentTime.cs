@@ -1,8 +1,7 @@
+using System;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using System;
 
 public class CurrrentTime : MonoBehaviour
 {
@@ -10,20 +9,27 @@ public class CurrrentTime : MonoBehaviour
 
     [Header("是否是显示月/日")]
     public bool isday;
+
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
         CurrrentTimeText = GetComponent<Text>();
+        //使用协程来进行监听，防止浪费资源
+        StartCoroutine(Time());
     }
 
     // Update is called once per frame
-    void Update()
+    private IEnumerator Time()
     {
-        if(isday == true){
-          CurrrentTimeText.text = string.Format("{0}",DateTime.Now.ToString("MM/dd"));
-        }else{
-          CurrrentTimeText.text = string.Format("{0}",DateTime.Now.ToString("HH:mm"));
+        if (isday == true)
+        {
+            CurrrentTimeText.text = string.Format("{0}", DateTime.Now.ToString("MM/dd"));
         }
-        
+        else
+        {
+            CurrrentTimeText.text = string.Format("{0}", DateTime.Now.ToString("HH:mm"));
+        }
+        //每30秒检测一次
+        yield return new WaitForSeconds(30f);
     }
 }

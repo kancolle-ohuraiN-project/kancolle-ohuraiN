@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class NotificationAnimation : MonoBehaviour
@@ -9,9 +7,10 @@ public class NotificationAnimation : MonoBehaviour
 
     [Header("是否已经打开")]
     public int isopen = 0;
-    Animator m_Animator;
 
-    void Start()
+    private Animator m_Animator;
+
+    private void Start()
     {
         m_Animator = gameObject.GetComponent<Animator>();
         m_Animator.SetBool("isclose", false);
@@ -19,6 +18,7 @@ public class NotificationAnimation : MonoBehaviour
 
     public void OnClick()
     {
+        //控制是否播放开/关动画
         if (isopen == 0)
         {
             gaminitor.GetComponent<Animator>().enabled = false;

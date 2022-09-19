@@ -1,9 +1,9 @@
 using System.Collections;
-using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
-using TMPro;
+
 //证书验证问题修复
 public class CertHandler : CertificateHandler
 {
@@ -12,29 +12,44 @@ public class CertHandler : CertificateHandler
         return true;
     }
 }
+
 public class VerCheck : MonoBehaviour
 {
     [Header("版本文件链接")]
     public string VerUrl;
+
     [Header("跳转到的场景名称")]
     public string ToSence;
+
     [Header("获取错误后跳转到的场景名称")]
     public string errorToSence;
+
     [Header("相关版本信息打印显示的控件")]
     public GameObject VerText;
-    void Start()
+
+    private void Start()
     {
         Debug.Log("Start to get Ver info");
         //判断客户端是否联网
         if (Application.internetReachability == NetworkReachability.NotReachable)
         {
             Debug.LogError("Not Ine");
-            SendErrMsg.Instance.param = 1.2;
+            SendErrMsg.Instance.param = "1.2";
             SceneManager.LoadScene(errorToSence);
         }
         StartCoroutine(Get());
+        //顺便检测存档是否丢失
+        if(PlayerPrefs.GetInt("IsSaved") == 1)
+        {
+            if (!DataPersistenceManager.instance.hasGameData())
+            {
+                SendErrMsg.Instance.param = "3.1";
+                SceneManager.LoadScene(errorToSence);
+            }
+        }
     }
-    IEnumerator Get()
+
+    private IEnumerator Get()
     {
         UnityWebRequest webRequest = UnityWebRequest.Get(VerUrl);
         webRequest.certificateHandler = new CertHandler();
@@ -42,7 +57,7 @@ public class VerCheck : MonoBehaviour
         //防止客户端版本获取失败
         if (clientVer == null)
         {
-            SendErrMsg.Instance.param = 2.1;
+            SendErrMsg.Instance.param = "2.1";
             SceneManager.LoadScene(errorToSence);
         }
         //将版本信息打印到屏幕
@@ -68,7 +83,7 @@ public class VerCheck : MonoBehaviour
                     //因为客户端与服务端(github)中的版本信息不同，以确保bug修复所跳猫
                     Debug.LogError("Version mismatch: server:" + serverVer + "|client:" + clientVer);
                     //设置错误问题传参到error场景
-                    SendErrMsg.Instance.param = 2.2;
+                    SendErrMsg.Instance.param = "2.2";
                     SceneManager.LoadScene(errorToSence);
                 }
             }
@@ -76,7 +91,7 @@ public class VerCheck : MonoBehaviour
             {
                 //因为服务端无法进行通讯所以只进行警告，但跳猫
                 Debug.LogWarning("Success to get but have some problem: " + webRequest.error);
-                SendErrMsg.Instance.param = 1.1;
+                SendErrMsg.Instance.param = "1.1";
                 SceneManager.LoadScene(errorToSence);
             }
         }
@@ -87,10 +102,12 @@ public class VerCheck : MonoBehaviour
             SceneManager.LoadScene(errorToSence);
         }
     }
+
     public void toscene()
     {
         SceneManager.LoadScene(ToSence);
     }
+
     // Update is called once per frame
     //void Update() { }
 }

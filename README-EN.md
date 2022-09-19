@@ -6,9 +6,6 @@
 Kantai collection unofficial offline version (using web resources and logic, not touching PSV version)
 </p>
 
-
-**Attention! This repository has been suspended from GitHub development! We may be doing an internal repository merge with the GitHub repository early next year!**
-
 ---
 
 **English** | [简体中文](./README.md) | [projects view](https://github.com/orgs/offline-colle/projects/1)

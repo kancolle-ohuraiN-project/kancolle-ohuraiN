@@ -6,7 +6,11 @@
 
 因为开发重心不在这边，所以开发周期会非常的长，主要是要做[这款同人游戏](https://github.com/sakura-society/houbun-fantasia)www
 
-**注意！此仓库已经暂停GitHub开发！我们可能会在明年初进行内部仓库与GitHub仓库合并！**
+联系方式：
+
+<p align="center">
+  <a href="https://discord.gg/D3yk8VGGck" target="_blank"><img src="https://img.shields.io/badge/Discord-5c6aff.svg?&style=flat-square&logo=Discord&logoColor=white" alt="Outlook"></a>
+</p>
 
 # kancolle-ohuraiN
 
@@ -33,7 +37,7 @@
 
 > 契机是NGA社区的这篇帖子：[有没有大佬考虑过关服以后，把舰C做成单机？](https://bbs.nga.cn/read.php?tid=22543276&_ff=-7202235 "点击跳转NGA")
 
-此仓库使用**unity2021.3.1f1c1**制作
+此仓库使用[**unity2022.1.13f1**](http://8r5.cn/SnCqh)制作
 
 所有资源文件来源于**舰队收藏网页版**
 
