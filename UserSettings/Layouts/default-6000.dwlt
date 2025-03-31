@@ -398,27 +398,28 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 891
-      height: 416
-    m_Scale: {x: 0.19259259, y: 0.19259259}
-    m_Translation: {x: 445.5, y: 208}
+      height: 408
+    m_Scale: {x: 0.18888889, y: 0.18888889}
+    m_Translation: {x: 445.5, y: 204}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -2313.173
+      x: -2358.5293
       y: -1080
-      width: 4626.346
+      width: 4717.0586
       height: 2160
     m_MinimalGUI: 1
-  m_defaultScale: 0.19259259
-  m_LastWindowPixelSize: {x: 891, y: 437}
+  m_defaultScale: 0.18888889
+  m_LastWindowPixelSize: {x: 891, y: 429}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
+  m_showToolbar: 1
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -916,7 +917,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 516.4221, y: 287.25107, z: -11.927542}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -968,7 +969,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 10
     speed: 2
-    m_Value: 313.21582
+    m_Value: 10
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -997,7 +998,10 @@ MonoBehaviour:
   m_ReplacementString: 
   m_SceneVisActive: 1
   m_LastLockedObject: {fileID: 0}
-  m_LastDebugDrawMode: 35
+  m_LastDebugDrawMode:
+    drawMode: 35
+    name: 
+    section: 
   m_ViewIsLockedToObject: 0
 --- !u!114 &15
 MonoBehaviour:
